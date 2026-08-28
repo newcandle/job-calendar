@@ -47,17 +47,44 @@
     box-shadow: 1px 1px 0px #18181b;
 }
 
-/* 네비게이션 버튼 활성화 스타일 */
-.nav-btn.active {
+/* 데스크톱 사이드바 네비게이션 버튼 활성화 스타일 */
+#sidebar-nav .nav-btn {
+    background-color: transparent;
+    color: #3f3f46;
+    border: 2px solid transparent;
+    box-shadow: none;
+    font-weight: 700;
+    transition: all 0.15s ease;
+}
+
+#sidebar-nav .nav-btn:hover {
+    background-color: #fafafa;
+    border-color: #18181b;
+}
+
+#sidebar-nav .nav-btn.active {
     background-color: #dc2626 !important;
     color: #ffffff !important;
     border: 2px solid #18181b !important;
     box-shadow: 3px 3px 0px #18181b !important;
-    font-weight: 800;
+    font-weight: 800 !important;
+}
+
+/* 모바일 하단 네비게이션 버튼 활성화 스타일 */
+.mobile-nav-btn {
+    color: #71717a;
+    transition: all 0.15s ease;
+}
+
+.mobile-nav-btn .nav-icon-box {
+    background-color: transparent;
+    border: 2px solid transparent;
+    transition: all 0.15s ease;
 }
 
 .mobile-nav-btn.active {
     color: #dc2626 !important;
+    font-weight: 900 !important;
 }
 
 .mobile-nav-btn.active .nav-icon-box {

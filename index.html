@@ -54,7 +54,7 @@
             
             <!-- 내비게이션 메뉴 -->
             <nav class="px-4 space-y-2.5 mt-6" id="sidebar-nav">
-                <button class="nav-btn w-full flex items-center p-3 text-white bg-red-600 font-extrabold rounded-xl border-2 border-zinc-900 shadow-[3px_3px_0px_#18181b] active cursor-pointer" data-target="view-calendar">
+                <button class="nav-btn w-full flex items-center p-3 text-zinc-700 font-bold rounded-xl border-2 border-transparent hover:border-zinc-900 hover:bg-zinc-50 transition-colors cursor-pointer active" data-target="view-calendar">
                     <span class="text-xl mr-3">📅</span> 캘린더 뷰
                 </button>
                 <button class="nav-btn w-full flex items-center p-3 text-zinc-700 font-bold rounded-xl border-2 border-transparent hover:border-zinc-900 hover:bg-zinc-50 transition-colors cursor-pointer" data-target="view-list">
@@ -83,19 +83,19 @@
 
     <!-- 📱 모바일 전용 하단 내비게이션 바 (md 미만 화면) -->
     <nav class="md:hidden fixed bottom-0 left-0 right-0 z-50 bg-white border-t-2 border-zinc-900 flex justify-around py-2 px-1 shadow-[0_-4px_12px_rgba(0,0,0,0.06)]" id="mobile-nav">
-        <button class="mobile-nav-btn nav-btn flex flex-col items-center p-1 text-zinc-600 text-xs font-bold active" data-target="view-calendar">
+        <button class="mobile-nav-btn flex flex-col items-center p-1 text-zinc-600 text-xs font-bold active cursor-pointer" data-target="view-calendar">
             <span class="nav-icon-box w-8 h-8 rounded-lg flex items-center justify-center text-lg mb-0.5">📅</span>
             <span>캘린더</span>
         </button>
-        <button class="mobile-nav-btn nav-btn flex flex-col items-center p-1 text-zinc-600 text-xs font-bold" data-target="view-list">
+        <button class="mobile-nav-btn flex flex-col items-center p-1 text-zinc-600 text-xs font-bold cursor-pointer" data-target="view-list">
             <span class="nav-icon-box w-8 h-8 rounded-lg flex items-center justify-center text-lg mb-0.5">📋</span>
             <span>공고목록</span>
         </button>
-        <button class="mobile-nav-btn nav-btn flex flex-col items-center p-1 text-zinc-600 text-xs font-bold" data-target="view-add">
-            <span class="nav-icon-box w-8 h-8 rounded-lg bg-red-600 text-white flex items-center justify-center text-lg mb-0.5 border-2 border-zinc-900 shadow-[1.5px_1.5px_0px_#000]">➕</span>
-            <span class="text-red-600 font-extrabold">공고추가</span>
+        <button class="mobile-nav-btn flex flex-col items-center p-1 text-zinc-600 text-xs font-bold cursor-pointer" data-target="view-add">
+            <span class="nav-icon-box w-8 h-8 rounded-lg flex items-center justify-center text-lg mb-0.5">➕</span>
+            <span>공고추가</span>
         </button>
-        <button class="mobile-nav-btn nav-btn flex flex-col items-center p-1 text-zinc-600 text-xs font-bold" data-target="view-settings">
+        <button class="mobile-nav-btn flex flex-col items-center p-1 text-zinc-600 text-xs font-bold cursor-pointer" data-target="view-settings">
             <span class="nav-icon-box w-8 h-8 rounded-lg flex items-center justify-center text-lg mb-0.5">⚙️</span>
             <span>설정</span>
         </button>
@@ -128,7 +128,7 @@
         <section id="view-list" class="view-section hidden h-full flex flex-col">
             <div class="flex justify-between items-center mb-4">
                 <h2 class="text-xl md:text-2xl font-black text-zinc-900 tracking-tight">등록된 공고 리스트</h2>
-                <button class="nav-btn px-3 py-1.5 bg-red-600 hover:bg-red-700 text-white font-extrabold text-xs rounded-lg comic-btn flex items-center gap-1 cursor-pointer" data-target="view-add">
+                <button class="btn-go-add px-3 py-1.5 bg-red-600 hover:bg-red-700 text-white font-extrabold text-xs rounded-lg comic-btn flex items-center gap-1 cursor-pointer" data-target="view-add">
                     <span>⚡ 새 공고 분석 추가</span>
                 </button>
             </div>

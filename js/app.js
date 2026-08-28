@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // --- 1. 상태 및 DOM 요소 초기화 ---
     let calendar;
     const views = document.querySelectorAll('.view-section');
-    const navBtns = document.querySelectorAll('.nav-btn');
+    const navBtns = document.querySelectorAll('#sidebar-nav .nav-btn, .mobile-nav-btn, .btn-go-add');
     
     // 캘린더 요소
     const calendarEl = document.getElementById('calendar');
@@ -34,7 +34,17 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         });
         
-        navBtns.forEach(btn => {
+        // 데스크톱 사이드바 활성화 갱신
+        document.querySelectorAll('#sidebar-nav .nav-btn').forEach(btn => {
+            if (btn.dataset.target === targetId) {
+                btn.classList.add('active');
+            } else {
+                btn.classList.remove('active');
+            }
+        });
+
+        // 모바일 하단바 활성화 갱신
+        document.querySelectorAll('.mobile-nav-btn').forEach(btn => {
             if (btn.dataset.target === targetId) {
                 btn.classList.add('active');
             } else {
@@ -57,7 +67,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
     navBtns.forEach(btn => {
         btn.addEventListener('click', () => {
-            switchView(btn.dataset.target);
+            if (btn.dataset.target) {
+                switchView(btn.dataset.target);
+            }
         });
     });
 
