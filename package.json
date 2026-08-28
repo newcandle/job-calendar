@@ -1,0 +1,23 @@
+{
+  "name": "job-calendar",
+  "version": "1.0.0",
+  "description": "취업 준비 캘린더 - 채용 공고 자동 파싱 및 일정 관리",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test/test-parsers.js && node test/test-server.js",
+    "test:parsers": "node test/test-parsers.js",
+    "test:server": "node test/test-server.js"
+  },
+  "keywords": [
+    "job-calendar",
+    "crawler",
+    "scraper"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}

@@ -1,0 +1,1076 @@
+<html style="overflow:visible" lang="ko"><head><meta charset="utf-8"><meta name="referrer" content="same-origin"><meta name="twitter:card" content="summary"><meta property="og:type" content="website"><meta property="og:locale" content="ko_KR"><meta property="og:site_name" content="링커리어"><meta name="keywords" content="대학생,대외활동,공모전,봉사활동,인턴 채용"><title>[토니모리] 유통/다이소팀 인턴 채용 | 공모전 대외활동-링커리어</title><meta name="robots" content="index,follow"><meta name="description" content=" [토니모리] 유통/다이소팀 인턴 채용합니다. 모집인원은 0명이며 서비스기획/운영, 시장조사/리서치 분야의 인재들은 지원해주세요!"><meta property="og:title" content="[토니모리] 유통/다이소팀 인턴 채용 | 공모전 대외활동-링커리어"><meta property="og:description" content=" [토니모리] 유통/다이소팀 인턴 채용합니다. 모집인원은 0명이며 서비스기획/운영, 시장조사/리서치 분야의 인재들은 지원해주세요!"><meta property="og:url" content="https://linkareer.com/activity/343824"><meta property="og:image" content="https://media-cdn.linkareer.com/activity_manager/logos/916955"><meta property="og:image:alt" content="https://linkareer.com/static/images/linkareer_170131.png"><meta property="og:image:secure_url" content="https://media-cdn.linkareer.com/activity_manager/logos/916955"><link rel="canonical" href="https://linkareer.com/activity/343824"><meta name="title" content="[토니모리] 유통/다이소팀 인턴 채용 | 공모전 대외활동-링커리어"><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, minimum-scale=1.0"><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-FTSNHJ1YC4&amp;cx=c&amp;gtm=4e68p1"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-436RXZVJRJ&amp;cx=c&amp;gtm=4e68p1"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-TR2FH9Z"></script><script type="application/ld+json">{"@context":"https://schema.org","@type":"JobPosting","title":"[토니모리] 유통/다이소팀 인턴 채용","datePosted":"2026-08-19T04:50:18.000Z","validThrough":"2026-09-18T14:59:59.999Z","employmentType":["INTERN"],"jobLocation":[{"@type":"Place","address":{"@type":"PostalAddress","postalCode":"06734","streetAddress":"남부순환로 2557","addressLocality":"서초구","addressRegion":"서울","addressCountry":"KR"}}],"hiringOrganization":{"@type":"Organization","name":"토니모리","sameAs":"https://tonymoly.com/","logo":"https://media-cdn.linkareer.com/activity_manager/logos/916955"},"description":"[토니모리] 유통/다이소팀 인턴 채용\n[지원자격]\n모집직무: 기획/경영,마케팅/광고,영업/CS\n근무지: 서울 서초구\n학력: 대졸\n경력: 신입\n고용형태: 인턴\n채용정보 상세 내용 및 즉시지원은 링커리어에서 가능합니다","educationRequirements":{"@type":"EducationalOccupationalCredential","credentialCategory":"bachelor degree"},"identifier":{"@type":"PropertyValue","propertyID":"사업자등록번호","value":"114-86-53270"},"image":{"@type":"ImageObject","contentUrl":"https://media-cdn.linkareer.com/activity_manager/logos/916955","caption":"[토니모리] 유통/다이소팀 인턴 채용"}}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://linkareer.com/list/recruit","name":"채용"}},{"@type":"ListItem","position":2,"item":{"@id":"https://linkareer.com/activity/343824","name":"[토니모리] 유통/다이소팀 인턴 채용"}}]}</script><meta name="next-head-count" content="21"><link rel="preconnect" href="https://s3.ap-northeast-2.amazonaws.com"><link rel="preload" href="/fonts/noto-sans-kr-v39-korean_latin-regular.woff2" as="font" type="font/woff2" crossorigin="anonymous"><link rel="preload" href="/fonts/noto-sans-kr-v39-korean_latin-500.woff2" as="font" type="font/woff2" crossorigin="anonymous"><link rel="preload" href="/fonts/noto-sans-kr-v39-korean_latin-600.woff2" as="font" type="font/woff2" crossorigin="anonymous"><link rel="preload" href="/fonts/noto-sans-kr-v39-korean_latin-700.woff2" as="font" type="font/woff2" crossorigin="anonymous"><meta property="fb:app_id" content="265463423907972"><meta property="fb:pages" content="1715100552083537"><meta http-equiv="Content-Type" content="text/html" charset="utf-8"><meta name="naver-site-verification" content="5a0d104cb70b38d8a76e32780f4a1b425684c75c"><meta name="google-site-verification" content="APF_pwdQc3r2bWeg4_i19kv1E7BWsE3vHCmrgUB2Ybw"><meta name="google-adsense-account" content="ca-pub-9278120555998089"><link rel="preconnect" href="https://pagead2.googlesyndication.com" crossorigin="anonymous"><link rel="preconnect" href="https://googleads.g.doubleclick.net" crossorigin="anonymous"><link rel="preconnect" href="https://tpc.googlesyndication.com" crossorigin="anonymous"><link rel="shortcut icon" type="image/x-icon" href="/images/favicon.ico"><link rel="apple-touch-icon" href="/images/ic-launcher-192.png"><link rel="apple-touch-startup-image" href="/images/splash/launch-640x960.png" media="(min-device-width: 320px) and (max-device-width: 414) and (orientation: portrait)"><link rel="apple-touch-startup-image" href="/images/splash/launch-1080x1920.png" media="(min-device-width: 415px) and (orientation: portrait)"><meta name="theme-color" content="#01A0FF"><link rel="manifest" href="/manifest.webmanifest" crossorigin="use-credentials"><link rel="preload" href="/_next/static/css/e36a6973aa7dec00.css" as="style" crossorigin="anonymous"><link rel="stylesheet" href="/_next/static/css/e36a6973aa7dec00.css" crossorigin="anonymous" data-n-g=""><noscript data-n-css=""></noscript><script defer="" crossorigin="anonymous" nomodule="" src="/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js"></script><script defer="" src="/_next/static/chunks/4367.0ef8ecc3353b42ec.js" crossorigin="anonymous"></script><script src="/_next/static/chunks/webpack-002702d0df80d39f.js" defer="" crossorigin="anonymous"></script><script src="/_next/static/chunks/framework-7bf42b72c98021d4.js" defer="" crossorigin="anonymous"></script><script src="/_next/static/chunks/main-4948f97779983a83.js" defer="" crossorigin="anonymous"></script><script src="/_next/static/chunks/pages/_app-396b51f3da1b7e7e.js" defer="" crossorigin="anonymous"></script><script src="/_next/static/chunks/2055-2ecab1473306ce71.js" defer="" crossorigin="anonymous"></script><script src="/_next/static/chunks/8481-1ee0665c18795340.js" defer="" crossorigin="anonymous"></script><script src="/_next/static/chunks/9434-5dfaead293043362.js" defer="" crossorigin="anonymous"></script><script src="/_next/static/chunks/5471-c66199ae37f9db83.js" defer="" crossorigin="anonymous"></script><script src="/_next/static/chunks/2809-13d70d862fa5528a.js" defer="" crossorigin="anonymous"></script><script src="/_next/static/chunks/8970-1134192cbc5f098d.js" defer="" crossorigin="anonymous"></script><script src="/_next/static/chunks/7138-d2ea9fa482404ae6.js" defer="" crossorigin="anonymous"></script><script src="/_next/static/chunks/1861-d1b6eeef6b31697a.js" defer="" crossorigin="anonymous"></script><script src="/_next/static/chunks/7917-e5a3cec0f4d9c304.js" defer="" crossorigin="anonymous"></script><script src="/_next/static/chunks/5313-799b93b27c606bc0.js" defer="" crossorigin="anonymous"></script><script src="/_next/static/chunks/2745-93a25e923a95f0a3.js" defer="" crossorigin="anonymous"></script><script src="/_next/static/chunks/3410-76f2379d0640e7f7.js" defer="" crossorigin="anonymous"></script><script src="/_next/static/chunks/7482-e4f9fd3fbe03dd6e.js" defer="" crossorigin="anonymous"></script><script src="/_next/static/chunks/2149-09ea195ee75e7e00.js" defer="" crossorigin="anonymous"></script><script src="/_next/static/chunks/7362-b1cf0c8f74473319.js" defer="" crossorigin="anonymous"></script><script src="/_next/static/chunks/319-38ae0de45a0d0cf6.js" defer="" crossorigin="anonymous"></script><script src="/_next/static/chunks/2288-b0248f8df8d67a3e.js" defer="" crossorigin="anonymous"></script><script src="/_next/static/chunks/8605-7a8612cbbace1512.js" defer="" crossorigin="anonymous"></script><script src="/_next/static/chunks/3775-3bdb0aa2c6299db5.js" defer="" crossorigin="anonymous"></script><script src="/_next/static/chunks/1645-ef77343bfc480555.js" defer="" crossorigin="anonymous"></script><script src="/_next/static/chunks/6883-3cec7c6f340d6e37.js" defer="" crossorigin="anonymous"></script><script src="/_next/static/chunks/3121-f1bdcc54377e66c8.js" defer="" crossorigin="anonymous"></script><script src="/_next/static/chunks/5946-720c1767912f238a.js" defer="" crossorigin="anonymous"></script><script src="/_next/static/chunks/7666-f11748cb46df88b5.js" defer="" crossorigin="anonymous"></script><script src="/_next/static/chunks/4859-90fd53c2128e4f69.js" defer="" crossorigin="anonymous"></script><script src="/_next/static/chunks/2104-695ef9d263a1fd31.js" defer="" crossorigin="anonymous"></script><script src="/_next/static/chunks/4864-ebcf004821485e0e.js" defer="" crossorigin="anonymous"></script><script src="/_next/static/chunks/1545-065f4bbf4869b830.js" defer="" crossorigin="anonymous"></script><script src="/_next/static/chunks/9663-28fdbeacfff75375.js" defer="" crossorigin="anonymous"></script><script src="/_next/static/chunks/4361-13893302e02aa69f.js" defer="" crossorigin="anonymous"></script><script src="/_next/static/chunks/3301-aba969705cbf82bd.js" defer="" crossorigin="anonymous"></script><script src="/_next/static/chunks/513-f287890b872b3b1e.js" defer="" crossorigin="anonymous"></script><script src="/_next/static/chunks/6354-01120d85f66f0ffc.js" defer="" crossorigin="anonymous"></script><script src="/_next/static/chunks/6165-2e4c8bccacd61a00.js" defer="" crossorigin="anonymous"></script><script src="/_next/static/chunks/pages/activity/%5Bid%5D-1a42475f4237204e.js" defer="" crossorigin="anonymous"></script><script src="/_next/static/linkareer-client-1787723201518/_buildManifest.js" defer="" crossorigin="anonymous"></script><script src="/_next/static/linkareer-client-1787723201518/_ssgManifest.js" defer="" crossorigin="anonymous"></script><style data-styled="" data-styled-version="4.2.0"></style><style data-styled="" data-styled-version="4.2.0"></style><style id="_goober"> .go1475592160{height:0;}.go1671063245{height:auto;}.go1888806478{display:flex;flex-wrap:wrap;flex-grow:1;}@media (min-width:600px){.go1888806478{flex-grow:initial;min-width:288px;}}.go167266335{background-color:#313131;font-size:0.875rem;line-height:1.43;letter-spacing:0.01071em;color:#fff;align-items:center;padding:6px 16px;border-radius:4px;box-shadow:0px 3px 5px -1px rgba(0,0,0,0.2),0px 6px 10px 0px rgba(0,0,0,0.14),0px 1px 18px 0px rgba(0,0,0,0.12);}.go3162094071{padding-left:20px;}.go3844575157{background-color:#313131;}.go1725278324{background-color:#43a047;}.go3651055292{background-color:#d32f2f;}.go4215275574{background-color:#ff9800;}.go1930647212{background-color:#2196f3;}.go946087465{display:flex;align-items:center;padding:8px 0;}.go703367398{display:flex;align-items:center;margin-left:auto;padding-left:16px;margin-right:-8px;}.go3963613292{width:100%;position:relative;transform:translateX(0);top:0;right:0;bottom:0;left:0;min-width:288px;}.go1141946668{box-sizing:border-box;display:flex;max-height:100%;position:fixed;z-index:1400;height:auto;width:auto;transition:top 300ms ease 0ms,right 300ms ease 0ms,bottom 300ms ease 0ms,left 300ms ease 0ms,max-width 300ms ease 0ms;pointer-events:none;max-width:calc(100% - 40px);}.go1141946668 .notistack-CollapseWrapper{padding:6px 0px;transition:padding 300ms ease 0ms;}@media (max-width:599.95px){.go1141946668{width:100%;max-width:calc(100% - 32px);}}.go3868796639 .notistack-CollapseWrapper{padding:2px 0px;}.go3118922589{top:14px;flex-direction:column;}.go1453831412{bottom:14px;flex-direction:column-reverse;}.go4027089540{left:20px;}@media (min-width:600px){.go4027089540{align-items:flex-start;}}@media (max-width:599.95px){.go4027089540{left:16px;}}.go2989568495{right:20px;}@media (min-width:600px){.go2989568495{align-items:flex-end;}}@media (max-width:599.95px){.go2989568495{right:16px;}}.go4034260886{left:50%;transform:translateX(-50%);}@media (min-width:600px){.go4034260886{align-items:center;}}</style><link as="script" rel="prefetch" crossorigin="anonymous" href="/_next/static/chunks/1715-c20cd3a6cba3c66a.js"><link as="script" rel="prefetch" crossorigin="anonymous" href="/_next/static/chunks/3135-995ee99d3c876217.js"><link as="script" rel="prefetch" crossorigin="anonymous" href="/_next/static/chunks/5160-ceda18ee6a003719.js"><link as="script" rel="prefetch" crossorigin="anonymous" href="/_next/static/chunks/625-93ba00e82edb6ffc.js"><link as="script" rel="prefetch" crossorigin="anonymous" href="/_next/static/chunks/6969-5fd933e26be27d28.js"><link as="script" rel="prefetch" crossorigin="anonymous" href="/_next/static/chunks/6933-54899a44d5b20b3a.js"><link as="script" rel="prefetch" crossorigin="anonymous" href="/_next/static/chunks/1623-b6d3b8b392101d89.js"><link as="script" rel="prefetch" crossorigin="anonymous" href="/_next/static/chunks/pages/index-cec16fdf5c1850f8.js"><link as="script" rel="prefetch" crossorigin="anonymous" href="/_next/static/chunks/pages/recruit-home-5ee97f2789a69606.js"><link as="script" rel="prefetch" crossorigin="anonymous" href="/_next/static/chunks/4236-84a2063346fd8b6e.js"><link as="script" rel="prefetch" crossorigin="anonymous" href="/_next/static/chunks/4547-b70e135e97164fec.js"><link as="script" rel="prefetch" crossorigin="anonymous" href="/_next/static/chunks/3602-ed55b4f24a4cc165.js"><link as="script" rel="prefetch" crossorigin="anonymous" href="/_next/static/chunks/2544-9ea7f143eed04635.js"><link as="script" rel="prefetch" crossorigin="anonymous" href="/_next/static/chunks/2968-07b56345c6423528.js"><link as="script" rel="prefetch" crossorigin="anonymous" href="/_next/static/chunks/3453-e99c10f1c270ca9f.js"><link as="script" rel="prefetch" crossorigin="anonymous" href="/_next/static/chunks/3108-9a9650f66e4a73a0.js"><link as="script" rel="prefetch" crossorigin="anonymous" href="/_next/static/chunks/pages/list/intern-d151e184d3a7fd7e.js"><link as="script" rel="prefetch" crossorigin="anonymous" href="/_next/static/chunks/pages/list/recruit-f9e18080ffa1b565.js"><link as="script" rel="prefetch" crossorigin="anonymous" href="/_next/static/chunks/2603-857f84b6a6a8ce08.js"><link as="script" rel="prefetch" crossorigin="anonymous" href="/_next/static/chunks/pages/company-info-5617850dec0eedce.js"><link as="script" rel="prefetch" crossorigin="anonymous" href="/_next/static/chunks/182-f52bc4feb4d5fec5.js"><link as="script" rel="prefetch" crossorigin="anonymous" href="/_next/static/chunks/pages/company-analysis-4f44a5a253bf9e1e.js"><link as="script" rel="prefetch" crossorigin="anonymous" href="/_next/static/chunks/6250-e97a574a768ed7d7.js"><link as="script" rel="prefetch" crossorigin="anonymous" href="/_next/static/chunks/8139-3d35b67e6bbd54f2.js"><link as="script" rel="prefetch" crossorigin="anonymous" href="/_next/static/chunks/pages/calendar-c251da4fc7ed3e11.js"><link as="script" rel="prefetch" crossorigin="anonymous" href="/_next/static/chunks/5809-5af70bf5a9da952b.js"><link as="script" rel="prefetch" crossorigin="anonymous" href="/_next/static/chunks/pages/prediction/gsat-9edf8194533a187c.js"><link as="script" rel="prefetch" crossorigin="anonymous" href="/_next/static/chunks/pages/exam/gsatskct-05c1e8313ce45016.js"><link as="script" rel="prefetch" crossorigin="anonymous" href="/_next/static/chunks/917-aa2f9a7acab1853b.js"><link as="script" rel="prefetch" crossorigin="anonymous" href="/_next/static/chunks/5623-40d321c82bcfeef8.js"><link as="script" rel="prefetch" crossorigin="anonymous" href="/_next/static/chunks/pages/list/activity-9e217151eff06895.js"><link as="script" rel="prefetch" crossorigin="anonymous" href="/_next/static/chunks/147-c6a5f4ec4dd555ef.js"><link as="script" rel="prefetch" crossorigin="anonymous" href="/_next/static/chunks/5417-083efc68f9721c79.js"><link as="script" rel="prefetch" crossorigin="anonymous" href="/_next/static/chunks/1429-048020021e76669d.js"><link as="script" rel="prefetch" crossorigin="anonymous" href="/_next/static/chunks/pages/cover-letter/search-f14708701370fde1.js"><link as="script" rel="prefetch" crossorigin="anonymous" href="/_next/static/chunks/5025-5cba82056c82c510.js"><link as="script" rel="prefetch" crossorigin="anonymous" href="/_next/static/chunks/2942-835d11ec7a7a413f.js"><link as="script" rel="prefetch" crossorigin="anonymous" href="/_next/static/chunks/28-b87666c97ce2bb74.js"><link as="script" rel="prefetch" crossorigin="anonymous" href="/_next/static/chunks/3022-0fec5cbd04ab4782.js"><link as="script" rel="prefetch" crossorigin="anonymous" href="/_next/static/chunks/4684-b78de7ac07b3b254.js"><link as="script" rel="prefetch" crossorigin="anonymous" href="/_next/static/chunks/2509-53b4e85ad3523dba.js"><link as="script" rel="prefetch" crossorigin="anonymous" href="/_next/static/chunks/4459-512eb10540e86939.js"><link as="script" rel="prefetch" crossorigin="anonymous" href="/_next/static/chunks/pages/channel-8e0548d7c35cf465.js"><link as="script" rel="prefetch" crossorigin="anonymous" href="/_next/static/chunks/7485-5dd9c972e2425165.js"><link as="script" rel="prefetch" crossorigin="anonymous" href="/_next/static/chunks/1964-1f3613ac2994d68b.js"><link as="script" rel="prefetch" crossorigin="anonymous" href="/_next/static/chunks/8938-4629da3845ce77b4.js"><link as="script" rel="prefetch" crossorigin="anonymous" href="/_next/static/chunks/pages/my-campus-b3947f0a7993a2d8.js"><link as="script" rel="prefetch" crossorigin="anonymous" href="/_next/static/chunks/7488-da2da31fc068d4f4.js"><link as="script" rel="prefetch" crossorigin="anonymous" href="/_next/static/chunks/2788-b52fb15a8c9e3984.js"><link as="script" rel="prefetch" crossorigin="anonymous" href="/_next/static/chunks/pages/login-da776148aa02e5e7.js"><link as="script" rel="prefetch" crossorigin="anonymous" href="/_next/static/chunks/pages/manage/welcome-13bad670b802864d.js"><script type="text/javascript" async="" src="https://ssl.pstatic.net/melona/libs/gfp-nac-module/synchronizer.js"></script><style type="text/css">.transform-component-module_wrapper__1_Fgj {
+  position: relative;
+  width: -moz-fit-content;
+  width: fit-content;
+  height: -moz-fit-content;
+  height: fit-content;
+  overflow: hidden;
+  -webkit-touch-callout: none; /* iOS Safari */
+  -webkit-user-select: none; /* Safari */
+  -khtml-user-select: none; /* Konqueror HTML */
+  -moz-user-select: none; /* Firefox */
+  -ms-user-select: none; /* Internet Explorer/Edge */
+  user-select: none;
+  margin: 0;
+  padding: 0;
+}
+.transform-component-module_content__2jYgh {
+  display: flex;
+  flex-wrap: wrap;
+  width: -moz-fit-content;
+  width: fit-content;
+  height: -moz-fit-content;
+  height: fit-content;
+  margin: 0;
+  padding: 0;
+  transform-origin: 0% 0%;
+}
+.transform-component-module_content__2jYgh img {
+  pointer-events: none;
+}
+</style><script src="https://www.googletagmanager.com/gtag/js?l=dataLayer&amp;id=G-FTSNHJ1YC4" async=""></script><link as="script" rel="prefetch" crossorigin="anonymous" href="/_next/static/chunks/3567-b5287e374d88fa4b.js"><link as="script" rel="prefetch" crossorigin="anonymous" href="/_next/static/chunks/6803-19cb5640e0cff08a.js"><link as="script" rel="prefetch" crossorigin="anonymous" href="/_next/static/chunks/7795-cecb0a4e15788c3e.js"><link as="script" rel="prefetch" crossorigin="anonymous" href="/_next/static/chunks/8593-6d3c9cfdfc389fda.js"><link as="script" rel="prefetch" crossorigin="anonymous" href="/_next/static/chunks/4269-93707bc5a1d93154.js"><link as="script" rel="prefetch" crossorigin="anonymous" href="/_next/static/chunks/4033-15af0da949468fa0.js"><link as="script" rel="prefetch" crossorigin="anonymous" href="/_next/static/chunks/281-990c644f5701a7f3.js"><link as="script" rel="prefetch" crossorigin="anonymous" href="/_next/static/chunks/pages/my-career/spec-management-9a7793a4beee49e0.js"><link as="script" rel="prefetch" crossorigin="anonymous" href="/_next/static/chunks/4870-1939a7d58bf3b089.js"><link as="script" rel="prefetch" crossorigin="anonymous" href="/_next/static/chunks/pages/notifications-0fd2adf7dd68d1e5.js"><link as="script" rel="prefetch" crossorigin="anonymous" href="/_next/static/chunks/1028-a59e47caa8d751fd.js"><link as="script" rel="prefetch" crossorigin="anonymous" href="/_next/static/chunks/4947-fb53de5473861f43.js"><link as="script" rel="prefetch" crossorigin="anonymous" href="/_next/static/chunks/pages/accounts/scrap-6ffd4c6fc9dbc648.js"></head><body><noscript>
+                <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TR2FH9Z" height="0" width="0" style="display:none;visibility:hidden;"></iframe>
+              </noscript><div id="__next"><div class="id-__StyledWrapper-sc-a5674c82-0 lfpxxj"><div class="page-layout PageLayout-desktop__StyledWrapper-sc-7c404097-0 jmmMWL"><div id="not-supported-browser" class="NotSuppotedBrowser__StyledWrapper-sc-e816f48a-0 dFJUxA"><p class="header">Internet Explorer <b>서비스 종료</b> 안내</p><div class="body"><p>Internet Explorer(IE) 11 및 이전 버전에 대한 지원이 종료되었습니다.</p><p>원활한 이용을 위해 Chrome, Microsoft Edge, Safari, Whale 등의 브라우저로 접속해주세요.</p></div></div><div class="Header-desktop__StyledWrapper-sc-18080aeb-0 iVEZvY"><div class="header-container"><div class="lt"><a href="/"><svg role="img" xmlns="http://www.w3.org/2000/svg" width="213.637" height="50" viewBox="0 0 213.637 50" aria-label="링커리어" class="logo"><desc>링커리어</desc><g><path fill="#003056" d="M279.828 669.549h18.756v-6.692h-11.271v-22.19h-7.485z" transform="translate(-1140 -1030) translate(860.172 409.846)"></path><path fill="#003056" d="M0 0h7.925v28.882H0z" transform="translate(-1140 -1030) translate(1163.511 1050.513)"></path><path fill="#003056" d="M302.939 640.667v28.882h7.221v-17.435l10.74 17.435h7.309v-28.882H320.9v15.762l-9.774-15.762z" transform="translate(-1140 -1030) translate(873.692 409.846)"></path><path fill="#003056" d="M322.717 669.549h7.132v-8.717l2.642-2.906 7.132 11.623h8.805L337.6 653.7l9.774-13.032h-8.541l-8.894 11.183v-11.184h-7.221z" transform="translate(-1140 -1030) translate(885.261 409.846)"></path><path fill="#01a0ff" d="M360.45 644.3l-1.331 3.346s-2.026-3.7-8.366-3.7a10.725 10.725 0 00-8.893 4.14 13.775 13.775 0 00-2.642 7.484 11.631 11.631 0 004.051 9.51c3.17 3.081 8.012 2.994 8.012 2.994s5.372-.265 7.838-3.346l1.32 2.905h4.842V644.3zm-5.085 15.783a5.906 5.906 0 01-4.1 1.552 7.269 7.269 0 01-4-1.255 5.818 5.818 0 01-1.75-4.368 6.035 6.035 0 011.536-4.283 5.6 5.6 0 014.21-1.915 5.757 5.757 0 014.294 1.816 6.637 6.637 0 011.452 4.381 6.3 6.3 0 01-1.642 4.07z" transform="translate(-1140 -1030) translate(894.914 411.763)"></path><path fill="#01a0ff" d="M358.717 644.222v23.247h6.956V654s.352-3.522 4.579-3.522a4.55 4.55 0 013.874 2.113l3.363-4.425a10.483 10.483 0 00-3.137-2.939 5.992 5.992 0 00-6.754.363 17.332 17.332 0 00-2.03 2.081l-1.651-3.446z" transform="translate(-1140 -1030) translate(906.321 411.926)"></path><path fill="#01a0ff" d="M402.773 644.222v23.247h6.955V654s.353-3.522 4.579-3.522a4.553 4.553 0 013.875 2.113l3.362-4.425a10.459 10.459 0 00-3.137-2.939 5.99 5.99 0 00-6.752.363 17.422 17.422 0 00-2.032 2.081l-1.65-3.446z" transform="translate(-1140 -1030) translate(932.093 411.926)"></path><path fill="#01a0ff" d="M393.413 655.609c.181-4.325-2.758-8.232-2.758-8.232a10.149 10.149 0 00-8.014-3.566 10.5 10.5 0 00-7.881 2.861 12.821 12.821 0 00-3.566 9.423 13.48 13.48 0 003.181 8.53 12.656 12.656 0 007.995 3.7c7.478 0 9.253-4.436 9.253-4.436l-4.05-3.3a6.95 6.95 0 01-5.042 1.81 4.517 4.517 0 01-3.582-1.732 6.512 6.512 0 01-1.206-2.587h13.043c1.894-.094 2.627-2.471 2.627-2.471zm-15.487-2.344a4.86 4.86 0 014.623-3.682 5.186 5.186 0 014.951 3.682z" transform="translate(-1140 -1030) translate(913.612 411.678)"></path><path fill="#01a0ff" d="M409.356 655.609c.182-4.325-2.758-8.232-2.758-8.232a10.145 10.145 0 00-8.012-3.566 10.491 10.491 0 00-7.881 2.861 12.821 12.821 0 00-3.566 9.423 13.48 13.48 0 003.181 8.53 12.657 12.657 0 007.995 3.7c7.476 0 9.253-4.436 9.253-4.436l-4.051-3.3a6.949 6.949 0 01-5.042 1.81 4.522 4.522 0 01-3.582-1.732 6.522 6.522 0 01-1.2-2.587h13.043c1.888-.094 2.62-2.471 2.62-2.471zm-15.487-2.344a4.862 4.862 0 014.623-3.682 5.187 5.187 0 014.953 3.682z" transform="translate(-1140 -1030) translate(922.939 411.678)"></path><g fill="#01a0ff"><path d="M378.977 634.71a55.765 55.765 0 006.922-.285l.1.967a65.959 65.959 0 01-8.11.3v-4.1h5.18v-2.154h-5.18v-.983h6.273v4.088h-5.18zm1.108 4.72c0-1.568 1.839-2.566 4.4-2.566s4.4 1.014 4.4 2.582v.571c0 1.583-1.837 2.582-4.4 2.582s-4.4-1-4.4-2.582zm7.73.539v-.475c0-.949-1.407-1.679-3.325-1.679s-3.327.745-3.327 1.679v.475c0 .951 1.411 1.68 3.327 1.68s3.324-.729 3.324-1.68zm1-3.485h-1.108v-8.759h1.108z" transform="translate(-1140 -1030) translate(1295.416 1030) translate(-377.883 -627.725)"></path><path d="M398.336 642.2h-1.109v-8.364h-3.88c-.38 1.758-1.694 3.042-5.784 5.227l-.522-.9c3.866-2.076 4.974-3.168 5.276-4.516l-5.4.127-.032-1 5.513-.093v-2.615h-5.211v-1.014h6.305v3.138c0 .222-.016.428-.016.632h3.753v-5.1h1.109z" transform="translate(-1140 -1030) translate(1295.416 1030) translate(-372.618 -627.725)"></path><path d="M397.641 637.609h2.171a31.452 31.452 0 004.8-.317l.127.967a33.685 33.685 0 01-5.211.349h-2.994v-5.544h5.243v-3.184h-5.243v-.98h6.353v5.148h-5.245zm9.727 4.593h-1.125v-14.477h1.125z" transform="translate(-1140 -1030) translate(1295.416 1030) translate(-366.973 -627.725)"></path><path d="M416.948 642.2h-1.109v-8.267h-3.248v.49c0 2.645-1.33 4.2-3.563 4.2s-3.565-1.553-3.565-4.2v-1.488c0-2.629 1.331-4.183 3.565-4.183 2.216 0 3.547 1.553 3.563 4.167h3.248v-5.2h1.109zm-5.449-9.06c0-2.409-.983-3.344-2.471-3.344s-2.473.935-2.473 3.344v1.092c0 2.409.983 3.358 2.473 3.358s2.471-.949 2.471-3.358z" transform="translate(-1140 -1030) translate(1295.416 1030) translate(-361.749 -627.725)"></path></g></g></svg></a><div class="SearchBar-desktop__StyledWrapper-sc-ca36491b-0 krUdFN"><form class="form"><input id="header-search" type="search" placeholder="대외활동, 인턴, 채용 정보를 검색해보세요" data-page-status="other" name="search" value=""><button class="search-icon-btn"><svg xmlns="http://www.w3.org/2000/svg" id="MagnifyingGlass" width="16" height="16" data-name="MagnifyingGlass" viewBox="0 0 16 16" aria-label="돋보기"><desc>돋보기</desc><path id="MagnifyingGlass" d="M663.427 114.358l-3.4-3.4a6.853 6.853 0 1 0-1.414 1.414l3.4 3.4a1 1 0 1 0 1.414-1.414zm-13.707-7.465a4.828 4.828 0 1 1 4.828 4.828 4.834 4.834 0 0 1-4.828-4.828z" fill="currentColor" data-name="MagnifyingGlass" transform="translate(-647.72 -100.065)"></path></svg></button></form></div></div><div class="UserAction__StyledWrapper-sc-b9afbcc3-0 jKCDnk"><nav><a href="/calendar"><span style="box-sizing: border-box; display: inline-block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative; max-width: 100%;"><span style="box-sizing: border-box; display: block; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; max-width: 100%;"><img alt="" aria-hidden="true" src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2720%27%20height=%2720%27/%3e" style="display: block; max-width: 100%; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px;"></span><img alt="" src="/_next/image?url=%2Fstatic%2Fimages%2Fnew_main%2Ficon%2Fic-calendar.png&amp;w=48&amp;q=75" decoding="async" data-nimg="intrinsic" srcset="/_next/image?url=%2Fstatic%2Fimages%2Fnew_main%2Ficon%2Fic-calendar.png&amp;w=32&amp;q=75 1x, /_next/image?url=%2Fstatic%2Fimages%2Fnew_main%2Ficon%2Fic-calendar.png&amp;w=48&amp;q=75 2x" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"><noscript></noscript></span>공고 달력</a><a href="/notifications"><span style="box-sizing: border-box; display: inline-block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative; max-width: 100%;"><span style="box-sizing: border-box; display: block; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; max-width: 100%;"><img alt="" aria-hidden="true" src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2720%27%20height=%2720%27/%3e" style="display: block; max-width: 100%; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px;"></span><img alt="" src="/_next/image?url=%2Fstatic%2Fimages%2Fnew_main%2Ficon%2Fic-alarm.png&amp;w=48&amp;q=75" decoding="async" data-nimg="intrinsic" srcset="/_next/image?url=%2Fstatic%2Fimages%2Fnew_main%2Ficon%2Fic-alarm.png&amp;w=32&amp;q=75 1x, /_next/image?url=%2Fstatic%2Fimages%2Fnew_main%2Ficon%2Fic-alarm.png&amp;w=48&amp;q=75 2x" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"><noscript></noscript></span>알림<p class="count"></p></a><a href="/accounts/scrap"><span style="box-sizing: border-box; display: inline-block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative; max-width: 100%;"><span style="box-sizing: border-box; display: block; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; max-width: 100%;"><img alt="" aria-hidden="true" src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2720%27%20height=%2720%27/%3e" style="display: block; max-width: 100%; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px;"></span><img alt="" src="/_next/image?url=%2Fstatic%2Fimages%2Fnew_main%2Ficon%2Fic-scrap.png&amp;w=48&amp;q=75" decoding="async" data-nimg="intrinsic" srcset="/_next/image?url=%2Fstatic%2Fimages%2Fnew_main%2Ficon%2Fic-scrap.png&amp;w=32&amp;q=75 1x, /_next/image?url=%2Fstatic%2Fimages%2Fnew_main%2Ficon%2Fic-scrap.png&amp;w=48&amp;q=75 2x" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"><noscript></noscript></span>스크랩<p class="count"></p></a><div class="HeaderChatIcon-desktop__StyledWrapper-sc-1e0e9836-0 ikbrtG"><div class="chat-icon"><span style="box-sizing: border-box; display: inline-block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative; max-width: 100%;"><span style="box-sizing: border-box; display: block; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; max-width: 100%;"><img alt="" aria-hidden="true" src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2718%27%20height=%2718%27/%3e" style="display: block; max-width: 100%; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px;"></span><img alt="채팅" src="/static/images/chat/chat-icon.svg" decoding="async" data-nimg="intrinsic" srcset="/static/images/chat/chat-icon.svg 1x, /static/images/chat/chat-icon.svg 2x" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"></span><span data-is-active="false">채팅</span><p class="count">99+</p></div><div class="HeaderChatTooltip-desktop__StyledWrapper-sc-4666fb3c-0 kDxdxB"><div class="text">채팅방에서 실시간으로 채용 정보를 공유해보세요!</div><svg width="12" height="12" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 1L9 9M1 9L9 1" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></svg></div></div></nav><div class="UserHeaderLoginActions__StyledWrapper-sc-6650c25-0 fuvVzN"><div class="user-box"><div class="user-name">mseung</div><svg xmlns="http://www.w3.org/2000/svg" width="10" height="6.364" viewBox="0 0 10 6.364" aria-label="확장" class="expand-more-icon"><desc>확장</desc><path fill="currentColor" d="M0 1.022a1.01 1.01 0 01.266-.69.865.865 0 011.285 0l3.427 3.677L8.448.286a.865.865 0 011.285 0 1.025 1.025 0 010 1.379L5.621 6.078a.866.866 0 01-1.285 0L.266 1.712A1.014 1.014 0 010 1.022z"></path></svg></div><ul class="user-menu-list"><li><a class="user-menu-item" data-show-badge="false" data-new="true" href="/my-campus">마이캠퍼스</a></li><li><a class="user-menu-item" data-show-badge="false" href="/profile">마이페이지</a></li><li><a class="user-menu-item" data-show-badge="false" href="/my-career/my-applications">내 지원 현황</a></li><li><a class="user-menu-item" data-show-badge="false" href="https://cbt.linkareer.com/mycbt/archive">나의 시험 CBT</a></li><li><a class="user-menu-item" data-show-badge="false" href="/my-career/spec-management?section=info">MY 이력관리</a></li><li><a class="user-menu-item" data-show-badge="false" href="/self-introduction/manage">자기소개서 작성</a></li><li><a class="user-menu-item" data-show-badge="false" href="/accounts/channel-comment">내가 쓴 채널 댓글</a></li><li><p class="user-menu-item" data-show-badge="false">고객문의</p></li><li><a class="user-menu-item" data-show-badge="false" href="https://api.linkareer.com/logout?next=https%3A%2F%2Flinkareer.com%2Factivity%2F343824">로그아웃</a></li></ul></div></div></div></div><div class="NavBar-desktop__StyledWrapper-sc-6b540059-0 YVvRf"><div class="nav-container"><section class="main-nav-section"><nav><svg cursor="pointer" width="28" height="28" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg" class="menu-detail-icon"><desc>메뉴펼치기</desc><rect x="3" y="7" width="21" height="2" rx="1" fill="#333333"></rect><rect x="3" y="13" width="14" height="2" rx="1" fill="#333333"></rect><rect x="3" y="19" width="21" height="2" rx="1" fill="#333333"></rect></svg><ul class="nav-list"><li class="NavMenuItem__StyledWrapper-sc-516074e4-0 fWpXsB"><a class="menu-button" data-active="true" href="/recruit-home">채용/인턴</a><div class="SecondDepthNavBar__StyledWrapper-sc-53f9a5c7-0 ZADEN"><ul class="nav-menu-list"><li class="nav-menu-item" data-active=""><a href="/recruit-home">홈</a></li><li class="nav-menu-item" data-active="active"><a href="/list/intern">인턴</a></li><li class="nav-menu-item" data-active=""><a href="/list/recruit">채용</a></li><li class="nav-menu-item new-badge" data-active=""><a href="/company-info">기업정보</a></li><li class="nav-menu-item" data-active=""><a href="/company-analysis">기업분석자료</a></li><li class="nav-menu-item" data-active=""><a href="/calendar?activityType=recruit&amp;parentActiveTab=recruit">공고달력</a></li><li class="nav-menu-item" data-active=""><a href="/prediction/gsat">GSAT 합격예측</a></li><li class="nav-menu-item" data-active=""><a href="/exam/gsatskct">전국 모의고사</a></li></ul></div></li><li class="NavMenuItem__StyledWrapper-sc-516074e4-0 fWpXsB"><a class="menu-button" data-active="false" href="/list/activity">대외활동/교육/공모전</a><div class="second-depth-nav-bar-hover SecondDepthNavBar__StyledWrapper-sc-53f9a5c7-0 ZADEN"><ul class="nav-menu-list"><li class="nav-menu-item" data-active=""><a href="/list/activity">대외활동</a></li><li class="nav-menu-item new-badge" data-active=""><a href="/list/education">교육</a></li><li class="nav-menu-item" data-active=""><a href="/list/contest">공모전</a></li><li class="nav-menu-item" data-active=""><a href="/list/club">동아리</a></li><li class="nav-menu-item" data-active=""><a href="/calendar?activityType=activity&amp;parentActiveTab=activity">공고달력</a></li></ul></div></li><li class="NavMenuItem__StyledWrapper-sc-516074e4-0 fWpXsB"><a class="menu-button" data-active="false" href="https://cbt.linkareer.com">CBT<div role="tooltip" class="NavBarTooltip__StyledWrapper-sc-5e093be1-0 bBcEIt"><p class="tooltip-text">100% 무료</p></div></a><div class="second-depth-nav-bar-hover SecondDepthNavBar__StyledWrapper-sc-53f9a5c7-0 ZADEN"><ul class="nav-menu-list"><li class="nav-menu-item" data-active=""><a href="https://cbt.linkareer.com">시험 CBT</a></li><li class="nav-menu-item new-badge" data-active=""><a href="https://linkareer.com/cbt-community/cbt-home">시험 정보방</a></li><li class="nav-menu-item" data-active=""><a href="https://cbt.linkareer.com/mycbt/archive">나의 관심 시험</a></li><li class="nav-menu-item" data-active=""><a href="https://cbt.linkareer.com/mycbt/review">CBT 결과보기</a></li><li class="nav-menu-item" data-active=""><a href="https://cbt.linkareer.com/mycbt/note">오답노트</a></li></ul></div></li><li class="NavMenuItem__StyledWrapper-sc-516074e4-0 fWpXsB"><a class="menu-button" data-active="false" href="https://community.linkareer.com/community">커뮤니티</a><div class="second-depth-nav-bar-hover SecondDepthNavBar__StyledWrapper-sc-53f9a5c7-0 ZADEN"><ul class="nav-menu-list"><li class="nav-menu-item" data-active=""><a href="https://community.linkareer.com/community">커뮤니티</a></li><li class="nav-menu-item new-badge" data-active=""><a href="https://community.linkareer.com/team">팀원모집</a></li><li class="nav-menu-item new-badge" data-active=""><a href="https://community.linkareer.com/recruit_study">스터디모집</a></li><li class="nav-menu-item new-badge" data-active=""><a href="https://linkareer.com/cbt-community/cbt-home">시험 정보방</a></li></ul></div></li><li class="NavMenuItem__StyledWrapper-sc-516074e4-0 fWpXsB"><a class="menu-button" data-active="false" href="/cover-letter/search">자기소개서</a><div class="second-depth-nav-bar-hover SecondDepthNavBar__StyledWrapper-sc-53f9a5c7-0 ZADEN"><ul class="nav-menu-list"><li class="nav-menu-item" data-active=""><a href="/cover-letter/search">자소서 만능 검색기</a></li><li class="nav-menu-item" data-active=""><a href="/self-introduction/manage">자기소개서 작성</a></li><li class="nav-menu-item new-badge" data-active=""><a href="/company-analysis">기업분석자료</a></li></ul></div></li><li class="NavMenuItem__StyledWrapper-sc-516074e4-0 fWpXsB"><a class="menu-button" data-active="false" href="https://community.linkareer.com/mentoring">멘토 게시판</a><div class="second-depth-nav-bar-hover SecondDepthNavBar__StyledWrapper-sc-53f9a5c7-0 ZADEN"><ul class="nav-menu-list"><li class="nav-menu-item" data-active=""><a href="https://community.linkareer.com/mentoring">취업/문과 고민</a></li><li class="nav-menu-item" data-active=""><a href="https://community.linkareer.com/STEM_mentoring">취업/이과 고민</a></li><li class="nav-menu-item" data-active=""><a href="https://community.linkareer.com/mentor_intern">인턴 고민</a></li><li class="nav-menu-item" data-active=""><a href="https://community.linkareer.com/mento_samsung">삼성 멘토질문방</a></li></ul></div></li><li class="NavMenuItem__StyledWrapper-sc-516074e4-0 fWpXsB"><a class="menu-button" data-active="false" href="/channel?tab=home">채널</a><div class="second-depth-nav-bar-hover SecondDepthNavBar__StyledWrapper-sc-53f9a5c7-0 ZADEN"><ul class="nav-menu-list"><li class="nav-menu-item" data-active=""><a href="/channel?tab=home">홈</a></li><li class="nav-menu-item" data-active=""><a href="/channel?tab=interest">내 관심 소식</a></li></ul></div></li><li class="NavMenuItem__StyledWrapper-sc-516074e4-0 fWpXsB"><a class="menu-button" data-active="false" href="/my-campus">마이캠퍼스<span class="NewBadge__StyledWrapper-sc-49e8deb3-0 cfcolu"><span class="new-badge"></span></span></a><div class="second-depth-nav-bar-hover SecondDepthNavBar__StyledWrapper-sc-53f9a5c7-0 ZADEN"><ul class="nav-menu-list"><li class="nav-menu-item" data-active=""><a href="/my-campus">지원현황</a></li><li class="nav-menu-item" data-active=""><a href="/my-campus/campus-recruit">캠퍼스 채용</a></li></ul></div></li></ul></nav><div class="nav-link-icon"><a class="register-activity ResumeButton__StyledWrapper-sc-eaf8f118-0 kxzhQm" href="/my-career/spec-management?section=info"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" data-name="MY 이력 관리 링크 아이콘"><desc>MY 이력 관리 링크 아이콘</desc><g data-name="icon/20/Spec"><path fill="none" d="M0 0h20v20H0z" data-name="사각형 24987"></path><g data-name="그룹 41122"><g stroke="#1530ff" data-name="그룹 41114"><g fill="none" stroke-width="1.2" data-name="사각형 27821" transform="translate(1.86 2.067)"><rect width="14.895" height="16.704" stroke="none" rx="3"></rect><rect width="13.695" height="15.504" x="0.6" y="0.6" rx="2.4"></rect></g><g fill="#fff" stroke-width="1.2" data-name="사각형 27822"><path stroke="none" d="M8.04.959h3.013a2.215 2.215 0 0 1 2.216 2.215 1.11 1.11 0 0 1-1.108 1.108H6.933a1.11 1.11 0 0 1-1.108-1.108A2.215 2.215 0 0 1 8.04.959"></path><path fill="none" d="M7.925 1.559h3.24a1.5 1.5 0 0 1 1.5 1.5.62.62 0 0 1-.619.619H7.044a.62.62 0 0 1-.619-.619 1.5 1.5 0 0 1 1.5-1.5z"></path></g><path fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1" d="m5.469 8.88.613.617L7.93 7.643" data-name="패스 14776"></path><path fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1" d="m5.469 13.408.613.617 1.848-1.854" data-name="패스 14821"></path><path fill="none" stroke-linecap="round" stroke-width="1.1" d="M9.841 7.646h3.3" data-name="패스 14782"></path><path fill="none" stroke-linecap="round" stroke-width="1.1" d="M9.84 12.172h1.345" data-name="패스 14823"></path><path fill="none" stroke-linecap="round" stroke-width="1.1" d="M9.84 9.498h3.3" data-name="패스 14790"></path><path fill="none" stroke-linecap="round" stroke-width="1.1" d="M9.84 14.023h.4" data-name="패스 14822"></path></g></g><g stroke="#1530ff" data-name="그룹 41121"><path fill="#fff" stroke-linejoin="round" d="m11.557 13.955 5.5-7.848.008.006a.823.823 0 1 1 1.331.933l.027.019-5.499 7.848-1.189.442z" data-name="합치기 283"></path><path fill="none" stroke-linecap="round" stroke-width="0.7" d="M18.043 7.337s1.166.775.508 1.715l-.803 1.146" data-name="패스 14787"></path><path fill="none" d="m16.71 6.543 1.512 1.06" data-name="패스 14788"></path></g></g></svg><span>MY 이력 관리</span></a><div class="NavBarLinkWithIcon__StyledWrapper-sc-f3697a3e-0 jzjfHc"><a href="/manage/welcome"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" data-name="icon/20/registration" viewBox="0 0 20 20"><path fill="none" d="M0 0h20v20H0z" data-name="사각형 12215"></path><g fill="none" data-name="그룹 36704"><g stroke-linecap="round" data-name="패스 8416"><path d="M5.426 1.404h7.65l4.315 4.351v10.184a2.945 2.945 0 01-2.815 3.06h-9.15a2.945 2.945 0 01-2.815-3.06V4.464a2.945 2.945 0 012.815-3.06z"></path><path fill="#333" d="M5.426 2.604c-.89 0-1.615.834-1.615 1.86v11.475c0 1.025.725 1.86 1.615 1.86h9.15c.89 0 1.615-.835 1.615-1.86v-9.69l-3.615-3.645h-7.15m0-1.2h7.65l4.315 4.35v10.185c0 1.69-1.26 3.06-2.816 3.06H5.426c-1.555 0-2.815-1.37-2.815-3.06V4.464c0-1.69 1.26-3.06 2.815-3.06z"></path></g><path stroke="#333" stroke-linejoin="round" stroke-width="1.2" d="M12.707 2.142v4.4h4.291" data-name="패스 8417"></path><path stroke="#333" stroke-linecap="round" d="M8.834 9.432h4.279" data-name="패스 9031"></path><path stroke="#333" stroke-linecap="round" d="M6.889 9.431h.354" data-name="패스 9346"></path><path stroke="#333" stroke-linecap="round" d="M6.888 11.703h.354" data-name="패스 9347"></path><path stroke="#333" stroke-linecap="round" d="M6.889 14.003h.354" data-name="패스 9348"></path><path stroke="#333" stroke-linecap="round" d="M8.834 11.703h4.279" data-name="패스 14814"></path><path stroke="#333" stroke-linecap="round" d="M8.834 14.004h4.279" data-name="패스 14815"></path></g><g fill="#fff" data-name="패스 14812"><path d="M15 19.4a4.405 4.405 0 01-4.4-4.4c0-2.426 1.974-4.4 4.4-4.4s4.4 1.974 4.4 4.4-1.974 4.4-4.4 4.4z"></path><path fill="#333" d="M15 11.2a3.804 3.804 0 00-3.8 3.8c0 2.095 1.705 3.8 3.8 3.8 2.095 0 3.8-1.705 3.8-3.8 0-2.095-1.705-3.8-3.8-3.8m0-1.2a5 5 0 110 10 5 5 0 010-10z"></path></g><path fill="none" stroke="#333" stroke-linecap="round" stroke-linejoin="round" d="M13.342 15.31l.825.832 2.489-2.5" data-name="패스 14824"></path></svg>무료 공고등록</a></div></div></section></div></div><main class="main-container"><div data-campus-recruit-locked="false" class="ScreenActivityDetail-desktop__StyledWrapper-sc-af97f888-0 iJKzMw"><div class="activity-detail-content"><section><header class="ActivityInformationHeader__StyledWrapper-sc-53b59ef1-0 cYRgQf"><div class="recruitText-container"><strong class="recruitText">D-22</strong></div><h1>[토니모리] 유통/다이소팀 인턴 채용</h1><div class="countBox" role="status"><span style="box-sizing: border-box; display: inline-block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative; max-width: 100%;"><span style="box-sizing: border-box; display: block; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; max-width: 100%;"><img alt="" aria-hidden="true" src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2720%27%20height=%2712%27/%3e" style="display: block; max-width: 100%; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px;"></span><img alt="" src="/_next/image?url=%2Fstatic%2Fimages%2Fnew_main%2Ficon%2Fico_hits.png&amp;w=48&amp;q=75" decoding="async" data-nimg="intrinsic" srcset="/_next/image?url=%2Fstatic%2Fimages%2Fnew_main%2Ficon%2Fico_hits.png&amp;w=32&amp;q=75 1x, /_next/image?url=%2Fstatic%2Fimages%2Fnew_main%2Ficon%2Fico_hits.png&amp;w=48&amp;q=75 2x" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"></span><span class="count" aria-label="조회수">5871</span><span style="box-sizing: border-box; display: inline-block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative; max-width: 100%;"><span style="box-sizing: border-box; display: block; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; max-width: 100%;"><img alt="" aria-hidden="true" src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2714%27%20height=%2712%27/%3e" style="display: block; max-width: 100%; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px;"></span><img alt="" src="/_next/image?url=%2Fstatic%2Fimages%2Fnew_main%2Ficon%2Fico_comment.png&amp;w=32&amp;q=75" decoding="async" data-nimg="intrinsic" srcset="/_next/image?url=%2Fstatic%2Fimages%2Fnew_main%2Ficon%2Fico_comment.png&amp;w=16&amp;q=75 1x, /_next/image?url=%2Fstatic%2Fimages%2Fnew_main%2Ficon%2Fico_comment.png&amp;w=32&amp;q=75 2x" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"></span><span class="count" aria-label="댓글 수">0</span></div></header><div class="activity-info ActivityInfo-desktop__StyledWrapper-sc-23e560ba-0 hdcRiP"><div role="banner" class="ActivityInformationThumbnail__StyledWrapper-sc-c04b88a5-0 hAWsDd"><div class="card-base" data-is-recruit="true"><div class="card-image-wrapper"><figure class="card-image-figure"><img class="recruit-image" src="https://media-cdn.linkareer.com/activity_manager/logos/916955?d=208xauto" alt="[토니모리] 유통/다이소팀 인턴 채용"></figure></div></div></div><article><header class="organization-info"><h2 class="organization-name ">토니모리</h2><button type="button" class="StudyRecruitButton__StyledWrapper-sc-4b2d5f6a-0 hBGOqb"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" role="img" aria-labelledby="team-recruit-title team-recruit-desc"><title id="team-recruit-title">팀원 모집</title><desc id="team-recruit-desc">팀원 모집 아이콘</desc><g transform="translate(-0.662, -1)"><g data-name="그룹 59932"><g data-name="그룹 59917"><g data-name="타원 2798" transform="translate(6.606 2.042)" style="stroke: rgb(1, 89, 255); stroke-width: 1.2px; fill: rgb(1, 89, 255);"><circle cx="3.103" cy="3.103" r="3.103" style="stroke: none;"></circle><circle cx="3.103" cy="3.103" r="2.503" style="fill: none;"></circle></g><g data-name="그룹 59934" transform="translate(5.623 1.274)"><path data-name="패스 18848" d="M-20267.895 21222.051s.367-4.2 2.457-4.2h4.566s1.676-.437 2.77 4.1" transform="translate(20268.031 -21209.824)" style="stroke-linecap: round; stroke: rgb(1, 89, 255); stroke-width: 1.2px; fill: rgb(1, 89, 255);"></path><rect data-name="사각형 37149" width="11" height="2" rx="1" transform="translate(-.461 11.191)" style="fill: rgb(1, 89, 255);"></rect></g><g data-name="타원 2804" transform="translate(2.971 1.498)" style="fill: rgb(255, 255, 255); stroke: rgb(255, 255, 255); stroke-width: 3px;"><ellipse cx="3.647" cy="3.648" rx="3.647" ry="3.648" style="stroke: none;"></ellipse><ellipse cx="3.647" cy="3.648" rx="2.147" ry="2.148" style="fill: none;"></ellipse></g><path data-name="패스 18849" d="M-20267.973 21222.117s.445-4.262 2.535-4.262h4.566s1.676-.422 2.77 3.957" transform="translate(20269.621 -21208.102)" style="fill: rgb(255, 255, 255); stroke: rgb(255, 255, 255); stroke-width: 3px; stroke-linecap: round;"></path><g data-name="그룹 59935"><g data-name="그룹 59936" transform="translate(1.623 1.274)"><path data-name="패스 18848" d="M-20267.895 21222.051s.367-4.2 2.457-4.2h4.566c.184 0 1.676-.437 2.77 4.1" transform="translate(20268.037 -21209.789)" style="stroke-linecap: round; stroke: rgb(1, 89, 255); stroke-width: 1.2px; fill: rgb(1, 89, 255);"></path><rect data-name="사각형 37149" width="11" height="2" rx="1" transform="translate(-.461 11.227)" style="fill: rgb(1, 89, 255);"></rect></g></g><g data-name="타원 2805" transform="translate(3.48 2.043)" style="stroke: rgb(1, 89, 255); stroke-width: 1.2px; fill: rgb(1, 89, 255);"><circle cx="3.103" cy="3.103" r="3.103" style="stroke: none;"></circle><circle cx="3.103" cy="3.103" r="2.503" style="fill: none;"></circle></g></g></g></g></svg><span>스터디 모집글 보기</span></button></header><div class="ActivityInfomationField__StyledWrapper-sc-e6a5680a-0 fTmkYr"><dl class="ActivityInformationFieldBase__StyledWrapper-sc-1a493017-0 kJeRln"><dt class="field-label">기업형태</dt><dd class="text">중견기업</dd></dl><dl class="RecruitPeriodField__StyledWrapper-sc-aaa21d80-0 eZkpum ActivityInformationFieldBase__StyledWrapper-sc-1a493017-0 kJeRln"><dt class="field-label">접수기간</dt><dd class="text"><div><span class="start-at">시작일</span><span>2026.08.19</span></div><span class="end-at">마감일</span><span>2026.09.18</span></dd></dl><dl class="ActivityInformationFieldBase__StyledWrapper-sc-1a493017-0 kJeRln"><dt class="field-label">채용형태</dt><dd class="text">채용연계형 인턴</dd></dl><dl class="ActivityInformationFieldBase__StyledWrapper-sc-1a493017-0 kJeRln"><dt class="field-label">모집직무</dt><dd class="text">기획/경영, 마케팅/광고, 영업/CS</dd></dl><dl class="ActivityInformationFieldBase__StyledWrapper-sc-1a493017-0 kJeRln"><dt class="field-label">근무지역</dt><dd class="text"><div class="RecruitAddressesField__StyledContent-sc-cecac763-0 iSccPS">서울 서초구</div></dd></dl><dl class="HomepageField__StyledWrapper-sc-eb92a26-0 cTpRSI ActivityInformationFieldBase__StyledWrapper-sc-1a493017-0 kJeRln"><dt class="field-label">홈페이지</dt><dd class="text"><a target="_blank" rel="noopener noreferrer" href="https://tonymoly.com/">https://tonymoly.com/</a></dd></dl></div><div class="ActivityInfomationShareField__StyledWrapper-sc-f2a9c2a3-0 frWhoC"><p class="label">공유하기</p><ul aria-label="공유하기" class="ShareItems__StyledWrapper-sc-83ac21c1-0 dyEycr"><li><button aria-label="facebook" class="react-share__ShareButton ShareItems__FacebookButton-sc-83ac21c1-1 gAyNQr" style="background-color: transparent; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; padding: 0px; font: inherit; color: inherit; cursor: pointer;"></button></li><li><a target="_blank" rel="noopener noreferrer" aria-label="X (구 트위터) 공유하기" href="https://twitter.com/intent/tweet?text=%5B%EB%A7%81%EC%BB%A4%EB%A6%AC%EC%96%B4%5D%20%5B%ED%86%A0%EB%8B%88%EB%AA%A8%EB%A6%AC%5D%20%EC%9C%A0%ED%86%B5/%EB%8B%A4%EC%9D%B4%EC%86%8C%ED%8C%80%20%EC%9D%B8%ED%84%B4%20%EC%B1%84%EC%9A%A9&amp;hashtags=링커리어,linkareer,대학생,공모전,대외활동&amp;url=https://linkareer.com/activity/343824" class="ShareItems__TwitterButton-sc-83ac21c1-2 eXUQqI"></a></li><li><a target="_blank" rel="noopener noreferrer" aria-label="네이버 공유하기" href="https://share.naver.com/web/shareView?url=https://linkareer.com/activity/343824&amp;title=%5B%EB%A7%81%EC%BB%A4%EB%A6%AC%EC%96%B4%5D%20%5B%ED%86%A0%EB%8B%88%EB%AA%A8%EB%A6%AC%5D%20%EC%9C%A0%ED%86%B5/%EB%8B%A4%EC%9D%B4%EC%86%8C%ED%8C%80%20%EC%9D%B8%ED%84%B4%20%EC%B1%84%EC%9A%A9" class="ShareItems__NaverButton-sc-83ac21c1-3 gnbQua"></a></li><li><a target="_blank" rel="noopener noreferrer" aria-label="네이버 밴드로 공유하기" href="https://band.us/plugin/share?body=%5B%EB%A7%81%EC%BB%A4%EB%A6%AC%EC%96%B4%5D%20%5B%ED%86%A0%EB%8B%88%EB%AA%A8%EB%A6%AC%5D%20%EC%9C%A0%ED%86%B5/%EB%8B%A4%EC%9D%B4%EC%86%8C%ED%8C%80%20%EC%9D%B8%ED%84%B4%20%EC%B1%84%EC%9A%A9%0Ahttps://linkareer.com/activity/343824" class="ShareItems__BandButton-sc-83ac21c1-4 bqXSXF"></a></li><li><button aria-label="카카오톡으로 공유하기" class="ShareItems__KakaoButton-sc-83ac21c1-5 eXcuYL"><div class="KakaoShareButton__KakaoButton-sc-dbf25df2-0 gSKeKh"></div></button></li></ul></div><div class="ActivityInformationActionField__StyledWrapper-sc-d21ee632-0 iHwWLW"><button class="apply-button is-primary button">홈페이지 지원</button><button class="scrap-button  button"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="16" viewBox="0 0 8.7 11.2" class="scrap-icon"><desc>스크랩</desc><path data-name="패스 476" d="M613.254 99.171H609.5a1.871 1.871 0 0 0-1.871 1.871v8.129l3.75-1.48 3.75 1.48v-8.129a1.871 1.871 0 0 0-1.875-1.871z" transform="translate(-607.025 -98.571)" style="fill: none; stroke: rgb(102, 102, 102); stroke-linejoin: round; stroke-width: 1.2px;"></path></svg>344</button><div class="scrap-user-container"><ul data-nosnippet="true" class="ScrapUserList__StyledWrapper-sc-2a51266c-0 hgYpTJ" data-avartar-size="small"><li data-avartar-size="small" class="ScrapUserItem__StyledWrapper-sc-bd57ab87-0 iKKaJE"><figure class="ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 kbRKgx" aria-label="스크랩 사용자 프로필"></figure><aside aria-label="스크랩 사용자 다이얼로그" class="ScrapUserDetail__StyledWrapper-sc-ffd59722-0 ghAIAN"><div class="detail-profile"><figure class="profile-image ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 kbRKgx" aria-label="스크랩 사용자 프로필"></figure></div><div class="detail-content"><span>이 친구와 함께 하고 싶다면?</span><a href="/activity/345586">[한화에어로스페이스] 2026년 하반기 대규모 신입사원 채용 (사전공고)</a><a href="/activity/345795">[부광약품] 2026 의원영업 신입 채용 (전라)</a></div></aside></li><li data-avartar-size="small" class="ScrapUserItem__StyledWrapper-sc-bd57ab87-0 iKKaJE"><figure class="ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 hqJFgV" aria-label="스크랩 사용자 프로필"></figure><aside aria-label="스크랩 사용자 다이얼로그" class="ScrapUserDetail__StyledWrapper-sc-ffd59722-0 ghAIAN"><div class="detail-profile"><figure class="profile-image ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 hqJFgV" aria-label="스크랩 사용자 프로필"></figure></div><div class="detail-content"><span>이 친구와 함께 하고 싶다면?</span><a href="/activity/345078">[체험형 인턴십 채용] B2B 해외영업 운영</a><a href="/activity/343824">[토니모리] 유통/다이소팀 인턴 채용</a></div></aside></li><li data-avartar-size="small" class="ScrapUserItem__StyledWrapper-sc-bd57ab87-0 iKKaJE"><figure class="ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 bdUlpU" aria-label="스크랩 사용자 프로필"></figure><aside aria-label="스크랩 사용자 다이얼로그" class="ScrapUserDetail__StyledWrapper-sc-ffd59722-0 ghAIAN"><div class="detail-profile"><figure class="profile-image ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 bdUlpU" aria-label="스크랩 사용자 프로필"></figure></div><div class="detail-content"><span>이 친구와 함께 하고 싶다면?</span><a href="/activity/341707">[KT&amp;G] 2026년 하반기 신입(사무) 사원 채용</a><a href="/activity/343824">[토니모리] 유통/다이소팀 인턴 채용</a></div></aside></li><li data-avartar-size="small" class="ScrapUserItem__StyledWrapper-sc-bd57ab87-0 iKKaJE"><figure class="ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 gshPqR" aria-label="스크랩 사용자 프로필"></figure><aside aria-label="스크랩 사용자 다이얼로그" class="ScrapUserDetail__StyledWrapper-sc-ffd59722-0 ghAIAN"><div class="detail-profile"><figure class="profile-image ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 gshPqR" aria-label="스크랩 사용자 프로필"></figure></div><div class="detail-content"><span>이 친구와 함께 하고 싶다면?</span><a href="/activity/345065">[체험형 인턴십 채용] 글로벌 마케터</a><a href="/activity/345311">[앱솔브랩] 유럽 마케팅 인턴</a></div></aside></li><li data-avartar-size="small" class="ScrapUserItem__StyledWrapper-sc-bd57ab87-0 iKKaJE"><figure class="ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 fedgxD" aria-label="스크랩 사용자 프로필"></figure><aside aria-label="스크랩 사용자 다이얼로그" class="ScrapUserDetail__StyledWrapper-sc-ffd59722-0 ghAIAN"><div class="detail-profile"><figure class="profile-image ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 fedgxD" aria-label="스크랩 사용자 프로필"></figure></div><div class="detail-content"><span>이 친구와 함께 하고 싶다면?</span><a href="/activity/331930">[도루코] (상시) 해외영업관리(글로벌 수출입 및 영업관리) 신입사원 상시채용</a><a href="/activity/328920">[구매] PDRN/PN 에스테틱 의료기기 구매관리 채용연계형 인턴사원 모집</a></div></aside></li></ul><a class="scrap-user-count" href="/activity/343824#section_scrap_users">스크랩한 사용자 전체보기 (344명)</a></div><div class="scrap-user-stats-shortcut"><a href="/activity/343824#section_scrap_users_stats">관심 유저 통계 보기<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16"><g fill="none" data-name="icon / 16 / graph"><path d="M0 0h16v16H0z" data-name="사각형 31743"></path><g stroke="#01a0ff" data-name="그룹 45606"><g data-name="사각형 31743" transform="translate(2.75 6.5)"><rect width="3" height="4" stroke="none" rx="1"></rect><rect width="2" height="3" x="0.5" y="0.5" rx="0.5"></rect></g><g data-name="사각형 31744" transform="translate(6.45 4.5)"><rect width="3" height="6" stroke="none" rx="1"></rect><rect width="2" height="5" x="0.5" y="0.5" rx="0.5"></rect></g><g stroke-linecap="round" data-name="사각형 31745" transform="rotate(90 .775 12.475)"><rect width="1.101" height="10.5" stroke="none" rx="0.55"></rect><rect width="0.101" height="9.5" x="0.5" y="0.5" rx="0.05"></rect></g><g data-name="사각형 31746" transform="translate(10.25 2.5)"><rect width="3" height="8" stroke="none" rx="1"></rect><rect width="2" height="7" x="0.5" y="0.5" rx="0.5"></rect></g></g></g></svg></a></div></div></article></div></section><aside class="flex-box"><section class="ActivityChat-desktop__StyledWrapper-sc-18ee41a5-0 fvielb"><header><div class="chat-info"><h3>토니모리 채팅방</h3><span>1631명</span></div><button class="chat-btn Button__StyledWrapper-sc-d9e4ef33-0 cVKUpj">채팅방 참여하기</button></header><ul class="ActivityChatMessage__StyledWrapper-sc-d36182ea-0 dRJofC" aria-label="채팅 메시지 기록" aria-live="polite"><li class="MessageItem__StyledWrapper-sc-5ef5d831-0 gkkCvk"><div class="MessageItemProfile__StyledWrapper-sc-8436664b-0 jwYZGi"><i class="profile-image"></i><div><p class="nickname">테라피받는 원숭이</p></div></div><div class="item-container"><p class="message-content">퀸 ㅋㅋ</p><time class="created-at" datetime="1:17">1 : 17</time></div></li><li class="MessageItem__StyledWrapper-sc-5ef5d831-0 gkkCvk"><div class="MessageItemProfile__StyledWrapper-sc-8436664b-0 cTBHaR"><i class="profile-image"></i><div><p class="nickname">게을러빠진 줄</p></div></div><div class="item-container"><p class="message-content">면접 빡세려나ㅠ</p><time class="created-at" datetime="11:56">11 : 56</time></div></li><li class="MessageItem__StyledWrapper-sc-5ef5d831-0 gkkCvk"><div class="MessageItemProfile__StyledWrapper-sc-8436664b-0 jwYZGi"><i class="profile-image"></i><div><p class="nickname">조심하는 가랑니</p></div></div><div class="item-container"><p class="message-content">왜요…….? 퀸이시네요</p><time class="created-at" datetime="19:24">19 : 24</time></div></li><li class="MessageItem__StyledWrapper-sc-5ef5d831-0 gkkCvk"><div class="MessageItemProfile__StyledWrapper-sc-8436664b-0 knxHbv"><i class="profile-image"></i><div><p class="nickname">복숭아색 피라냐</p></div></div><div class="item-container"><p class="message-content">합격햇는데 안갓어여</p><time class="created-at" datetime="18:02">18 : 02</time></div></li><li class="MessageItem__StyledWrapper-sc-5ef5d831-0 gkkCvk"><div class="MessageItemProfile__StyledWrapper-sc-8436664b-0 LJZmp"><i class="profile-image"></i><div><p class="nickname">고유한 수양</p></div></div><div class="item-container"><p class="message-content">인턴 합격하신 분 있으실까요 ?</p><time class="created-at" datetime="17:25">17 : 25</time></div></li></ul></section><section class="ActivityDutyList__StyledWrapper-sc-bd8986e-0 fiaXiN"><h3 class="visually-hidden">모집 직무 자기소개서 작성</h3><ul class="duty-list" aria-label="모집 직무 자기소개서 작성 리스트"><li class="ActivityDutyItem__StyledWrapper-sc-25782a34-0 kvWYEx"><article aria-label="[기획/경영] 자기소개서 작성"><header><b class="header-job-type">인턴</b><h4>[기획/경영] 유통/다이소팀</h4><span>12 명 작성</span></header><div class="duty-item-cotnent" data-active="false"><button class="write-btn Button__StyledWrapper-sc-d9e4ef33-0 kPjbWD">자기소개서 작성</button><div class="question-list QuestionList__StyledWrapper-sc-4a9e4bc2-0 QQfac"><div class="list-wrapper"><li class="item">본인을 한 문장으로 표현해 주세요. (<span style="color: rgb(1, 160, 255);">1000자</span>)</li></div></div></div></article></li></ul></section></aside><nav aria-label="공고 네비게이션 버튼" class="ActivityTabs__StyledWrapper-sc-2f3955ec-0 iHkaYa"><button class="tab-item" data-active="true">상세내용</button><button class="tab-item" data-active="false">스터디 모집<mark class="new-tag">NEW</mark></button><button class="tab-item" data-active="false">합격자료<mark class="hot-tag"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12" aria-hidden="true"><defs><clipPath id="yrnu2e5fla"><path data-name="사각형 29078" d="M0 0h9.219v12H0z" style="fill: none;"></path></clipPath></defs><g data-name="icon / 24 / fire"><path data-name="사각형 29943" d="M0 0h12v12H0z" style="fill: none;"></path><g data-name="그룹 43225"><g data-name="그룹 42384" transform="translate(1.39)" style="clip-path: url(&quot;#yrnu2e5fla&quot;);"><path data-name="패스 15525" d="M.385 5.976.814 7.2a.36.36 0 0 0 .5.232c.4-.132.232-.861.232-.861L1.079 4.95S.682 3.791 2.238 2.4c0 0 .1 1.059.364 1.125S3.1 3.361 3.628 2.5a3.427 3.427 0 0 0 .2-2.218l-.1-.232s-.066-.165.43.1a4.959 4.959 0 0 1 1.986 2.78s.165.232.132 1.192c0 0 .033.3.232.3a.47.47 0 0 0 .463-.53 6.8 6.8 0 0 1 2.151 3.474 3.2 3.2 0 0 1-.231 2.184A4.666 4.666 0 0 1 4.8 11.968a5.113 5.113 0 0 1-3.558-1.028S-.838 9.617.385 5.976" style="fill: rgb(239, 41, 41);"></path><path data-name="패스 15526" d="M62.155 187.661s-1.013-1.235.158-3.261c0 0 .158-.285.317.063a2.589 2.589 0 0 0 .76 1.14s.19.095.222-.285a3.915 3.915 0 0 1 1.108-2.913s.253-.285.348.1a5.108 5.108 0 0 0 .792 1.773 4.687 4.687 0 0 1 .792 2.185 2.379 2.379 0 0 1-.19 1.045 4.583 4.583 0 0 1-2.248.507 4.974 4.974 0 0 1-2.058-.348" transform="translate(-59.59 -176.01)" style="fill: rgb(244, 238, 97);"></path></g></g></g></svg>HOT</mark></button><button class="tab-item" data-active="false">담당자Q&amp;A </button></nav><article id="DETAIL" data-webview="false" class="ActivityDetailTab__StyledWrapper-sc-7cf16b9f-0 kJpias"><section class="ActivityDetailTabContent__StyledWrapper-sc-5c325a81-0 fcnVga"><h2>상세내용</h2><div class="responsive-element"><p><span style="font-size: 18pt;"><b>[토니모리] 유통/다이소팀 인턴 채용</b></span></p><p><br></p><p><br></p><p><span style="font-size: 11pt;">[담당 업무]</span></p><p><span style="font-size: 11pt;">1. 다이소 채널 운영 지원</span></p><p><span style="font-size: 11pt;">2. 직매입 영업 지원</span></p><p><span style="font-size: 11pt;">3. 대형마트/백화점 매장 관리 지원</span></p><p><br></p><p><span style="font-size: 11pt;">[자격요건]</span></p><p><span style="font-size: 11pt;">- 경력 무관(신입 지원 가능)</span></p><p><span style="font-size: 11pt;">- 4년제 학사 졸업</span></p><p><br></p><p><span style="font-size: 11pt;">[우대 역량]</span></p><p><span style="font-size: 11pt;">- 컴퓨터 활용 능력 우수자</span></p><p><span style="font-size: 11pt;">- OA/SAP 사용 가능자</span></p><p><span style="font-size: 11pt;">- 뷰티 산업 전반에 대한 이해도 및 관심이 있으신 분</span></p><p><span style="font-size: 11pt;">- 운전 가능자 우대</span></p><div><br></div><p><br></p><p><br></p><p><br></p><p><br></p><p><img class="max-width-100" src="https://media-cdn.linkareer.com/se2editor/image/916949" title="20260819_134950.png" alt="[토니모리] 유통/다이소팀 인턴 채용"><br style="clear: both;"><br></p></div></section><section class="ActivityDetailTabReport__StyledWrapper-sc-4f1859e2-0 cYorQE"><div class="report-section"><p class="report-info">허위·과장·오류 내용이 있다면 신고해주세요.</p><div class="report-count-wrapper"><button type="button" class="report-button"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16"><defs><clipPath id="z6zgxnjaqa"><path fill="#fff" stroke="#333" d="M1472.5 570.832h16v16h-16z" data-name="사각형 3302"></path></clipPath></defs><g clip-path="url(#z6zgxnjaqa)" data-name="마스크 그룹 97" transform="translate(-1472.5 -570.832)"><g data-name="그룹 1320"><g fill="none" data-name="그룹 1317"><g stroke-linecap="round" stroke-linejoin="round" data-name="합치기 93"><path d="M1476.861 582.352v-3.893a3.761 3.761 0 0 1 7.522 0v3.893z"></path><path fill="#333" d="M1483.384 581.352v-2.875a2.74 2.74 0 0 0-.826-1.917 2.75 2.75 0 0 0-1.935-.793c-.73 0-1.417.281-1.936.792a2.74 2.74 0 0 0-.826 1.937v2.856zm1 1h-7.523v-3.893a3.761 3.761 0 0 1 7.522 0h.001z"></path></g><g stroke="#333" data-name="사각형 3074" transform="translate(1475.415 581.379)"><rect width="10.415" height="3.205" stroke="none" rx="1.602"></rect><rect width="9.415" height="2.205" x="0.5" y="0.5" rx="1.102"></rect></g></g><g data-name="그룹 1318"><path fill="none" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M1480.626 573.136v-1.411" data-name="Line 12"></path><g data-name="그룹 1319"><path fill="none" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M1485.997 577.257h1.2" data-name="Line 12 Copy 3"></path></g><path fill="none" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M1474.133 577.257h1.2" data-name="Line 12 Copy 4"></path><path fill="none" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="m1484.507 574.337.928-.928" data-name="Line 12 Copy"></path><path fill="none" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="m1476.985 574.337-.928-.928" data-name="Line 12 Copy 2"></path></g></g></g></svg>신고하기</button></div></div></section><section class="ActivityDetailTabFileAndManager__StyledWrapper-sc-f6722f2b-0 lgutOG"><h3>지원서 다운로드</h3><ul><li>'지원서 파일 없음'</li></ul></section><div class="ActivityDetailTabStatsSection__StyledWrapper-sc-6a88a926-0 cenwFs"><section id="SCRAP_STATS" class="ActivityDetailTabScrapUserStats__StyledWrapper-sc-fcffb325-0 lEaol"><div class="ScrapUserStatsBlur__StyledWrapper-sc-9ac4bd38-0 hvQlyn"><span style="box-sizing: border-box; display: block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: absolute; inset: 0px;"><img alt="" aria-labelledby="blurred-scrap-stats-info" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" decoding="async" data-nimg="fill" class="blur-image" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"><noscript></noscript></span><div class="blur-content"><p class="blur-title StatsBlurText__StyledWrapper-sc-2b04198b-0 kTCFNy">이 공고를 스크랩한 사용자들이 궁금하다면? </p><b id="blurred-scrap-stats-info" class="blur-text StatsBlurText__StyledWrapper-sc-2b04198b-0 kTCFNy">해당 공고를 스크랩하면 스크랩한 사용자들의<br>학교, 전공, 연령, 관심 직무 현황을 확인할 수 있어요!</b><button class="StatsBlurScrapButton__StyledWrapper-sc-614f357e-0 brPMCx"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="16" viewBox="0 0 8.7 11.2" class="scrap-icon"><desc>스크랩</desc><path data-name="패스 476" d="M613.254 99.171H609.5a1.871 1.871 0 0 0-1.871 1.871v8.129l3.75-1.48 3.75 1.48v-8.129a1.871 1.871 0 0 0-1.875-1.871z" transform="translate(-607.025 -98.571)" style="fill: none; stroke: rgb(1, 160, 255); stroke-linejoin: round; stroke-width: 1.2px;"></path></svg><p>스크랩하고 통계보기</p></button></div></div></section></div><section id="SCRAP" class="ActivityScrapUser__StyledWrapper-sc-fea30771-0 jHvBcw"><h3>이 활동에 관심을 가지는 사용자 (344명)</h3><div><ul data-nosnippet="true" class="ScrapUserList__StyledWrapper-sc-2a51266c-0 hgYpTJ"><li data-avartar-size="medium" class="ScrapUserItem__StyledWrapper-sc-bd57ab87-0 iKKaJE"><figure class="ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 kbRKgx" aria-label="스크랩 사용자 프로필"></figure><aside aria-label="스크랩 사용자 다이얼로그" class="ScrapUserDetail__StyledWrapper-sc-ffd59722-0 ghAIAN"><div class="detail-profile"><figure class="profile-image ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 kbRKgx" aria-label="스크랩 사용자 프로필"></figure></div><div class="detail-content"><span>이 친구와 함께 하고 싶다면?</span><a href="/activity/345586">[한화에어로스페이스] 2026년 하반기 대규모 신입사원 채용 (사전공고)</a><a href="/activity/345795">[부광약품] 2026 의원영업 신입 채용 (전라)</a></div></aside></li><li data-avartar-size="medium" class="ScrapUserItem__StyledWrapper-sc-bd57ab87-0 iKKaJE"><figure class="ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 hqJFgV" aria-label="스크랩 사용자 프로필"></figure><aside aria-label="스크랩 사용자 다이얼로그" class="ScrapUserDetail__StyledWrapper-sc-ffd59722-0 ghAIAN"><div class="detail-profile"><figure class="profile-image ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 hqJFgV" aria-label="스크랩 사용자 프로필"></figure></div><div class="detail-content"><span>이 친구와 함께 하고 싶다면?</span><a href="/activity/345078">[체험형 인턴십 채용] B2B 해외영업 운영</a><a href="/activity/343824">[토니모리] 유통/다이소팀 인턴 채용</a></div></aside></li><li data-avartar-size="medium" class="ScrapUserItem__StyledWrapper-sc-bd57ab87-0 iKKaJE"><figure class="ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 bdUlpU" aria-label="스크랩 사용자 프로필"></figure><aside aria-label="스크랩 사용자 다이얼로그" class="ScrapUserDetail__StyledWrapper-sc-ffd59722-0 ghAIAN"><div class="detail-profile"><figure class="profile-image ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 bdUlpU" aria-label="스크랩 사용자 프로필"></figure></div><div class="detail-content"><span>이 친구와 함께 하고 싶다면?</span><a href="/activity/341707">[KT&amp;G] 2026년 하반기 신입(사무) 사원 채용</a><a href="/activity/343824">[토니모리] 유통/다이소팀 인턴 채용</a></div></aside></li><li data-avartar-size="medium" class="ScrapUserItem__StyledWrapper-sc-bd57ab87-0 iKKaJE"><figure class="ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 gshPqR" aria-label="스크랩 사용자 프로필"></figure><aside aria-label="스크랩 사용자 다이얼로그" class="ScrapUserDetail__StyledWrapper-sc-ffd59722-0 ghAIAN"><div class="detail-profile"><figure class="profile-image ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 gshPqR" aria-label="스크랩 사용자 프로필"></figure></div><div class="detail-content"><span>이 친구와 함께 하고 싶다면?</span><a href="/activity/345065">[체험형 인턴십 채용] 글로벌 마케터</a><a href="/activity/345311">[앱솔브랩] 유럽 마케팅 인턴</a></div></aside></li><li data-avartar-size="medium" class="ScrapUserItem__StyledWrapper-sc-bd57ab87-0 iKKaJE"><figure class="ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 fedgxD" aria-label="스크랩 사용자 프로필"></figure><aside aria-label="스크랩 사용자 다이얼로그" class="ScrapUserDetail__StyledWrapper-sc-ffd59722-0 ghAIAN"><div class="detail-profile"><figure class="profile-image ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 fedgxD" aria-label="스크랩 사용자 프로필"></figure></div><div class="detail-content"><span>이 친구와 함께 하고 싶다면?</span><a href="/activity/331930">[도루코] (상시) 해외영업관리(글로벌 수출입 및 영업관리) 신입사원 상시채용</a><a href="/activity/328920">[구매] PDRN/PN 에스테틱 의료기기 구매관리 채용연계형 인턴사원 모집</a></div></aside></li><li data-avartar-size="medium" class="ScrapUserItem__StyledWrapper-sc-bd57ab87-0 iKKaJE"><figure class="ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 ewZSgS" aria-label="스크랩 사용자 프로필"></figure><aside aria-label="스크랩 사용자 다이얼로그" class="ScrapUserDetail__StyledWrapper-sc-ffd59722-0 ghAIAN"><div class="detail-profile"><figure class="profile-image ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 ewZSgS" aria-label="스크랩 사용자 프로필"></figure></div><div class="detail-content"><span>이 친구와 함께 하고 싶다면?</span><a href="/activity/343824">[토니모리] 유통/다이소팀 인턴 채용</a><a href="/activity/344205">[ABLE C&amp;C] 해외영업 인턴 채용</a></div></aside></li><li data-avartar-size="medium" class="ScrapUserItem__StyledWrapper-sc-bd57ab87-0 iKKaJE"><figure class="ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 hqJFgV" aria-label="스크랩 사용자 프로필"></figure><aside aria-label="스크랩 사용자 다이얼로그" class="ScrapUserDetail__StyledWrapper-sc-ffd59722-0 ghAIAN"><div class="detail-profile"><figure class="profile-image ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 hqJFgV" aria-label="스크랩 사용자 프로필"></figure></div><div class="detail-content"><span>이 친구와 함께 하고 싶다면?</span><a href="/activity/344622">[이터널그룹] 코스메틱 브랜드 사업개발 인턴 (3개월, 정규전환형)</a><a href="/activity/345070">[체험형 인턴십 채용] 국내 마케터</a></div></aside></li><li data-avartar-size="medium" class="ScrapUserItem__StyledWrapper-sc-bd57ab87-0 iKKaJE"><figure class="ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 jmvVlm" aria-label="스크랩 사용자 프로필"></figure><aside aria-label="스크랩 사용자 다이얼로그" class="ScrapUserDetail__StyledWrapper-sc-ffd59722-0 ghAIAN"><div class="detail-profile"><figure class="profile-image ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 jmvVlm" aria-label="스크랩 사용자 프로필"></figure></div><div class="detail-content"><span>이 친구와 함께 하고 싶다면?</span><a href="/activity/320802">총무 담당자 (계약직)</a><a href="/activity/338340">[딥다이브] 글로벌 물류 운영 인턴 (6개월 전환형)</a></div></aside></li><li data-avartar-size="medium" class="ScrapUserItem__StyledWrapper-sc-bd57ab87-0 iKKaJE"><figure class="ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 coMrUB" aria-label="스크랩 사용자 프로필"></figure><aside aria-label="스크랩 사용자 다이얼로그" class="ScrapUserDetail__StyledWrapper-sc-ffd59722-0 ghAIAN"><div class="detail-profile"><figure class="profile-image ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 coMrUB" aria-label="스크랩 사용자 프로필"></figure></div><div class="detail-content"><span>이 친구와 함께 하고 싶다면?</span><a href="/activity/338963">[미국] CJ Foodville USA, Inc. 뉴저지 지점 유통공급망관리(SCM) 채용</a><a href="/activity/343910">신세계인터내셔날 코스메틱 브랜드 OPERATION 인턴 모집 공고</a></div></aside></li><li data-avartar-size="medium" class="ScrapUserItem__StyledWrapper-sc-bd57ab87-0 iKKaJE"><figure class="ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 cHMljQ" aria-label="스크랩 사용자 프로필"></figure><aside aria-label="스크랩 사용자 다이얼로그" class="ScrapUserDetail__StyledWrapper-sc-ffd59722-0 ghAIAN"><div class="detail-profile"><figure class="profile-image ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 cHMljQ" aria-label="스크랩 사용자 프로필"></figure></div><div class="detail-content"><span>이 친구와 함께 하고 싶다면?</span><a href="/activity/345926">[캐시워크] 데이터분석 담당 채용전환형 인턴</a><a href="/activity/330391">Business Analyst Assistant (6개월 인턴)</a></div></aside></li><li data-avartar-size="medium" class="ScrapUserItem__StyledWrapper-sc-bd57ab87-0 iKKaJE"><figure class="ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 cHMljQ" aria-label="스크랩 사용자 프로필"></figure><aside aria-label="스크랩 사용자 다이얼로그" class="ScrapUserDetail__StyledWrapper-sc-ffd59722-0 ghAIAN"><div class="detail-profile"><figure class="profile-image ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 cHMljQ" aria-label="스크랩 사용자 프로필"></figure></div><div class="detail-content"><span>이 친구와 함께 하고 싶다면?</span><a href="/activity/343824">[토니모리] 유통/다이소팀 인턴 채용</a></div></aside></li><li data-avartar-size="medium" class="ScrapUserItem__StyledWrapper-sc-bd57ab87-0 iKKaJE"><figure class="ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 knoczI" aria-label="스크랩 사용자 프로필"></figure><aside aria-label="스크랩 사용자 다이얼로그" class="ScrapUserDetail__StyledWrapper-sc-ffd59722-0 ghAIAN"><div class="detail-profile"><figure class="profile-image ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 knoczI" aria-label="스크랩 사용자 프로필"></figure></div><div class="detail-content"><span>이 친구와 함께 하고 싶다면?</span><a href="/activity/343824">[토니모리] 유통/다이소팀 인턴 채용</a><a href="/activity/345589">[중소벤처기업진흥공단] [일반직] 2026년 하반기 중소벤처기업진흥공단 채용 공고</a></div></aside></li><li data-avartar-size="medium" class="ScrapUserItem__StyledWrapper-sc-bd57ab87-0 iKKaJE"><figure class="ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 hDNIiI" aria-label="스크랩 사용자 프로필"></figure><aside aria-label="스크랩 사용자 다이얼로그" class="ScrapUserDetail__StyledWrapper-sc-ffd59722-0 ghAIAN"><div class="detail-profile"><figure class="profile-image ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 hDNIiI" aria-label="스크랩 사용자 프로필"></figure></div><div class="detail-content"><span>이 친구와 함께 하고 싶다면?</span><a href="/activity/345735">[EY한영] 컨설팅부문 Government Team 컨설팅 인턴</a><a href="/activity/343824">[토니모리] 유통/다이소팀 인턴 채용</a></div></aside></li><li data-avartar-size="medium" class="ScrapUserItem__StyledWrapper-sc-bd57ab87-0 iKKaJE"><figure class="ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 kBzgZs" aria-label="스크랩 사용자 프로필"></figure><aside aria-label="스크랩 사용자 다이얼로그" class="ScrapUserDetail__StyledWrapper-sc-ffd59722-0 ghAIAN"><div class="detail-profile"><figure class="profile-image ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 kBzgZs" aria-label="스크랩 사용자 프로필"></figure></div><div class="detail-content"><span>이 친구와 함께 하고 싶다면?</span><a href="/activity/345289">통영시 청년센터 캐릭터 공모전</a><a href="/activity/345358">통영시 청년센터 캐릭터 공모전</a></div></aside></li><li data-avartar-size="medium" class="ScrapUserItem__StyledWrapper-sc-bd57ab87-0 iKKaJE"><figure class="ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 hAYcXr" aria-label="스크랩 사용자 프로필"></figure><aside aria-label="스크랩 사용자 다이얼로그" class="ScrapUserDetail__StyledWrapper-sc-ffd59722-0 ghAIAN"><div class="detail-profile"><figure class="profile-image ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 hAYcXr" aria-label="스크랩 사용자 프로필"></figure></div><div class="detail-content"><span>이 친구와 함께 하고 싶다면?</span><a href="/activity/343510">[EY한영] 경영지원본부 총무팀 정규전환형 인턴</a><a href="/activity/343824">[토니모리] 유통/다이소팀 인턴 채용</a></div></aside></li><li data-avartar-size="medium" class="ScrapUserItem__StyledWrapper-sc-bd57ab87-0 iKKaJE"><figure class="ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 hqJFgV" aria-label="스크랩 사용자 프로필"></figure><aside aria-label="스크랩 사용자 다이얼로그" class="ScrapUserDetail__StyledWrapper-sc-ffd59722-0 ghAIAN"><div class="detail-profile"><figure class="profile-image ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 hqJFgV" aria-label="스크랩 사용자 프로필"></figure></div><div class="detail-content"><span>이 친구와 함께 하고 싶다면?</span><a href="/activity/343842">[신한투자증권] 대학생 체험형 인턴사원 공개채용_IPO본부</a><a href="/activity/344110">[유한양행] 2026년 계약직, 신입(인턴) 사원 채용</a></div></aside></li><li data-avartar-size="medium" class="ScrapUserItem__StyledWrapper-sc-bd57ab87-0 iKKaJE"><figure class="ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 cHMljQ" aria-label="스크랩 사용자 프로필"></figure><aside aria-label="스크랩 사용자 다이얼로그" class="ScrapUserDetail__StyledWrapper-sc-ffd59722-0 ghAIAN"><div class="detail-profile"><figure class="profile-image ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 cHMljQ" aria-label="스크랩 사용자 프로필"></figure></div><div class="detail-content"><span>이 친구와 함께 하고 싶다면?</span><a href="/activity/345484">대홍기획 디지털 광고기획AE 인턴 모집</a><a href="/activity/345560">[네이버웹툰] (SERIES) Marketing Creative Design (체험형 인턴)</a></div></aside></li><li data-avartar-size="medium" class="ScrapUserItem__StyledWrapper-sc-bd57ab87-0 iKKaJE"><figure class="ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 ghnjBi" aria-label="스크랩 사용자 프로필"></figure><aside aria-label="스크랩 사용자 다이얼로그" class="ScrapUserDetail__StyledWrapper-sc-ffd59722-0 ghAIAN"><div class="detail-profile"><figure class="profile-image ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 ghnjBi" aria-label="스크랩 사용자 프로필"></figure></div><div class="detail-content"><span>이 친구와 함께 하고 싶다면?</span><a href="/activity/345590">[카카오페이] [어시스턴트] 일반 총무 업무 지원</a><a href="/activity/345508">[인터브랜드 (주)] 2026 인턴십 Strategy Consulting (2개월)</a></div></aside></li><li data-avartar-size="medium" class="ScrapUserItem__StyledWrapper-sc-bd57ab87-0 iKKaJE"><figure class="ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 hqJFgV" aria-label="스크랩 사용자 프로필"></figure><aside aria-label="스크랩 사용자 다이얼로그" class="ScrapUserDetail__StyledWrapper-sc-ffd59722-0 ghAIAN"><div class="detail-profile"><figure class="profile-image ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 hqJFgV" aria-label="스크랩 사용자 프로필"></figure></div><div class="detail-content"><span>이 친구와 함께 하고 싶다면?</span><a href="/activity/338096">F&amp;B 브랜드 그로스 마케터 채용</a><a href="/activity/343824">[토니모리] 유통/다이소팀 인턴 채용</a></div></aside></li><li data-avartar-size="medium" class="ScrapUserItem__StyledWrapper-sc-bd57ab87-0 iKKaJE"><figure class="ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 clCltQ" aria-label="스크랩 사용자 프로필"></figure><aside aria-label="스크랩 사용자 다이얼로그" class="ScrapUserDetail__StyledWrapper-sc-ffd59722-0 ghAIAN"><div class="detail-profile"><figure class="profile-image ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 clCltQ" aria-label="스크랩 사용자 프로필"></figure></div><div class="detail-content"><span>이 친구와 함께 하고 싶다면?</span><a href="/activity/343824">[토니모리] 유통/다이소팀 인턴 채용</a><a href="/activity/343144">[LG생활건강]  소셜크루 인턴 모집</a></div></aside></li><li data-avartar-size="medium" class="ScrapUserItem__StyledWrapper-sc-bd57ab87-0 iKKaJE"><figure class="ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 kOqdWZ" aria-label="스크랩 사용자 프로필"></figure><aside aria-label="스크랩 사용자 다이얼로그" class="ScrapUserDetail__StyledWrapper-sc-ffd59722-0 ghAIAN"><div class="detail-profile"><figure class="profile-image ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 kOqdWZ" aria-label="스크랩 사용자 프로필"></figure></div><div class="detail-content"><span>이 친구와 함께 하고 싶다면?</span><a href="/activity/345070">[체험형 인턴십 채용] 국내 마케터</a><a href="/activity/345133">[카카오스타일] [인턴] CRM 마케터</a></div></aside></li><li data-avartar-size="medium" class="ScrapUserItem__StyledWrapper-sc-bd57ab87-0 iKKaJE"><figure class="ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 cHMljQ" aria-label="스크랩 사용자 프로필"></figure><aside aria-label="스크랩 사용자 다이얼로그" class="ScrapUserDetail__StyledWrapper-sc-ffd59722-0 ghAIAN"><div class="detail-profile"><figure class="profile-image ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 cHMljQ" aria-label="스크랩 사용자 프로필"></figure></div><div class="detail-content"><span>이 친구와 함께 하고 싶다면?</span><a href="/activity/343824">[토니모리] 유통/다이소팀 인턴 채용</a><a href="/activity/343970">[바이오던스] 국내 콘텐츠·퍼포먼스 마케팅 인턴</a></div></aside></li><li data-avartar-size="medium" class="ScrapUserItem__StyledWrapper-sc-bd57ab87-0 iKKaJE"><figure class="ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 bdUlpU" aria-label="스크랩 사용자 프로필"></figure><aside aria-label="스크랩 사용자 다이얼로그" class="ScrapUserDetail__StyledWrapper-sc-ffd59722-0 ghAIAN"><div class="detail-profile"><figure class="profile-image ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 bdUlpU" aria-label="스크랩 사용자 프로필"></figure></div><div class="detail-content"><span>이 친구와 함께 하고 싶다면?</span><a href="/activity/345560">[네이버웹툰] (SERIES) Marketing Creative Design (체험형 인턴)</a><a href="/activity/345309">[YG엔터테인먼트] [8월 수시채용] 홍보팀 / 아티스트 홍보 담당자 (신입)</a></div></aside></li><li data-avartar-size="medium" class="ScrapUserItem__StyledWrapper-sc-bd57ab87-0 iKKaJE"><figure class="ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 hNdQmO" aria-label="스크랩 사용자 프로필"></figure><aside aria-label="스크랩 사용자 다이얼로그" class="ScrapUserDetail__StyledWrapper-sc-ffd59722-0 ghAIAN"><div class="detail-profile"><figure class="profile-image ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 hNdQmO" aria-label="스크랩 사용자 프로필"></figure></div><div class="detail-content"><span>이 친구와 함께 하고 싶다면?</span><a href="/activity/343715">[이카운트] 마케팅팀 전환형 인턴 채용</a><a href="/activity/343840">[서북] [포토이즘] 포토이즘 마케터 (인턴)</a></div></aside></li><li data-avartar-size="medium" class="ScrapUserItem__StyledWrapper-sc-bd57ab87-0 iKKaJE"><figure class="ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 LwbpI" aria-label="스크랩 사용자 프로필"></figure><aside aria-label="스크랩 사용자 다이얼로그" class="ScrapUserDetail__StyledWrapper-sc-ffd59722-0 ghAIAN"><div class="detail-profile"><figure class="profile-image ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 LwbpI" aria-label="스크랩 사용자 프로필"></figure></div><div class="detail-content"><span>이 친구와 함께 하고 싶다면?</span><a href="/activity/343824">[토니모리] 유통/다이소팀 인턴 채용</a><a href="/activity/341965">[신한저축은행] 채용연계형 인턴(신입)</a></div></aside></li><li data-avartar-size="medium" class="ScrapUserItem__StyledWrapper-sc-bd57ab87-0 iKKaJE"><figure class="ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 cHMljQ" aria-label="스크랩 사용자 프로필"></figure><aside aria-label="스크랩 사용자 다이얼로그" class="ScrapUserDetail__StyledWrapper-sc-ffd59722-0 ghAIAN"><div class="detail-profile"><figure class="profile-image ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 cHMljQ" aria-label="스크랩 사용자 프로필"></figure></div><div class="detail-content"><span>이 친구와 함께 하고 싶다면?</span><a href="/activity/344907">[House of HUR] 글로벌 마케팅 (체험형 인턴)</a><a href="/activity/345132">[더파운더즈] [재무] 해외 송금 프로세스 운영 및 결산 담당 전환형 인턴</a></div></aside></li><li data-avartar-size="medium" class="ScrapUserItem__StyledWrapper-sc-bd57ab87-0 iKKaJE"><figure class="ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 cHMljQ" aria-label="스크랩 사용자 프로필"></figure><aside aria-label="스크랩 사용자 다이얼로그" class="ScrapUserDetail__StyledWrapper-sc-ffd59722-0 ghAIAN"><div class="detail-profile"><figure class="profile-image ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 cHMljQ" aria-label="스크랩 사용자 프로필"></figure></div><div class="detail-content"><span>이 친구와 함께 하고 싶다면?</span><a href="/activity/344996">[LG전자] 2026년 하반기 LG전자 신입사원 채용</a><a href="/activity/343824">[토니모리] 유통/다이소팀 인턴 채용</a></div></aside></li><li data-avartar-size="medium" class="ScrapUserItem__StyledWrapper-sc-bd57ab87-0 iKKaJE"><figure class="ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 hqJFgV" aria-label="스크랩 사용자 프로필"></figure><aside aria-label="스크랩 사용자 다이얼로그" class="ScrapUserDetail__StyledWrapper-sc-ffd59722-0 ghAIAN"><div class="detail-profile"><figure class="profile-image ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 hqJFgV" aria-label="스크랩 사용자 프로필"></figure></div><div class="detail-content"><span>이 친구와 함께 하고 싶다면?</span><a href="/activity/343824">[토니모리] 유통/다이소팀 인턴 채용</a><a href="/activity/345071">[경동] 8월 채용연계형 인턴 채용</a></div></aside></li><li data-avartar-size="medium" class="ScrapUserItem__StyledWrapper-sc-bd57ab87-0 iKKaJE"><figure class="ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 coMrUB" aria-label="스크랩 사용자 프로필"></figure><aside aria-label="스크랩 사용자 다이얼로그" class="ScrapUserDetail__StyledWrapper-sc-ffd59722-0 ghAIAN"><div class="detail-profile"><figure class="profile-image ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 coMrUB" aria-label="스크랩 사용자 프로필"></figure></div><div class="detail-content"><span>이 친구와 함께 하고 싶다면?</span><a href="/activity/329682">사업 운영 인턴 [6개월, 정규직 전환형]</a><a href="/activity/327051">[지멘스] 모빌리 주문 및 운영 지원 담당 (인턴)</a></div></aside></li><li data-avartar-size="medium" class="ScrapUserItem__StyledWrapper-sc-bd57ab87-0 iKKaJE"><figure class="ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 hqJFgV" aria-label="스크랩 사용자 프로필"></figure><aside aria-label="스크랩 사용자 다이얼로그" class="ScrapUserDetail__StyledWrapper-sc-ffd59722-0 ghAIAN"><div class="detail-profile"><figure class="profile-image ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 hqJFgV" aria-label="스크랩 사용자 프로필"></figure></div><div class="detail-content"><span>이 친구와 함께 하고 싶다면?</span><a href="/activity/345808">[신용산] 제약사 헤일리온 Marketing인턴(6M)</a><a href="/activity/345571">[현대비앤지스틸] 대졸신입사원(경영기획) 채용</a></div></aside></li><li data-avartar-size="medium" class="ScrapUserItem__StyledWrapper-sc-bd57ab87-0 iKKaJE"><figure class="ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 hqJFgV" aria-label="스크랩 사용자 프로필"></figure><aside aria-label="스크랩 사용자 다이얼로그" class="ScrapUserDetail__StyledWrapper-sc-ffd59722-0 ghAIAN"><div class="detail-profile"><figure class="profile-image ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 hqJFgV" aria-label="스크랩 사용자 프로필"></figure></div><div class="detail-content"><span>이 친구와 함께 하고 싶다면?</span><a href="/activity/343824">[토니모리] 유통/다이소팀 인턴 채용</a><a href="/activity/344996">[LG전자] 2026년 하반기 LG전자 신입사원 채용</a></div></aside></li><li data-avartar-size="medium" class="ScrapUserItem__StyledWrapper-sc-bd57ab87-0 iKKaJE"><figure class="ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 dVCeKL" aria-label="스크랩 사용자 프로필"></figure><aside aria-label="스크랩 사용자 다이얼로그" class="ScrapUserDetail__StyledWrapper-sc-ffd59722-0 ghAIAN"><div class="detail-profile"><figure class="profile-image ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 dVCeKL" aria-label="스크랩 사용자 프로필"></figure></div><div class="detail-content"><span>이 친구와 함께 하고 싶다면?</span><a href="/activity/343144">[LG생활건강]  소셜크루 인턴 모집</a><a href="/activity/343824">[토니모리] 유통/다이소팀 인턴 채용</a></div></aside></li><li data-avartar-size="medium" class="ScrapUserItem__StyledWrapper-sc-bd57ab87-0 iKKaJE"><figure class="ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 hqJFgV" aria-label="스크랩 사용자 프로필"></figure><aside aria-label="스크랩 사용자 다이얼로그" class="ScrapUserDetail__StyledWrapper-sc-ffd59722-0 ghAIAN"><div class="detail-profile"><figure class="profile-image ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 hqJFgV" aria-label="스크랩 사용자 프로필"></figure></div><div class="detail-content"><span>이 친구와 함께 하고 싶다면?</span><a href="/activity/344390">[신용산역] GSK Marketing &amp; Contents Operations Associate 채용</a><a href="/activity/344424">[피플] 리크루팅 코디네이터 단기 인턴</a></div></aside></li><li data-avartar-size="medium" class="ScrapUserItem__StyledWrapper-sc-bd57ab87-0 iKKaJE"><figure class="ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 fedgxD" aria-label="스크랩 사용자 프로필"></figure><aside aria-label="스크랩 사용자 다이얼로그" class="ScrapUserDetail__StyledWrapper-sc-ffd59722-0 ghAIAN"><div class="detail-profile"><figure class="profile-image ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 fedgxD" aria-label="스크랩 사용자 프로필"></figure></div><div class="detail-content"><span>이 친구와 함께 하고 싶다면?</span><a href="/activity/345264">[우아한청년들/배달의민족] 채용연계형 인턴 모집</a><a href="/activity/345348">[우아한청년들] [채용연계형 인턴] 파트너 영업 Specialist(신입)</a></div></aside></li><li data-avartar-size="medium" class="ScrapUserItem__StyledWrapper-sc-bd57ab87-0 iKKaJE"><figure class="ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 coMrUB" aria-label="스크랩 사용자 프로필"></figure><aside aria-label="스크랩 사용자 다이얼로그" class="ScrapUserDetail__StyledWrapper-sc-ffd59722-0 ghAIAN"><div class="detail-profile"><figure class="profile-image ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 coMrUB" aria-label="스크랩 사용자 프로필"></figure></div><div class="detail-content"><span>이 친구와 함께 하고 싶다면?</span><a href="/activity/345258">[Assistant] BX디자인팀 업무 보조</a><a href="/activity/345484">대홍기획 디지털 광고기획AE 인턴 모집</a></div></aside></li><li data-avartar-size="medium" class="ScrapUserItem__StyledWrapper-sc-bd57ab87-0 iKKaJE"><figure class="ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 hqJFgV" aria-label="스크랩 사용자 프로필"></figure><aside aria-label="스크랩 사용자 다이얼로그" class="ScrapUserDetail__StyledWrapper-sc-ffd59722-0 ghAIAN"><div class="detail-profile"><figure class="profile-image ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 hqJFgV" aria-label="스크랩 사용자 프로필"></figure></div><div class="detail-content"><span>이 친구와 함께 하고 싶다면?</span><a href="/activity/343931">[아모레퍼시픽] 에코-뷰티 AI 크리에이터 대작전 (~9/13)</a><a href="/activity/345137">[지마켓] [신입] Account Manager</a></div></aside></li><li data-avartar-size="medium" class="ScrapUserItem__StyledWrapper-sc-bd57ab87-0 iKKaJE"><figure class="ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 ghEJfi" aria-label="스크랩 사용자 프로필"></figure><aside aria-label="스크랩 사용자 다이얼로그" class="ScrapUserDetail__StyledWrapper-sc-ffd59722-0 ghAIAN"><div class="detail-profile"><figure class="profile-image ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 ghEJfi" aria-label="스크랩 사용자 프로필"></figure></div><div class="detail-content"><span>이 친구와 함께 하고 싶다면?</span><a href="/activity/343398">[Dauspice] 디오스피스 크루 1기 모집</a><a href="/activity/345065">[체험형 인턴십 채용] 글로벌 마케터</a></div></aside></li><li data-avartar-size="medium" class="ScrapUserItem__StyledWrapper-sc-bd57ab87-0 iKKaJE"><figure class="ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 ewZSgS" aria-label="스크랩 사용자 프로필"></figure><aside aria-label="스크랩 사용자 다이얼로그" class="ScrapUserDetail__StyledWrapper-sc-ffd59722-0 ghAIAN"><div class="detail-profile"><figure class="profile-image ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 ewZSgS" aria-label="스크랩 사용자 프로필"></figure></div><div class="detail-content"><span>이 친구와 함께 하고 싶다면?</span><a href="/activity/344647">[ 마녀공장] (체험형) 전략기획 인턴 채용</a><a href="/activity/345072">[체험형 인턴십 채용] 국내 MD</a></div></aside></li><li data-avartar-size="medium" class="ScrapUserItem__StyledWrapper-sc-bd57ab87-0 iKKaJE"><figure class="ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 cEFFif" aria-label="스크랩 사용자 프로필"></figure><aside aria-label="스크랩 사용자 다이얼로그" class="ScrapUserDetail__StyledWrapper-sc-ffd59722-0 ghAIAN"><div class="detail-profile"><figure class="profile-image ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 cEFFif" aria-label="스크랩 사용자 프로필"></figure></div><div class="detail-content"><span>이 친구와 함께 하고 싶다면?</span><a href="/activity/344835">[신한투자증권] 대학생 체험형 인턴사원 공개채용_기업금융센터</a><a href="/activity/343686">[신한투자증권] 2026년 신입사원 채용(통합 직무)</a></div></aside></li><li data-avartar-size="medium" class="ScrapUserItem__StyledWrapper-sc-bd57ab87-0 iKKaJE"><figure class="ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 lvORv" aria-label="스크랩 사용자 프로필"></figure><aside aria-label="스크랩 사용자 다이얼로그" class="ScrapUserDetail__StyledWrapper-sc-ffd59722-0 ghAIAN"><div class="detail-profile"><figure class="profile-image ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 lvORv" aria-label="스크랩 사용자 프로필"></figure></div><div class="detail-content"><span>이 친구와 함께 하고 싶다면?</span><a href="/activity/343303">[우아한청년들/배달의민족] 광고 운영지원 인턴 모집</a><a href="/activity/342611">프로모션 마케터 인턴</a></div></aside></li><li data-avartar-size="medium" class="ScrapUserItem__StyledWrapper-sc-bd57ab87-0 iKKaJE"><figure class="ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 DxqWV" aria-label="스크랩 사용자 프로필"></figure><aside aria-label="스크랩 사용자 다이얼로그" class="ScrapUserDetail__StyledWrapper-sc-ffd59722-0 ghAIAN"><div class="detail-profile"><figure class="profile-image ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 DxqWV" aria-label="스크랩 사용자 프로필"></figure></div><div class="detail-content"><span>이 친구와 함께 하고 싶다면?</span><a href="/activity/344426">[한국능률협회컨설팅] 공공부문 리서치·데이터분석 Project Assistant 모집</a><a href="/activity/345071">[경동] 8월 채용연계형 인턴 채용</a></div></aside></li><li data-avartar-size="medium" class="ScrapUserItem__StyledWrapper-sc-bd57ab87-0 iKKaJE"><figure class="ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 bNrUQj" aria-label="스크랩 사용자 프로필"></figure><aside aria-label="스크랩 사용자 다이얼로그" class="ScrapUserDetail__StyledWrapper-sc-ffd59722-0 ghAIAN"><div class="detail-profile"><figure class="profile-image ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 bNrUQj" aria-label="스크랩 사용자 프로필"></figure></div><div class="detail-content"><span>이 친구와 함께 하고 싶다면?</span><a href="/activity/345484">대홍기획 디지털 광고기획AE 인턴 모집</a><a href="/activity/343824">[토니모리] 유통/다이소팀 인턴 채용</a></div></aside></li><li data-avartar-size="medium" class="ScrapUserItem__StyledWrapper-sc-bd57ab87-0 iKKaJE"><figure class="ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 coMrUB" aria-label="스크랩 사용자 프로필"></figure><aside aria-label="스크랩 사용자 다이얼로그" class="ScrapUserDetail__StyledWrapper-sc-ffd59722-0 ghAIAN"><div class="detail-profile"><figure class="profile-image ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 coMrUB" aria-label="스크랩 사용자 프로필"></figure></div><div class="detail-content"><span>이 친구와 함께 하고 싶다면?</span><a href="/activity/343842">[신한투자증권] 대학생 체험형 인턴사원 공개채용_IPO본부</a><a href="/activity/343162">[한국무역보험공사] 2026년 하반기 일반직 신입사원 채용공고</a></div></aside></li><li data-avartar-size="medium" class="ScrapUserItem__StyledWrapper-sc-bd57ab87-0 iKKaJE"><figure class="ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 eXqxnv" aria-label="스크랩 사용자 프로필"></figure><aside aria-label="스크랩 사용자 다이얼로그" class="ScrapUserDetail__StyledWrapper-sc-ffd59722-0 ghAIAN"><div class="detail-profile"><figure class="profile-image ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 eXqxnv" aria-label="스크랩 사용자 프로필"></figure></div><div class="detail-content"><span>이 친구와 함께 하고 싶다면?</span><a href="/activity/345348">[우아한청년들] [채용연계형 인턴] 파트너 영업 Specialist(신입)</a><a href="/activity/343824">[토니모리] 유통/다이소팀 인턴 채용</a></div></aside></li><li data-avartar-size="medium" class="ScrapUserItem__StyledWrapper-sc-bd57ab87-0 iKKaJE"><figure class="ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 cHMljQ" aria-label="스크랩 사용자 프로필"></figure><aside aria-label="스크랩 사용자 다이얼로그" class="ScrapUserDetail__StyledWrapper-sc-ffd59722-0 ghAIAN"><div class="detail-profile"><figure class="profile-image ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 cHMljQ" aria-label="스크랩 사용자 프로필"></figure></div><div class="detail-content"><span>이 친구와 함께 하고 싶다면?</span><a href="/activity/345571">[현대비앤지스틸] 대졸신입사원(경영기획) 채용</a><a href="/activity/345586">[한화에어로스페이스] 2026년 하반기 대규모 신입사원 채용 (사전공고)</a></div></aside></li><li data-avartar-size="medium" class="ScrapUserItem__StyledWrapper-sc-bd57ab87-0 iKKaJE"><figure class="ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 coMrUB" aria-label="스크랩 사용자 프로필"></figure><aside aria-label="스크랩 사용자 다이얼로그" class="ScrapUserDetail__StyledWrapper-sc-ffd59722-0 ghAIAN"><div class="detail-profile"><figure class="profile-image ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 coMrUB" aria-label="스크랩 사용자 프로필"></figure></div><div class="detail-content"><span>이 친구와 함께 하고 싶다면?</span><a href="/activity/346021">[카카오뱅크] 광고제휴솔루션 어시스턴트 (체험형 인턴)</a><a href="/activity/345586">[한화에어로스페이스] 2026년 하반기 대규모 신입사원 채용 (사전공고)</a></div></aside></li><li data-avartar-size="medium" class="ScrapUserItem__StyledWrapper-sc-bd57ab87-0 iKKaJE"><figure class="ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 coMrUB" aria-label="스크랩 사용자 프로필"></figure><aside aria-label="스크랩 사용자 다이얼로그" class="ScrapUserDetail__StyledWrapper-sc-ffd59722-0 ghAIAN"><div class="detail-profile"><figure class="profile-image ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 coMrUB" aria-label="스크랩 사용자 프로필"></figure></div><div class="detail-content"><span>이 친구와 함께 하고 싶다면?</span><a href="/activity/345330">[Bain &amp; Company] Intern, Human Resources</a><a href="/activity/343824">[토니모리] 유통/다이소팀 인턴 채용</a></div></aside></li><li data-avartar-size="medium" class="ScrapUserItem__StyledWrapper-sc-bd57ab87-0 iKKaJE"><figure class="ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 ewZSgS" aria-label="스크랩 사용자 프로필"></figure><aside aria-label="스크랩 사용자 다이얼로그" class="ScrapUserDetail__StyledWrapper-sc-ffd59722-0 ghAIAN"><div class="detail-profile"><figure class="profile-image ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 ewZSgS" aria-label="스크랩 사용자 프로필"></figure></div><div class="detail-content"><span>이 친구와 함께 하고 싶다면?</span><a href="/activity/343824">[토니모리] 유통/다이소팀 인턴 채용</a><a href="/activity/337674">[마케팅] 포토그레이 온라인 콘텐츠 마케팅 채용연계형 인턴사원 모집</a></div></aside></li><li data-avartar-size="medium" class="ScrapUserItem__StyledWrapper-sc-bd57ab87-0 iKKaJE"><figure class="ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 dcYYxI" aria-label="스크랩 사용자 프로필"></figure><aside aria-label="스크랩 사용자 다이얼로그" class="ScrapUserDetail__StyledWrapper-sc-ffd59722-0 ghAIAN"><div class="detail-profile"><figure class="profile-image ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 dcYYxI" aria-label="스크랩 사용자 프로필"></figure></div><div class="detail-content"><span>이 친구와 함께 하고 싶다면?</span><a href="/activity/343510">[EY한영] 경영지원본부 총무팀 정규전환형 인턴</a><a href="/activity/343858">[라운드랩] 2026년 하반기 마케팅 인턴</a></div></aside></li><li data-avartar-size="medium" class="ScrapUserItem__StyledWrapper-sc-bd57ab87-0 iKKaJE"><figure class="ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 giZbdp" aria-label="스크랩 사용자 프로필"></figure><aside aria-label="스크랩 사용자 다이얼로그" class="ScrapUserDetail__StyledWrapper-sc-ffd59722-0 ghAIAN"><div class="detail-profile"><figure class="profile-image ScrapUserAvatar__StyledWrapper-sc-3133ea5-0 giZbdp" aria-label="스크랩 사용자 프로필"></figure></div><div class="detail-content"><span>이 친구와 함께 하고 싶다면?</span><a href="/activity/343824">[토니모리] 유통/다이소팀 인턴 채용</a></div></aside></li></ul><button>더보기<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 9.037 16" aria-label="오른쪽 화살표"><desc>오른쪽 화살표</desc><g transform="rotate(180, 4.5185,8) "><path fill="currentColor" d="M7.963 16a1 1 0 00.707-1.707L2.414 8.037l6.33-6.33A1 1 0 107.33.293L.293 7.33a1 1 0 000 1.414l6.964 6.963a1 1 0 00.706.293z"></path></g></svg></button></div></section></article><section id="STUDY_RECRUIT" class="StudyRecruitTabEmpty__StyledWrapper-sc-d543a5ed-0 iXIzuK"><div class="StudyRecruitTabEmptyContent__StyledWrapper-sc-e3665d5b-0 jshIli"><h2>스터디 모집</h2><p>지원부터 면접까지 함께 준비할 스터디를 찾아보세요</p><hr><section class="none-box"><strong>아직 해당 공고의 스터디원을 모집하는 글이 없어요</strong><p>직접 모집글을 작성해 스터디원을 모집해보세요!</p><a target="_blank" rel="noopener noreferrer" class="write-post StudyRecruitWritePostLinkButton__StyledWrapper-sc-c546ec52-0 hAqpfb" href="https://community.linkareer.com/new-post?board_id=4163724&amp;companyName=%ED%86%A0%EB%8B%88%EB%AA%A8%EB%A6%AC">스터디 모집글 쓰기</a><a target="_blank" rel="noopener noreferrer" class="StudyRecruitViewPostsLinkButton__StyledWrapper-sc-63d64db4-0 kVxqie" href="https://community.linkareer.com/recruit_study">스터디 모집글 보기<i><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 9.037 16" aria-label="오른쪽 화살표"><desc>오른쪽 화살표</desc><g transform="rotate(180, 4.5185,8) "><path fill="currentColor" d="M7.963 16a1 1 0 00.707-1.707L2.414 8.037l6.33-6.33A1 1 0 107.33.293L.293 7.33a1 1 0 000 1.414l6.964 6.963a1 1 0 00.706.293z"></path></g></svg></i></a></section></div></section><section id="COMMUNITY" data-webview="false" aria-label="합격 자료" class="ActivityItemCommunityTab__StyledWrapper-sc-7fc5c74d-0 FKJGy"><section class="CommunityTabCoverLetter__StyledWrapper-sc-12c25f2-0 emsGLU"><header><h2>합격스펙 &amp; 합격자소서</h2><a target="_blank" rel="noopener noreferrer" href="/cover-letter/search?keyword=%ED%86%A0%EB%8B%88%EB%AA%A8%EB%A6%AC">더보기<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 9.037 16" aria-label="오른쪽 화살표"><desc>오른쪽 화살표</desc><g transform="rotate(180, 4.5185,8) "><path fill="currentColor" d="M7.963 16a1 1 0 00.707-1.707L2.414 8.037l6.33-6.33A1 1 0 107.33.293L.293 7.33a1 1 0 000 1.414l6.964 6.963a1 1 0 00.706.293z"></path></g></svg></a></header><ul><li class="CommunityTabItem__StyledWrapper-sc-ca790639-0 gqdRzg"><article><h3 class="tab-item-title"><a target="_blank" rel="noopener noreferrer" href="/cover-letter/35188">경기대 / 시각디자인 / 학점 4.33/4.5 / it 기업 인턴 2회 / 광고 연합 동아리, 디자인 서포터즈 등</a></h3><p class="content">1. 본인 소개와 지원 동기를 작성해주세요. 
+ 
+ 디자인을 통해 브랜드와 사람 사이의 ‘연결’을 만드는 것을 지향합니다. 사용자 경험을 세심히 관찰하고 다양한 해석을 시도하며 브랜드가 삶을 어떻게 변화시키는지에 집중하며 디자인을 설계합니다.
+  
+ 대학 재학 중 기업 인턴십을 통해, 다양한 대규모 오프라인 행사 기획을 담당했습니다. 행사의 타겟을 명확히 이해하고, 전 연령층이 즐길 수 있는 사용자 경험을 설계했습니다. 특히 시니어의 비율이 높을 것을 고려해 가독성을 우선으로 디자인했고, 접근성을 확보하며 디자이너로서의 역량을 키워나갔습니다.
+ 
+ 다양한 디자인 서포터즈 활동을 통해 아이덴티티를 시각화하는 다양한 프로젝트를 경험했습니다. 온/오프라인의 다양한 접점에서 브랜드에 어울리는 매력적인 비주얼 전략을 수립하는 데 집중했습니다. 프로젝트 목적과 타깃의 니즈를 분석해 퀄리티 높은 비주얼과 친절한 브랜드 경험을 기획했고, 고객과의 연결을 더욱 공고히 할 수 있었습니다.
+ 
+ 토니모리의 디자이너로 함께하게 된다면, 사용자 중심의 관점을 바탕으로 제품 정보를 효과적으로 전달하는 콘텐츠를 설계하겠습니다. 브랜드 가치를 강화하고, 고객과 토니모리가 연결되는 경험을 만들어가겠습니다. 다양한 콘텐츠 디자인으로 일상에 토니모리가 매력적으로 스며드는 디자인을 설계하겠습니다.</p><footer><p>2025 하반기</p><p>토니모리</p><p>웹디자인(브랜드컨텐츠파트)</p></footer></article></li><li class="CommunityTabItem__StyledWrapper-sc-ca790639-0 gqdRzg"><article><h3 class="tab-item-title"><a target="_blank" rel="noopener noreferrer" href="/cover-letter/13312">신소재 / 학점 3.32 / 오픽 IM2</a></h3><p class="content">1. 삼성취업을 선택한 이유와 입사 후 회사에서 이루고 싶은 꿈을 기술하십시오.
+
+[미래를 현실로]
+저는 영화보는 것을 굉장히 좋아합니다. 특히 SF/환타지 장르의 영화를 좋아합니다. 좋아하는 영화는 2~3번씩 보기도 합니다. SF장르 영화를 좋아하는 이유는 바로 현재에는 없는 미래의 기술을 컴퓨터 그래픽으로 표현되어 있기 때문입니다. 예를 들면 아이언맨에서 토니 스타크가 만든 AI ‘자비스’, 그리고 연구실에 있는 수많은 3D 디스플레이 홀로그램등이 있습니다. 이런 영화를 보며 이러한 디스플레이들을 직접 만들어 보고 싶다는 생각이 들었습니다. 지금까지 flexable 디스플레이 투명 디스플레이등 많은 디스플레이들이 개발되고 연구되고 있습니다. 그 중심에 있는 회사가 바로 삼성 디스플레이라고 생각하여 삼성 디스플레이에 지원을 하게 되었습니다. 제 꿈은 영화를 현실로 만드는 것입니다. 저는 회사에 입사를 하게 되면 미래기술을 선동해 나가는 그룹이 되고 싶습니다. 10년 20년 전에는 영화에서만 볼 수 있는 기술들이 현재는 기술 발전으로 구현가능단계 까지 왔습니다. 저는 이렇듯 지금 영화에서만 볼 수 있는 그러한 기술들을 제 손으로 직접 연구하고 계발 하고 싶습니다. 그렇기에 저는 삼성 디스플레이에 지원을 하게 되었습니다. 
+
+
+
+2. 본인의 성장과정을 간략히 기술하되 현재의 자신에게 가장 큰 영향을 끼친 사건, 인물 등을 포함하여 기술하시기 바랍니다. (※작품속 가상인물도 가능)
+
+[인생의 시작]
+저는 중학교 1학년 때 저의 고향인 함안군 교육청에서 주관한 영재교육원을 1년간 다진 적이 있습니다, 초등학교 6학년 때 담임선생님께서 추천 해 주셔서 시험을 치게 되었고 함안군에서 16명 만 뽑는 영제교육원에 합격해 교육을 받았습니다. 매주 토욜일 저는 영제교육원에서 새로운 경험을 했습니다. 초등학교 중학교 고등학교 모든 학교를 다니면서도 해보지 못한 여려가지 과학실험도 해보고 직접 청문회도 해보고 많은 공부를 했습니다. 그 1년 이후로 저는 과학이란 과목에 흥미가 생겼고 흥미가 생긴 만큼 공부를 하다 보니 결국 공대에 오게 되었습니다. 저는 이 영제교육원이 저의 인생의 시작점이라 생각합니다.
+
+[아버지의 도전정신]
+대한민국 20대 청년으로 자라면서까지 딱히 힘든 사건, 일들은 없이 평범하게 초,중,고등학교를 다니고 대학교에 입학해 국방의 의무를 다하는 그런 평범한 학생이었습니다. 군대를 가기 전 까지만 해도 남들이 하니깐 공부하고 남들이 하니깐 따라하는 그런 굉장히 수동적인 사람이었습니다. 군대를 전역한 후 달라지고 싶은 마음은 굴뚝같았지만 무얼 해야 하는지 도저히 감을 잡을 수 가 없었습니다. 그렇게 한학기가 지나고 여름방학 때 아버지가 저에게 여름방학 때 재주도 환상종주 자전거 길을 완주 하자고 하셨습니다. 처음에는 굉장히 꺼려 졌습니다. 평소에 자전거는 이동수단 외에는 생각해 보지 않았기 때문입니다. 하지만 아버지는 MTB를 타시면서 전국 자전거 길을 완주 하시는 것이 목표라고 하셨습니다. 몇 번의 설득 끝에 저는 참여 하게 되었고 약 240km의 해안도로 자전거 길을 4박5일에 걸쳐 완주를 하게 되었습니다. 처음 시작은 햇빛도 강하고 바람도 많이 불어 굉장히 힘들었습니다. 하지만 하루하루 지도를 보면 볼수록 뿌듯한 느낌과 해낼 수 있다는 생각이 들어 더욱 힘차게 앞으로 나아갔습니다. 도착하고 나서의 기쁨은 이루 말할 수 없을 정도였습니다. 그 후로 아버지는 계속 해서 전국 자전거 길을 찾아다니면서 완주의 꿈으로 다가가고 있습니다. 그런 아버지를 보고 저도 많은 것을 깨달았습니다. 하고 싶은 것이 있으면 주저하지 않고 바로바로 도전하시는 아버지처럼 저도 아무리 작고 사소한 것 일지라도 주저하지 않고 바로 도전하는 그리고 이루어 내는 그런 사람이 되어야겠다는 다짐을 하게 되었습니다.
+
+
+
+3. 최근 사회이슈 중 중요하다고 생각되는 한가지를 선택하고 이에 관한 자신의 견해를 기술해 주시기 바랍니다.
+
+[더 이상 안전히지 않은 대한민국]
+최근 경북 경주에서 규모 5.8의 강진이 일어났습니다. 그 후로도 몇차례나 더 여진이 일어 났고 대한민국에서 좀처럼 볼 수 없던 지진의 강도이었기에 더욱 큰 이슈가 되었습니다. 현재는 경주를 특별재난지역으로 정하자는 목소리도 나오고 있습니다. 한 달전 저는 일본에 도쿄로 4박 5일간 여행을 간 적이 있습니다. 그때도 규모 4.1의 지진이 일어났고 흔들림을 느꼈을 당시 친구들과 저는 생전 처음 느껴보는 지진에 굉장히 당황했습니다. 하지만 흔들림이 있은 후 약 1분 정도 후에 TV에서는 어디서 규모 몇의 지진이 일어났고 어떤 사항이니 괜찮다는 속보가 떳습니다. 그리고 9월 12일 경주에서 지진이 났을때도 저는 고향에 있어 생생하게 지진을 느낄 수 있었습니다.지진을 한번 느껴 본 저는 지진이란것을 바로 알 수 있었고 바로 TV를 틀고 속보를 기다리고 있었습니다. 하지만 속보는 좀처럼 보이지 않았고 심지어 핸드폰 메신져도 불통이 되 다른 가족들, 친구들에게 연락도 쉽지 않았습니다. 이날 그리고 그후 몇일 간 뉴스를 보면서 일본과의 차이를 많이 느꼈습니다. 가장 먼저 느낀차이는 지진을 알리는 속도입니다. 일본에서는 이게 지진인가 라고 생각하는 순간 TV에서 속보가 나왔지만 한국에서는 지진이다 라고 판단하고 난 뒤 몇분 후에야 속보가 나왔습니다. 물론 지진이 굉장히 많이 일어나는 일본이기에 더욱 대처가 빨랐을 것입니다. 하지만 대한민국도 더이상 안전지대라고 판단되지 않기 때문에 항상 빼른 대처를 준비해야 한다고 생각합니다. 그리고 국민들이 대하는 자세도 많이 차이 났습니다. 이번 지진의 경우 5.8이라는 강진이라 일본에서 느낀 지진과 직접적인 비교가 되지 않았지만 가구가 흔들리는 규모의 지진에도 일본 사람들은 침착하게 행동했습니다. 그에 반면 한국사람들은 대부분이 처음 느낀 지진아 많이 당황한 모습들이 보였습니다. 이제는 대한민국 국민들도 큰 지진에 대한 대처 방법을 미리 준비해야 한다고 생각합니다</p><footer><p>2016 하반기</p><p>삼성디스플레이</p><p>연구개발</p></footer></article></li><li class="CommunityTabItem__StyledWrapper-sc-ca790639-0 gqdRzg"><article><h3 class="tab-item-title"><a target="_blank" rel="noopener noreferrer" href="/cover-letter/21514">지거국 / 기계 / 학점 3.8 / 토스 lv6</a></h3><p class="content">1. 귀하의 평소 생활신조와 직장관은 무엇입니까?
+
+"혁신의 또 다른 이름, 엉뚱한 상상"
+
+어려서부터 주변사람들에게 엉뚱한 상상을 많이 한다는 이야기를 자주 들었습니다. 이불 속에서 동생들과 우주 비행선을 조종하는 놀이를 하거나 상상 속 미래의 물건을 과학상자로 만드는 것이 최고의 취미였습니다. 상상의 물건을 남들에게 말하면 망상이라 치부하였지만 그래도 언젠가 이러한 물건들이 미래에 매우 유용하게 쓰일 것이라고 믿어왔습니다. 더치커피 사업을 하며 '더치커피 제조를 어떻게 누구나 쉽게 만들 수 있을까?'했던 저의 고민이 현재는 특허를 받은 기술이 되었습니다.
+
+하이브리드 자동차, 전기 자동차 등 에너지 관련 자동차 이 외에도 하늘을 나는 자동차, 바다를 달리는 자동차 같은 현재보다 공간의 제약이 줄어드는 세상이 올 것이라고 생각합니다. 저의 엉뚱한 상상이 자그마한 혁신이 되어 보다 나은 기술을 만들기를 바랍니다. 그리고 이런 상상을 실현하여 혁신이 되기까지 가장 힘이 되어줄 곳은 바로 현대 다이모스입니다.
+
+"금 술잔을 나누는 情"
+
+저의 한자 이름은 '금 술잔을 나누는 사람'으로 해석 할 수 있습니다. 이러한 이름 때문인지 저는 술을 잘 마시지는 못하지만 술자리를 좋아합니다. 단순히 술이 좋아서가 아니라 이런 사람, 저런 사람 알아가는 것이 재미있고, 또 그들과 친하게 지낼 수 있는 기회가 주어지는 것이 좋아 사람을 가리지 않고 참석하는 편입니다. 엇갈린 군 입대로 인해 친해질 기회가 없었던 같은 과의 형과 전역 후 술자리를 가지게 되었습니다. 이를 통해 그 형과 힘든 일이나 고민을 들어주는 둘도 없는 친구가 됐고 현재는 자취방에서 룸메이트로 지내고 있습니다.
+
+혼자만의 벽을 쌓아 자신의 세계에 갇히는 것보다 벽을 부수어 타인과의 교류를 통해 더 많은 것을 배우는 것이 넓은 시야를 가지게 만든다고 생각합니다. 호탕하며 타인과 어울리는 것을 좋아하고 모 나지 않은 저의 성격은 현대다이모스의 경쟁력이 될 것입니다.
+
+“최악의 경우라도 최선을 다하라”
+
+저희 집의 가훈은 `최악의 경우라도 최선을 다하라`입니다. 전역 후 더치커피 업체를 설립하였습니다. 그러던 중 일부 더치커피 업체가 불량한 음료를 납품한 사실이 보도되었습니다. 이에 어떻게 하면 소비자와 거래업체에게 위생에 관한 신뢰를 줄 수 있을까 고민하던 차에 HACCP라는 것을 알게 되었습니다. 하지만 자본력이 부족하여 컨설턴트를 고용할 수 없었습니다. 결국 주변 도움 없이 관련 법률사항을 조사하며 초기 모델을 구상하였고 밤낮없이 직접 리모델링하였습니다. 너무 힘이 들어 포기하고 싶었지만 그때마다 집의 가훈은 저를 다시 일으켜주어 결국 5개월에 걸친 노력으로 더치커피 업계 최초로 인증을 받았습니다.
+
+탁상공론이 아니라 현장으로 뛰어들었을 때 예상치 못한 문제점은 저를 힘들게 만들었습니다. 하지만 이런 상황에서 포기한다면 발전적인 사람이 될 수 없다고 생각합니다. 최악의 경우라도 최선을 다하라는 가훈으로 도전적인 다이모스 man이 되겠습니다.
+
+“아이언 맨, 길을 보여주다.”
+
+꿈 없던 저는 고3 시절 4월에 개봉한 ‘아이언 맨’을 우연히 보게 되었습니다. 그 속의 ‘토니 스타크’는 적에게 납치된 가운데 엔지니어로서의 최고의 면모를 보이며 ‘아이언 맨’을 제작하여 적진을 탈출하고 악당들을 물리쳤습니다. 주인공인 ‘토니 스타크’의 삶 속에서 공학도의 모습은 너무나 멋져보였고 저는 이를 계기로 기계공학도가 되었습니다.
+
+생물산업기계공학을 전공하며 가장 인상 깊었던 과목은 진동공학, 재료역학, 기계요소 설계였습니다. 열, 유체역학 역시 흥미로웠지만 강체의 정적 상태와 동적 상태에 관한 과목들은 저에게 더욱 흥미롭게 다가왔습니다. 진동공학을 통해 고유진동수의 중요성, 재료역학을 통해 강체의 강도가 미치는 영향, 기계요소 설계를 통해 기본적인 기계요소를 알게 되었습니다. 해당 과목들은 a의 성적을 받을 수 있었습니다.
+
+“불가능을 가능으로!”
+
+저의 성장 과정 중 수 많은 시련과 고난이 있었습니다. 하지만 저는 이러한 상황을 반드시 타개할 수 있다고 믿고 있습니다. 이런 생각은 아버지의 교육으로도 배웠지만 실제로 고고하게 실천하신 故정주영 명예회장님의 일대기의 영향이 컸습니다. 가난한 집안에서 태어나 쌀집부터 시작하여 현재의 현대그룹을 일구어 내기까지 누구도 불가능으로 생각한 명예회장님의 업적들은 ‘불가능은 아무것도 아니라는 것’을 증명하고 있습니다. 명예회장님의 일대기를 본 후 반드시 해낼 수 있다는 자신감을 얻게 되었고 어떠한 일에도 활기차게 임하며 노력하고 있습니다. 그리고 이런 노력 덕분에 더치커피 업체 창업, HACCP 더치커피 최초 인증, 캡스톤 디자인 특허 출원 등 다수의 쾌거를 이룰 수 있었습니다. 이제는 현대다이모스의 생산관리자로서 저의 확신과 자신감으로 사회라는 바다에서 쾌거를 이루고 싶습니다.
+
+“최신자동차의 혈관, 7단 DCT”
+
+내연기관 자동차의 가장 중요한 요소는 바로 연비입니다. 연비 효율을 높이기 위해서 여러 부품들이 있지만 저에게 가장 매력적인 부품은 바로 듀얼 클러치 트랜스미션입니다. 변속기는 기어에 따른 단수를 조정하여 속도와 마력을 조정합니다. 특히 DCT는 홀수단과 짝수단을 두 개의 클러치로 나누어 기존의 수동변속기 보다 높은 변속 효율을 보입니다. 두 개의 모터를 이용하여 액츄에이터를 구동하여 한 쪽 모터가 고장이 나도 작동하는 이점이 있습니다. 또한 기존의 변속기들보다 유지관리비용이 적게 드는 DCT는 소비자의 이목을 끄는 스펙이 되었습니다.
+
+이런 DCT 시장에서 가장 돋보이는 것은 역시 현대 다이모스에서 개발한 7단 DCT입니다. 기존의 6단 DCT에서 7단까지 단수를 높이면서 건식 7단 DCT는 최신 현대자동차에 거의 필수적으로 장착되고 있습니다. 최고의 변속기를 제작하여 시장을 선도하는 현대 다이모스의 생산 현장에서 많은 것을 배우고 싶습니다.
+
+“팀원과의 교집합”
+
+2학년 1학기 기초창의설계라는 수업이 있었습니다. 친한 친구들과 조원이 된 것이 아니라 서먹서먹했던 몇몇 조원들은 소극적으로 프로젝트에 임하였고 ppt 제작 등 귀찮은 일들은 서로에게 미루는 것이 다반사였습니다. 당시 프로젝트였던 휠체어 브레이크는 점점 산으로 가게 되었습니다. 어떻게 할까 고민하던 찰나에 팀원들이 온라인 게임에 공통의 취미가 있다는 걸 알게 되어 함께 하자고 제안하였고 이를 계기로 서먹했던 팀은 어느새 친해져있었습니다. 휠체어 브레이크는 초기 기획했던 것보다 잘 만들어져 해당 과목에서 좋은 성적을 받았습니다. 아무리 친하지 않고 낯선 팀원이라도 공통 관심사를 통해 협동을 다질 수 있고 이를 통해 결과 또한 만족스럽게 만들어질 수 있다는 것을 알게 되었습니다.
+
+생산관리는 소통과 협력이 중요합니다. 생산관리 외에 다른 부서와 직접 만나는 업무가 많기 때문입니다. 선후배 분들뿐만 아니라 타 부서와도 공통의 관심사를 통하여 협력을 도모하겠습니다.
+
+“생산공정의 중요성”
+
+HACCP를 통해 공정의 중요성을 알게 되었습니다. 생산 공정이 중요한 이유는 플랜트에서 만들어진 제품을 소비자가 직접 사용하기 때문입니다. 허술하게 만들어진 제품은 기업 이미지의 부정적인 영향과 함께 판매부진을 유발합니다. 더치커피 사업을 하며 제품의 자그마한 결점에도 컴플레인을 거는 소비자들을 많이 보았습니다.
+
+파워트레인과 시트도 이와 만찬가지라고 생각합니다. 제품의 우수한 품질은 바로 생산 공정에서 나옵니다. 모든 공정에는 항상 품질을 저해하고 소비자와 근로자를 위협하는 요소가 있고 이를 방치한다면 최고의 제품이 설계되어도 품질은 떨어지고 더 나아가 소비자들의 생명도 위협할 수 있습니다. 이를 방지하기 위해서는 입고에서 출고까지 관리점을 체크해야 한다고 생각합니다. 공정 안에서 관리점의 중요함을 알게 해 준 HACCP 팀장 경험으로 현대다이모스 생산관리 업무에서 최고의 엔지니어가 되고 싶습니다.</p><footer><p>2016 하반기</p><p>현대다이모스</p><p>생산관리</p></footer></article></li></ul></section><section class="CommunityTabPost__StyledWrapper-sc-13288735-0 dgkpNS"><header><h2>최종합격후기</h2><a target="_blank" rel="noopener noreferrer" class="CommunityTabPostMoreButton__StyledWrapper-sc-e1a3445a-0 klkeZI" href="https://community.linkareer.com/junior_activity?word=토니모리&amp;field=TITLE_WITH_CONTENT&amp;page=1&amp;order=RELEVANCE"><span>더보기</span><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 9.037 16" aria-label="오른쪽 화살표"><desc>오른쪽 화살표</desc><g transform="rotate(180, 4.5185,8) "><path fill="currentColor" d="M7.963 16a1 1 0 00.707-1.707L2.414 8.037l6.33-6.33A1 1 0 107.33.293L.293 7.33a1 1 0 000 1.414l6.964 6.963a1 1 0 00.706.293z"></path></g></svg></a></header><ul><li class="CommunityTabItem__StyledWrapper-sc-ca790639-0 gqdRzg"><article><h3 class="tab-item-title"><a target="_blank" rel="noopener noreferrer" href="https://community.linkareer.com/junior_activity/6437228">[KB국민은행] 2025 하반기 UB 신입 서류/필기/면접 후기</a></h3><p class="content">   
+    
+ 
+ 
+  ✅ 합격스펙  
+ 
+ 
+ 
+       
+    ▶  합격연도  :  2025 하반기     
+  ▶ 기업명 :   KB국민은행   
+   ▶  고용형태  :  신입    
+   ▶  지원직무  :   UB    
+  ▶  학교/전공  :  고려대 세종   
+  ▶  학점  :  3.96/4.5   
+  ▶  어학 (종류/점수)  :  토스 IH   
+   ▶  보유 자격증    :  AFPK, 신용분석사    
+   ▶  관련 경험 (인턴, 대외활동, 프로젝트 등)    :  없음    
+  
+  ​  
+     
+    
+ 
+ 
+  ✅  합격한 전형의 준비 방법    
+ 
+ 
+ 
+   
+  서류 - 경험 정리 &amp;gt; 사실과 그과정에서 배운것과 느낀점 정리해서 바로 활용할수있게 구체화시켰습니다  필기 - ncs 기본서위주로 공부하되, 에듀윌 노랑이 상식책도 참고했습니다  
+   
+   
+    
+ 
+ 
+  ✅  합격 요인    
+ 
+ 
+ 
+   
+  1. 서류는 팩트의 나열보다 나의 생각과 배운점, 느낀점을 부각시키게끔 썼습니다. 그리고 사람냄새가 날수있는 감성적인 포인트도 줬던것 같아요 2. 필기는 평소 뉴스 관심있게본거랑 당일 컨디션 관리가 매우 도움됐던거같아요 3. 국민은행은 스펙보다는 자소서 비중이 높은것 같아서 신경 많이쓰시면 좋을거같습니다  
+   
+   
+    
+ 
+ 
+  ✅  합격 후기    
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+     
+  나의 원픽 국민은행.. 아마 많은 은준생들의 원픽이 아닐까 싶다.  
+  그래서 이번 금공채도 국민은행을 썼고 면접까지 봤지만 탈해서 불안한 상태였다ㅜ  
+  그만큼 자소서쓰는데 많이 공들였던 것 같다.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+   
+    
+ 
+ 
+  서류 전형 후기  
+ 
+ 
+ 
+   
+  이번 자소서 문항은  
+ 
+ 
+   KB국민은행하면 떠오르는 이미지는 무엇이며, 입행 5년 후 지원자 본인의 모습을 기술해 주시기 바랍니다.(1,200자)   
+ 
+ 
+   변화를 대하는 First Mover로서, 창의적인 사고와 과감한 도전을 통해 변화와 혁신을 주도했던 경험을 기술해 주시기 바랍니다.(800자)   
+ 
+ 
+   금융인으로서 기본소양인 신뢰정직에 대한 지원자 본인의 생각을 경험과 함께 기술해 주시기 바랍니다.(800자)   
+ 
+ 
+   본인의 가치관 또는 방향성이 다른 팀원들과 함께 협업했던 경험을 기술해 주시기 바랍니다.(800자)   
+ 
+ 
+  ​  
+  국민 자소서는 소위 말하는  사람냄새가 나면 좋다라는 말 이 많았다.   
+  그런 부분을 생각하며 쓰려고 했는데 특히 1번이 매우 추상적이고 난해했어서 시간을 많이 잡아먹었다.  
+  썼다 지웠다를 정말 많이 반복했는데, 자소서 문항 분석 유튜브 영상을 보다가 팍 떠올랐던 경험이 생각났고 결국 잘 완성한 것 같아서 기대가 됐다.  
+     
+     
+     
+  
+    
+ 
+ 
+  필기 전형 후기  
+ 
+ 
+ 
+   
+  서류합이지만 기뻤고, 바로 봉모사러 서점갔다. 당장 몇일 뒤 시험이라 빠듯해서 봉모1회 돌리고, 에듀윌 노랑이 상식책을 계속 반복적으로 봤다.   
+     
+  사실  국민 필기 경쟁률이 악명 높기로 유명했고(4:1)  그에 비해 나는 많이 준비가 안되어있다 생각해서   
+  자신은 없었지만, 문제 자체는 쉬운 난이도라해서 집중력있게  시간 분배를 최우선 으로 고려하며 풀려고 했다.  
+   100문제중 전공, 상식파트부터  풀었다. 지문 읽고 금방 답나오는거 위주로, 예적금 이자 구하는건 빠르게 넘겼다.   
+  상식파트는 개인적으로  에듀윌 노랑이책이 매우매우 도움 이 됐던 것 같다. 몇초만에 답나오는 문제들이 꽤있었다.  
+     
+  NCS쪽은 추론? 같은 오래걸리는 문제 빠르게 넘기려고 했고 쉽게 풀리는거 위주로 풀다보니 넘긴거 10문제 정도 빼고는 다 풀 수 있었고, 10문제 중 아니다 싶은 선택지 빼고 찍었다.  
+  ​  
+  필기 보고 난 후엔 느낌이 좋았다. 사실 제일 잘본 필기라고 느꼈는데, 후기를 보니 다들 쉬웠다고해서 '그럼 그렇지. 나만 그런게 아니었군!' 생각했고ㅋㅋㅋ 붙기 쉽지 않겠다 싶었다.  
+  그리고 발표날....  
+   
+   
+   
+   
+    
+ 
+ 
+  면접 젼형 후기  
+ 
+ 
+ 
+   
+   너무 긴장되서 창 두개 띄워놓고 확인 누르고 위에서부터 내리면서 봤다.   
+     
+  그러다 OO님이 반기고 있길래 나도모르게 왁! 소리질러버렸다. 은행권 첫 면접을 갈 수 있어서, 그게 국민이어서 정말 기뻤던 것 같다. 1박 2일 합숙면접도 힘들 것 같았지만,, 그래도 재밌을 것 같았다.  시간이 좀 있었음에도 불구하고 지금 생각해보면, 첫 면접이다 보니 준비하는게 많이 서툴렀고 그러다보니 면접 과정이 매우매우 아쉬운 부분이 많았다. 
+  ​  
+  입소시간이 아침 9시라 인천에서 당일에는 도저히 가기가 불안해서, 전날 천안에 미리 숙소를 잡고 내려갔다.  
+  마침 숙박세일 페스타를 하고있어서 매우 싸게 예약할 수 있어서 감사했다.  
+  면접 당일 아침 천안역에서 셔틀을 타고 연수원에 입소했고, 강당 복도에 짐을 두고 모든 전자기기 반납 후 수험번호가 적힌 명찰을 메고 강당에서 대기했다.  당시  한조에 10명, 12조가 있어서 120명 이 있었고 이렇게 4번? 진행한걸 감안하면 아마 500명정도가 면접을 본듯 싶었다. 역시 결시는 거의없었다. 
+  ​  
+  대기하다가 인사담당자님(유튜브 채용설명회때 진행하셨던 분이 나오셔서 왠지 반가웠다)이 나오셔서 오티 진행을 해주셨고, 면접 순서는 조마다 랜덤이었다.  내가 있던 조는  탑싯/인성검사 &amp;gt; 점심 &amp;gt; 세일즈 &amp;gt; BEI &amp;gt; 토론면접  순이었다. 
+  - 탑싯은 면접의 당락을 좌우하는 정도는 아니라고 하셨고, 최소 기준만 넘으면 문제없다고 하셨다(대비가 완전히 불가하다 생각해서 준비도 거의 안했다)  
+   
+  - 인성검사는 점수에 반영 안된다고 하셨고, 입사 후 참고자료로 활용하신다고 했다.  
+  ​  
+  점심까지 대기 시간이 좀 길어서 긴장이 살짝 풀렸지만,   
+  오후가 연속된 면접으로 매우 급박하고 긴장되서 힘들었다..ㅋㅋㅋ  
+  
+   
+   
+    
+ 
+ 
+  세일즈 면접 후기  
+ 
+ 
+ 
+   
+   &amp;lt;세일즈 면접&amp;gt; - 준비시간 15분, 진행시간 15분   
+   * 준비실에서 유형 2개 주어졌으며 보고 빠르게 판단해서 하나를 선택해야한다.   
+   * 유형마다 프로필, 상품 2개씩 있었고 2개 중 1개 팔아도 되고 2개 다팔아도 된다고 써있었다.   
+  ​  
+  두개 유형 중 모르는 상품이 있어서 아는 상품이 있는 유형을 선택했고, 사실 두 유형 상품 다 어려웠다. (지원자들도 대부분 어려웠다는 의견이 많았다)  
+     
+  그래서 처음에 머리가 하얘져서 멍~하다가 따로 A4에 중요내용을 옮겨적었고, 상품 특징과 셀링 포인트를 대략 적기시작했지만 어떤 포인트를 잡고 판매해야할지 준비시간 끝날때까지도 정리하지 못해서 큰일났다 싶었다. (주어진 자료는 못들고가고 따로 필기한 A4용지만 들고갈 수 있었음)  
+     
+  준비시간이 다되고 세일즈 면접실에 들어가기 전 문 앞에서 대기하며 생각하다가 갑자기 떠오른 아이디어가 있었고, 그걸 활용하면 되겠다 싶었다.   
+     
+  첫 시작은 실제 고객을 응대하듯 간단한 아이스 브레이킹과 신분증 요구, 프로필이 있었지만 그걸 모른다고 가정하고 하나하나 소통하며 니즈와 정보를 파악하려고 했다.  
+     
+  후에 상품 설명과 투자 전략, 사후관리, 다른 상품도 추천 드렸고 예상치 못한 면접관님의 돌발행동? 도 있었지만 차분하게 대응해서 그냥 저냥 괜찮게 봤다고 생각했다..ㅎ  
+  ​  
+ 
+   
+    
+ 
+ 
+  BEI면접 후기  
+ 
+ 
+ 
+   
+  제일 후회했던 면접......흑 첫 질문 부터 꼬여버려서 망했다 생각했다.  
+  받았던 질문으로는  
+  ​  
+   1. 자기소개   
+ 새마을금고 3월에 퇴사했다. 이직동기? 를 물어보신거라 생각해 준비했던걸 답변했지만 그게아니었고, 
+  꼬리질문으로 왜 퇴사 후 준비하는지?를 물어보신 의도셨다. &amp;gt; 여기서부터 꼬였다 생각..  
+     
+   2. 새마을금고에서 많은 고객들 응대했을텐데 그동안 어떻게 성장해왔는지?    
+  &amp;gt; 생각 못했던 질문이라고 당시에 느껴서 엄청 당황했고 아무것도 생각나지 않아서 횡설수설했더니  
+  꼬리질문으로 다시 묻겠다.  구체적으로 뭘 어떻게 배웠고 그걸 통해 어떻게 성장했는지?  라는 느낌의 부정적인 꼬리질문이었는데 다시 얼버무리다가 생각이 도저히 안나서 긴장해서 정리가 안된듯 말씀드렸다. 죄송하다라고 했다... 여기서 망했다는걸 느낌..  
+  &amp;gt;&amp;gt; 지금 생각해보면 충분히 변별력을 줄 수 있었을 질문이었는데.... 매우 아쉬웠다..ㅜㅜ  
+  ​  
+   3. (자소서) 수치관련된 검증 질문    
+  &amp;gt; 이걸 받고 다시는 자소서 쓸때 수치 넣지 않겠다 다짐했다.  
+  
+   4. (자소서) 검증질문   
+     
+   5. 상사가 상품설명서를 내게 주면서 자서하라고 한다. 근데 상품설명서에 잘못된 부분이 있었다. 어떻게 할건가?   
+     
+   6. (자소서) 고객에게 편안함을 주고자 노력했다라고 썼는데, 어떻게 편안함을 주고자 했는지?    
+  &amp;gt; 이것도 내가 느끼기에 설득력 없는 답변을 했다고 생각했다. 그래서 밑에 부정적인 꼬리질문도 나왔다고 생각.  
+     
+   7_1. 그럼 그런 고객들이 고맙다며 예금만 가입했는지?   
+     
+   8. 고객의 니즈에는 맞지 않는데 실적 증대에 도움되는 상품 vs 고객 니즈에는 맞는데 실적에는 별로 영향없는 상품   
+     
+   9,10,11 (자소서) 검증질문   
+  ​  
+  사실 질문의 대부분이 자소서 검증에 매몰되서 나라는 사람을 보여주지 못했다 생각했고, 그래서 매우 안좋은 방향으로 흘러가서 망했다 싶었다. 자소서 하나하나를 파헤쳐서 납득이 안가는 부분을 검증하셨다.   
+     
+  처음 질문 답변을 잘했다면 양상이 좀 달라졌을까..  
+  이외에도 BEI 면접관님들의 태도에 있어서도 배려받지 못한다는 느낌도 받았다.. 처음부터 다리꼬고 계셨던 분도 있었고, 말투도 공격적이고 표정도 인상을 쓰고 계셔서 쫄아서 대답하기 쉽지 않은 것도 있었다.. 다시는 뵙고 싶지 않은 면접관님이었다. 다른 면접방의 전혀 다른 질문 양상과 분위기 화기애애했다라는 이야기를 듣고 면접관님 운도 정말 중요하구나 생각했다.  
+   
+ 
+   
+    
+ 
+ 
+  토론 면접 후기  
+ 
+ 
+ 
+   
+   &amp;lt;토론면접&amp;gt; - 찬반 정하기 5분 / 준비시간 10분 / 토론 35분   
+  * 주제 관련 자료, 빈 a4용지 한장 주어짐, 면접관 개입없이 자유 토론  
+  * 주제는 공연장 본인확인제도 찬반이었다.  
+  ​  
+  3-4번 정도 발언했는데, 약간 묻어갔다는 느낌이 있었다. 대부분 주제는 무난하게 나온듯.   
+  토론까지 끝나고나니 긴장이 탁풀려서 너무 피곤했다. 그래도 저녁을 맛있게 먹고, 후에 진행되는 요가와 레크레이션 프로그램에 참여했고 레크레이션은 특히 진짜 재밌었다 ㅎㅎ 수련회 온 느낌.  
+     
+  그리고 3인 1실 방 배정을 받았고, 치킨과 무알콜 맥주, 과자를 준비해주셔서 룸메들과 신나게 떠들고 면접 복기를 하다가 늦게 잠들었다..   
+  
+   
+ 
+    
+ 
+ 
+  팀빌딩 프로그램  
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+  2일차엔 팀빌딩 프로그램 - 1차 면접 점수에 들어가는 부분은 없다 하셨고 2차 면접시 면접관님들에게 참고자료로 제공된다고 하셨다.  
+  * 총 5개의 과제 수행방이 있었고, 각 방마다 주제가 달랐다. 매우 재밌었고, 즐기면서 편하게 수행했다.  
+  우리 조가 1등해서 스타프렌즈 키링을 받았다! (나는 비비였다)  
+  ​  
+  면접 일정이 다 마무리되고 퇴소식을 진행했고, 전자기기랑 짐 챙겨서 나올때 모든 직원분들이 나오셔서 박수를 쳐주셨다.. 그때 눈물 찔끔..  
+  하지만 돌아오고 날이 가면 갈수록 못봤던 것만 생각이 났고, 내 직감으로는 도저히 붙을 것 같지가 않아서 사실 크게 기대가 안됐다ㅜㅜ   
+  아니나 다를까  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+   
+  역시나 적시나~  
+  기다려 국민.. 내년 상반기에 꼭 다시갈게......... 반드시...........  
+     
+     
+     
+  인터뷰 - 백이 님  
+   https://m.blog.naver.com/woror8888/224107904216   
+  
+  
+ 
+ 
+ 
+   🎯국민은행 공고 보러가기   
+ 
+      🎯    현재 모집중인 신입 공고 보러가기      
+ 
+ 
+ 
+       🎯신입 면접 후기 보러 가기       
+ 
+      🎯      신입 합격 자기소개서 보러가기      
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       🎯신입 오픈 카톡방 입장하기 (비번: 1004)       
+       🎯이공계 오픈 카톡방 입장하기 (비번: 1004)       
+       🎯합격자소서 제출하고 15000원 받기       
+   
+                   
+ 
+ 
+ 
+      함께 보면 좋을 콘텐츠      
+ 
+ 
+ 
+   내일배움카드 신청방법｜조건&amp;middot;사용처&amp;middot;지원금 2026 총정리   
+ 
+ 
+   기업 분석 6단계｜지원동기부터 면접 대비까지 취준생 체크리스트   
+ 
+ 
+   2026 하반기 현대모비스 합격후기 모음집 (ft.합격 스펙, 자소서, 인적성 후기 등)   
+ 
+ 
+   2026 HD현대 하반기 채용 대비 합격자료 (합격 스펙, 자소서, 합격 후기 등)   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       🌱대학생고민방       
+ 
+ 
+      🌱         취업/문과 고민방       
+ 
+ 
+      🌱         SK멘토질문방       
+ 
+ 
+      🌱         LG멘토질문방       
+ 
+ 
+ 
+ 
+      🌱         취업/이과고민방       
+ 
+ 
+      🌱         직장인고민방       
+ 
+ 
+      🌱         삼성멘토질문방       
+ 
+ 
+      🌱         현대멘토질문방       
+ 
+ 
+ 
+ 
+     └         삼성전자 면접관, 현대자동차 인사담당자          등 원하는 멘토를 선택해 답변을 받을 수 있습니다 😎     
+           
+      *해당 게시글은 링커리어 회원님들이 남겨주신 소중한 후기입니다. 해당 게시글에 포함된 내용에 대한 악의적인 비방 및 비하, 욕설이 담긴 댓글을 남길 시 무통보 활동정지 및 탈퇴 처리됩니다.      
+      본 사이트의 합격수기 및 자료들을 무단 복제, 배포하는 경우에는 저작권법 제 97조의 저작재산권침해죄에 해당하며, 저작권법에 의거 법적조치에 처해질 수 있습니다.      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  </p><footer><p>2026.08.27</p><p>조회수 74</p><p>댓글수 3</p><p>스크랩수 0</p></footer></article></li><li class="CommunityTabItem__StyledWrapper-sc-ca790639-0 gqdRzg"><article><h3 class="tab-item-title"><a target="_blank" rel="noopener noreferrer" href="https://community.linkareer.com/junior_activity/6432052">[한국무역보험공사] 2026 상반기 조사·인수 신입 서류 합격 후기</a></h3><p class="content">   
+    
+ 
+ 
+  ✅ 합격스펙  
+ 
+ 
+ 
+       
+    ▶  합격연도  :  2026 상반기     
+  ▶ 기업명 :   무역보험공사   
+   ▶  고용형태  :  신입    
+   ▶  지원직무  :   조사인수    
+  ▶  학교/전공  :  제주대   
+  ▶  학점  :  3.64/4.5   
+  ▶  어학 (종류/점수)  :  토익 940   
+   ▶  보유 자격증    :  X    
+   ▶  관련 경험 (인턴, 대외활동, 프로젝트 등)    :  2금융권 계약직 10개월    
+     
+     
+    
+ 
+ 
+  ✅  합격한 전형의 준비 방법    
+ 
+ 
+ 
+   
+  자소서 문항에 맞게 답변 작성  
+  
+  
+   
+   
+    
+ 
+ 
+  ✅  합격 요인    
+ 
+ 
+ 
+   
+  높은 어학 점수와 무역 관련 적합성  
+   
+     
+  인터뷰 - 현** 님  
+   
+   
+  
+  
+ 
+ 
+ 
+    🎯한국무역보험공사 공고 보러가기    
+ 
+      🎯    현재 모집중인 신입 공고 보러가기      
+ 
+ 
+ 
+       🎯신입 면접 후기 보러 가기       
+ 
+      🎯      신입 합격 자기소개서 보러가기      
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       🎯신입 오픈 카톡방 입장하기 (비번: 1004)       
+       🎯이공계 오픈 카톡방 입장하기 (비번: 1004)       
+       🎯합격자소서 제출하고 15000원 받기       
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+                   
+ 
+ 
+ 
+     함께 보면 좋을 콘텐츠     
+ 
+ 
+ 
+   지원동기 작성법｜소제목 작성부터 합격 예시까지 한 번에 정리   
+ 
+ 
+   2026 하반기 CJ그룹 채용 대비 합격 자료 (ft.합격 스펙, 인재상, 자소서, 인적성, 면접 질문)   
+ 
+ 
+   자소서 AI 탐지기 정확도 60~85%｜무료 검사 사이트와 진짜 안 걸리는 법   
+ 
+ 
+   2026 하반기 LG전자 자소서 문항 공개, 상반기와 뭐가 바뀌었나 (신설문항, 인재상)   
+ 
+ 
+   컴활 2급 독학 가능할까｜필기&amp;middot;실기 기출문제로 보는 합격 전략   
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       🌱대학생고민방       
+ 
+ 
+      🌱         취업/문과 고민방       
+ 
+ 
+      🌱         SK멘토질문방       
+ 
+ 
+      🌱         LG멘토질문방       
+ 
+ 
+ 
+ 
+      🌱         취업/이과고민방       
+ 
+ 
+      🌱         직장인고민방       
+ 
+ 
+      🌱         삼성멘토질문방       
+ 
+ 
+      🌱         현대멘토질문방       
+ 
+ 
+ 
+ 
+     └         삼성전자 면접관, 현대자동차 인사담당자          등 원하는 멘토를 선택해 답변을 받을 수 있습니다 😎     
+           
+      *해당 게시글은 링커리어 회원님들이 남겨주신 소중한 후기입니다. 해당 게시글에 포함된 내용에 대한 악의적인 비방 및 비하, 욕설이 담긴 댓글을 남길 시 무통보 활동정지 및 탈퇴 처리됩니다.      
+      본 사이트의 합격수기 및 자료들을 무단 복제, 배포하는 경우에는 저작권법 제 97조의 저작재산권침해죄에 해당하며, 저작권법에 의거 법적조치에 처해질 수 있습니다.      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  </p><footer><p>2026.08.26</p><p>조회수 185</p><p>댓글수 3</p><p>스크랩수 0</p></footer></article></li><li class="CommunityTabItem__StyledWrapper-sc-ca790639-0 gqdRzg"><article><h3 class="tab-item-title"><a target="_blank" rel="noopener noreferrer" href="https://community.linkareer.com/intern_activity/6431554">[LG AI Research] 2025 상반기 Software Engineer 인턴 코딩테스트 합격 후기 </a></h3><p class="content">     
+ 안녕하세요! 오늘은 작년에 진행했던 LG AI Research Software Engineer Internship (Business Intelligence) 전형 중, 
+  2단계인 코딩테스트와 포트폴리오 제출 전형 합격 후기를 들려드리려고 합니다. 
+   
+ 데이터 분석이나 AI 분야 취업을 준비하시는 분들께 조금이나마 도움이 되었으면 하는 마음으로 
+  생생한 후기를 남겨봅니다! 
+   
+   1. 서류 전형: 뜻밖의 영어 이력서 전략?   
+   
+ 먼저 1단계 서류 심사 이야기를 안 할 수 없는데요.  
+ 저는 당시 한국어 이력서를 새로 쓰는 게 익숙하지 않아서,  
+   해외에서 사용하던 영어 이력서(자유 양식)를 그대로   제출했습니다. 
+   
+  그런데 이게 오히려 전략적으로 통한 것 같더라고요!   
+ 나중에 기술 면접 때 들어보니, 직무 특성상 데이터 분석 시 영어 용어에 익숙한 사람을 선호하는 분위기였습니다. 
+  특히 저는 '캐나다 가스 가격 분석 프로젝트'를 제출했는데,  
+ 해외 데이터를 다룬 경험과 영어 역량을 높게 평가해 주신 것 같았습니다. 
+   
+  💡 Tip: 금융 관련 프로젝트가 있다면 영어 용어까지 미리 숙지해두시는 걸 추천드려요.   
+  면접에서도 관련 질문이 나올 정도로 영어 커뮤니케이션 능력을 긍정적으로 봅니다.  
+   
+   
+   2. 코딩테스트: 기본기에 충실하면 충분!   
+   
+ 서류 합격 후 진행된 코딩테스트는 생각보다 난이도가 아주 높지는 않았습니다. 
+  수준: 대학교 1학년 컴퓨터 사이언스 기초 과목에서 다루는 수준 정도였어요.  
+     
+ 언어: 본인이 편한 언어를 선택할 수 있습니다. 저는 평소 익숙한 Python을 선택해 응시했습니다. 
+   
+ 준비 방법: 프로그래머스 같은 사이트에서 기본 문제들을 연습해보셨다면 충분히 풀 수 있는 수준입니다. 
+ 샘플 테스트 케이스들이 정상적으로 돌아가는지 꼼꼼히 확인하는 게 중요해요. 
+  GPT 같은 도구 도움 없이 스스로 코드를 짜본 경험이 조금이라도 있다면 큰 어려움 없이 합격하실 수 있을 거예요. 
+   
+   
+   3. 포트폴리오: 양보다 질, 핵심 프로젝트 집중   
+   
+ 포트폴리오는  보통 2~3개 정도를 요구 하는데요.  
+ 저는 여러 개를 나열하기보다 AI 부트캠프 당시 진행했던 파이널 프로젝트 하나에 집중했습니다. 
+   
+ 새로 문서를 만들기보다 당시 발표용으로 제작했던 PPT 파일을 그대로 제출했는데, 
+ 프로젝트의 흐름과 결과가 명확하다면 이 정도로도 충분히 기술 면접 기회를 얻을 수 있습니다. 
+   자신이 가장 자신 있는 프로젝트 하나를 제대로 보여주는 것이 포인트  인 것 같습니다. 
+   
+   
+   마무리하며   
+   
+ 이렇게 코딩테스트와 포트폴리오 전형을 통과하면,  
+ 그다음은 대망의 기술 면접이 기다리고 있습니다.  
+ (이미지 속 메일처럼 WEBEX를 통한 온라인 발표와 질의응답 형식으로 진행돼요!) 
+   
+ 해외 경험이 있거나 영어로 데이터 분석 용어를 다루는 데 거부감이 없으신 분들이라면 
+  LG AI Research에 꼭 도전해 보시길 추천드립니다. 
+   
+ 혹시 준비하시면서 궁금한 점이 있다면 댓글로 남겨주세요!  
+ 제가 아는 선에서 최대한 답변해 드리겠습니다. 취준생 여러분 모두 화이팅하세요! 😊 
+   
+   
+  인터뷰 -행복이  님  
+   https://blog.naver.com/godsjh6304/224279009278   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+      🎯          [LG AI연구원] 2026년 인턴 채용 공고 보러가기                
+ 
+      🎯현재 모집중인 인턴 공고 보러가기      
+ 
+ 
+ 
+     🎯인턴 지원 후기 보러가기     
+ 
+      🎯인턴 합격 자기소개서 보러가기      
+ 
+ 
+ 
+ 
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   🎯인턴 오픈 카톡방 입장하기 (비번: 1004)   
+   🎯이공계 오픈 카톡방 입장하기 (비번: 1004)   
+   🎯합격자소서 제출하고 15000원 받기   
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                   
+ 
+ 
+ 
+      함께 보면 좋을 콘텐츠      
+ 
+ 
+ 
+   자소서 AI 탐지기 정확도 60~85%｜무료 검사 사이트와 진짜 안 걸리는 법   
+ 
+ 
+   2026 하반기 LG전자 자소서 문항 공개, 상반기와 뭐가 바뀌었나 (신설문항, 인재상)   
+ 
+ 
+   컴활 2급 독학 가능할까｜필기&amp;middot;실기 기출문제로 보는 합격 전략   
+ 
+ 
+   청년문화예술패스 2차 신청 11월 30일 마감｜도서 분야까지 확대   
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       🌱대학생고민방       
+ 
+ 
+      🌱         취업/문과 고민방       
+ 
+ 
+      🌱         SK멘토질문방       
+ 
+ 
+      🌱         LG멘토질문방       
+ 
+ 
+ 
+ 
+      🌱         취업/이과고민방       
+ 
+ 
+      🌱         직장인고민방       
+ 
+ 
+      🌱         삼성멘토질문방       
+ 
+ 
+      🌱         현대멘토질문방       
+ 
+ 
+ 
+ 
+      └         삼성전자 면접관, 현대자동차 인사담당자          등 원하는 멘토를 선택해 답변을 받을 수 있습니다 😎      
+             
+       *해당 게시글은 링커리어 회원님들이 남겨주신 소중한 후기입니다. 해당 게시글에 포함된 내용에 대한 악의적인 비방 및 비하, 욕설이 담긴 댓글을 남길 시 무통보 활동정지 및 탈퇴 처리됩니다.       
+       본 사이트의 합격수기 및 자료들을 무단 복제, 배포하는 경우에는 저작권법 제 97조의 저작재산권침해죄에 해당하며, 저작권법에 의거 법적조치에 처해질 수 있습니다.       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   </p><footer><p>2026.08.26</p><p>조회수 47</p><p>댓글수 4</p><p>스크랩수 0</p></footer></article></li></ul></section><a target="_blank" rel="noopener noreferrer" class="popular-list" href="https://community.linkareer.com/recommend"><p><span style="box-sizing: border-box; display: inline-block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative; max-width: 100%;"><span style="box-sizing: border-box; display: block; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; max-width: 100%;"><img alt="" aria-hidden="true" src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e" style="display: block; max-width: 100%; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px;"></span><img alt="인기 활동" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" decoding="async" data-nimg="intrinsic" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"><noscript></noscript></span>인기 활동 리스트 보러가기</p><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 9.037 16" aria-label="오른쪽 화살표" color="primary"><desc>오른쪽 화살표</desc><g transform="rotate(180, 4.5185,8) "><path fill="currentColor" d="M7.963 16a1 1 0 00.707-1.707L2.414 8.037l6.33-6.33A1 1 0 107.33.293L.293 7.33a1 1 0 000 1.414l6.964 6.963a1 1 0 00.706.293z"></path></g></svg></a></section><section id="REPLY" data-webview="false" class="ActivityReplyTab__StyledWrapper-sc-1c0f40ac-0 kBdeWo"><h2>담당자 Q&amp;A (0)</h2><form class="ReplyInputBox__StyledWrapper-sc-d87dbb5d-0 wYtcI" data-is-reply="false"><div class="comment-input Textarea__StyledWrapper-sc-2c7e7f44-0 eGjyxJ"><textarea rows="5" autocomplete="off" data-error="false" placeholder="댓글을 작성해주세요." spellcheck="false" name="input" maxlength="600"></textarea></div><button class="submit-btn Button__StyledWrapper-sc-d9e4ef33-0 bgwejH" type="submit" disabled="">등록</button></form><ul></ul></section><div class="RecruitQnaBottomBanner-desktop__StyledWrapper-sc-14930aaa-0 gZWUIg"><a rel="nofollow sponsored" href="/activity/[id]"><span style="box-sizing: border-box; display: inline-block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative; max-width: 100%;"><span style="box-sizing: border-box; display: block; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; max-width: 100%;"><img alt="" aria-hidden="true" src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27728%27%20height=%2790%27/%3e" style="display: block; max-width: 100%; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px;"></span><img alt="차이/LG에어케어파트_LG 에어로미니 서포터즈 모집 담당자 Q&amp;A 하단 배너" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" decoding="async" data-nimg="intrinsic" class="recruit-qna-bottom-banner-image" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"><noscript></noscript></span></a></div><section class="FamousActivities__StyledWrapper-sc-5ee0832c-0 hFWJRz"><h2>이 공고 조회자가 많이 본 공고</h2><div class="activities-wrapper"><div class="ActivityListCardItem__StyledWrapper-sc-2a59e3fa-0 ieVCAf"><div class="image-wrapper"><a class="image-link active" href="/activity/344807"><span style="box-sizing: border-box; display: inline-block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative; max-width: 100%;"><span style="box-sizing: border-box; display: block; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; max-width: 100%;"><img alt="" aria-hidden="true" src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27300%27%20height=%27300%27/%3e" style="display: block; max-width: 100%; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px;"></span><img alt="[현대자동차] 9월 신입 채용 (사전공고)" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" decoding="async" data-nimg="intrinsic" class="activity-image" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"><noscript></noscript></span></a><div class="ScrapBoxButton__StyledWrapper-sc-88d97c8c-0 jQSTAO" data-is-scrap="false"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="16" viewBox="0 0 8.7 11.2" class="scrap-icon"><desc>스크랩</desc><path data-name="패스 476" d="M613.254 99.171H609.5a1.871 1.871 0 0 0-1.871 1.871v8.129l3.75-1.48 3.75 1.48v-8.129a1.871 1.871 0 0 0-1.875-1.871z" transform="translate(-607.025 -98.571)" style="fill: none; stroke: rgb(255, 255, 255); stroke-linejoin: round; stroke-width: 1.2px;"></path></svg><div class="scrap-count">999+</div></div></div><div class="card-content"><a class="active" href="/activity/344807"><h5 class="activity-title">[현대자동차] 9월 신입 채용 (사전공고)</h5></a><div class="activity-info-wrapper"><p class="organization-name">현대자동차</p><div class="SecondInfoText__StyledWrapper-sc-3b26042c-0 fEFAgE"><div class="">D-18</div><div>조회 29,995</div><div>댓글 0</div></div></div></div></div><div class="ActivityListCardItem__StyledWrapper-sc-2a59e3fa-0 ieVCAf"><div class="image-wrapper"><a class="image-link active" href="/activity/344996"><span style="box-sizing: border-box; display: inline-block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative; max-width: 100%;"><span style="box-sizing: border-box; display: block; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; max-width: 100%;"><img alt="" aria-hidden="true" src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27300%27%20height=%27300%27/%3e" style="display: block; max-width: 100%; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px;"></span><img alt="[LG전자] 2026년 하반기 LG전자 신입사원 채용" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" decoding="async" data-nimg="intrinsic" class="activity-image" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"><noscript></noscript></span></a><div class="ScrapBoxButton__StyledWrapper-sc-88d97c8c-0 jQSTAO" data-is-scrap="false"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="16" viewBox="0 0 8.7 11.2" class="scrap-icon"><desc>스크랩</desc><path data-name="패스 476" d="M613.254 99.171H609.5a1.871 1.871 0 0 0-1.871 1.871v8.129l3.75-1.48 3.75 1.48v-8.129a1.871 1.871 0 0 0-1.875-1.871z" transform="translate(-607.025 -98.571)" style="fill: none; stroke: rgb(255, 255, 255); stroke-linejoin: round; stroke-width: 1.2px;"></path></svg><div class="scrap-count">999+</div></div></div><div class="card-content"><a class="active" href="/activity/344996"><h5 class="activity-title">[LG전자] 2026년 하반기 LG전자 신입사원 채용</h5></a><div class="activity-info-wrapper"><p class="organization-name">LG전자</p><div class="SecondInfoText__StyledWrapper-sc-3b26042c-0 fEFAgE"><div class="">D-17</div><div>조회 26,950</div><div>댓글 0</div></div></div></div></div><div class="ActivityListCardItem__StyledWrapper-sc-2a59e3fa-0 ieVCAf"><div class="image-wrapper"><a class="image-link active" href="/activity/341707"><span style="box-sizing: border-box; display: inline-block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative; max-width: 100%;"><span style="box-sizing: border-box; display: block; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; max-width: 100%;"><img alt="" aria-hidden="true" src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27300%27%20height=%27300%27/%3e" style="display: block; max-width: 100%; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px;"></span><img alt="[KT&amp;G] 2026년 하반기 신입(사무) 사원 채용" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" decoding="async" data-nimg="intrinsic" class="activity-image" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"><noscript></noscript></span></a><div class="ScrapBoxButton__StyledWrapper-sc-88d97c8c-0 jQSTAO" data-is-scrap="false"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="16" viewBox="0 0 8.7 11.2" class="scrap-icon"><desc>스크랩</desc><path data-name="패스 476" d="M613.254 99.171H609.5a1.871 1.871 0 0 0-1.871 1.871v8.129l3.75-1.48 3.75 1.48v-8.129a1.871 1.871 0 0 0-1.875-1.871z" transform="translate(-607.025 -98.571)" style="fill: none; stroke: rgb(255, 255, 255); stroke-linejoin: round; stroke-width: 1.2px;"></path></svg><div class="scrap-count">999+</div></div></div><div class="card-content"><a class="active" href="/activity/341707"><h5 class="activity-title">[KT&amp;G] 2026년 하반기 신입(사무) 사원 채용</h5></a><div class="activity-info-wrapper"><p class="organization-name">KT&amp;G</p><div class="SecondInfoText__StyledWrapper-sc-3b26042c-0 fEFAgE"><div class="">D-14</div><div>조회 25,031</div><div>댓글 0</div></div></div></div></div><div class="ActivityListCardItem__StyledWrapper-sc-2a59e3fa-0 ieVCAf"><div class="image-wrapper"><a class="image-link active" href="/activity/344479"><span style="box-sizing: border-box; display: inline-block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative; max-width: 100%;"><span style="box-sizing: border-box; display: block; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; max-width: 100%;"><img alt="" aria-hidden="true" src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27300%27%20height=%27300%27/%3e" style="display: block; max-width: 100%; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px;"></span><img alt="2026 한화금융 신입공채" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" decoding="async" data-nimg="intrinsic" class="activity-image" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;"><noscript></noscript></span></a><div class="ScrapBoxButton__StyledWrapper-sc-88d97c8c-0 jQSTAO" data-is-scrap="false"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="16" viewBox="0 0 8.7 11.2" class="scrap-icon"><desc>스크랩</desc><path data-name="패스 476" d="M613.254 99.171H609.5a1.871 1.871 0 0 0-1.871 1.871v8.129l3.75-1.48 3.75 1.48v-8.129a1.871 1.871 0 0 0-1.875-1.871z" transform="translate(-607.025 -98.571)" style="fill: none; stroke: rgb(255, 255, 255); stroke-linejoin: round; stroke-width: 1.2px;"></path></svg><div class="scrap-count">999+</div></div></div><div class="card-content"><a class="active" href="/activity/344479"><h5 class="activity-title">2026 한화금융 신입공채</h5></a><div class="activity-info-wrapper"><a class="organization-name Link__StyledAnchor-sc-ff5e1323-0 iWOtHy" href="/channel/%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC-%EC%97%94%EC%97%90%EC%9D%B4%EC%B9%98%EC%95%8C-29173">한화생명</a><div class="SecondInfoText__StyledWrapper-sc-3b26042c-0 fEFAgE"><div class="">D-22</div><div>조회 20,989</div><div>댓글 1</div></div></div></div></div></div></section></div><aside class="right-section"><div class="best-stroy BestStory__StyledWrapper-sc-ebbba09a-0 kuWrix" data-border="true" data-radius="true" data-small="false" data-all="true"><div class="BestStoryHeader__StyledWrapper-sc-e449edba-0 jWRwuX"><div class="title">링커리어 BEST 이야기</div></div><div class="BestStoryAll__StyledWrapper-sc-329d5da6-0 iZkZOu"><div class="menu-box"><button class="menu-title" data-active="true">커뮤니티</button><button class="menu-title" data-active="false">STEM 커뮤니티</button></div><div class="list-box"><div class="CommunityBestPost__StyledWrapper-sc-7b2c38fb-0 hVGMkE"><div class="tab-box"><button class="tab" data-active="true">실시간</button><button class="tab" data-active="false">주간</button><button class="tab" data-active="false">월간</button><button class="tab" data-active="false">댓글순</button><button class="tab" data-active="false">추천순</button></div><div class="BestStoryList__StyledWrapper-sc-684fafaa-0 eSacvc"><a class="item" href="https://community.linkareer.com/best/6437716"><div class="lt">01</div><div class="rt">입사지원서 제출 어떤식으로 해?</div><div class="comment-count">(5)</div></a><a class="item" href="https://community.linkareer.com/best/6437299"><div class="lt">02</div><div class="rt">[8/27] 신한라이프, 보험업권 취업준비 청년 100명 초청 채용설명회</div><div class="comment-count">(4)</div></a><a class="item" href="https://community.linkareer.com/best/6437228"><div class="lt">03</div><div class="rt">[KB국민은행] 2025 하반기 UB 신입 서류/필기/면접 후기</div><div class="comment-count">(3)</div></a><a class="item" href="https://community.linkareer.com/best/6437653"><div class="lt">04</div><div class="rt">대외활동 면접 정장입고 가면</div><div class="comment-count">(5)</div></a><a class="item" href="https://community.linkareer.com/best/6437632"><div class="lt">05</div><div class="rt">asml 지원해보신분 있나요?</div><div class="comment-count">(5)</div></a><a class="item" href="https://community.linkareer.com/best/6437494"><div class="lt">06</div><div class="rt">은행 서포터즈</div><div class="comment-count">(5)</div></a><a class="item" href="https://community.linkareer.com/best/6437446"><div class="lt">07</div><div class="rt">2026 하반기 IBK기업은행 채용 대비 합격자료 (인재상, 합격스펙, 필기 후기, 면접 질문)</div><div class="comment-count">(6)</div></a><a class="item" href="https://community.linkareer.com/best/6437381"><div class="lt">08</div><div class="rt">강소기업 채용 커뮤니티</div><div class="comment-count">(4)</div></a><a class="item" href="https://community.linkareer.com/best/6437354"><div class="lt">09</div><div class="rt">🚀 [예약] 2026 하반기 최신 50대 대기업 합격 자소서 가이드북 (~9/10)</div><div class="comment-count">(42)</div></a><a class="item" href="https://community.linkareer.com/best/6437291"><div class="lt">10</div><div class="rt">우리 누나 소개팅을 거절하는데</div><div class="comment-count">(17)</div></a></div></div><a href="https://community.linkareer.com/best" class="expand-btn">커뮤니티 더보기<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 9.037 16" aria-label="오른쪽 화살표"><desc>오른쪽 화살표</desc><g transform="rotate(180, 4.5185,8) "><path fill="currentColor" d="M7.963 16a1 1 0 00.707-1.707L2.414 8.037l6.33-6.33A1 1 0 107.33.293L.293 7.33a1 1 0 000 1.414l6.964 6.963a1 1 0 00.706.293z"></path></g></svg></a></div></div></div><article aria-label="Recommended Education"><h3 class="RecommendEducationTitle-desktop__StyledWrapper-sc-8ad4fad7-0 hnUqNC">링커리어 <strong>추천교육</strong></h3><ul class="RecommendEducationList-deskop__StyledWrapper-sc-f5cf22ec-0 dxqHL"><li class="RecommendEducationCard-desktop__StyledWrapper-sc-2f4dc163-0 erLdQX"><header class="RecommendEducationCardLogoImage-desktop__StyledWrapper-sc-be41e7c1-0 lbQIyo"><div class="scrap-button ScrapBoxButton__StyledWrapper-sc-88d97c8c-0 jQSTAO" data-is-scrap="false"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="16" viewBox="0 0 8.7 11.2" class="scrap-icon"><desc>스크랩</desc><path data-name="패스 476" d="M613.254 99.171H609.5a1.871 1.871 0 0 0-1.871 1.871v8.129l3.75-1.48 3.75 1.48v-8.129a1.871 1.871 0 0 0-1.875-1.871z" transform="translate(-607.025 -98.571)" style="fill: none; stroke: rgb(255, 255, 255); stroke-linejoin: round; stroke-width: 1.2px;"></path></svg><div class="scrap-count">18</div></div><span style="box-sizing: border-box; display: inline-block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative; max-width: 100%;"><span style="box-sizing: border-box; display: block; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; max-width: 100%;"><img alt="" aria-hidden="true" src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2788%27%20height=%2788%27/%3e" style="display: block; max-width: 100%; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px;"></span><img alt="SAP KOREA 기업 로고 이미지" src="https://media-cdn.linkareer.com/activity_manager/logos/909088" decoding="async" data-nimg="intrinsic" srcset="https://media-cdn.linkareer.com/activity_manager/logos/909088 1x, https://media-cdn.linkareer.com/activity_manager/logos/909088 2x" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"></span></header><div class="RecommendEducationCardContent-desktop__StyledWrapper-sc-e019d1ad-0 jUgiyr"><a class="recommend-education-title" href="/activity/341725">[SAP Korea] 2026 SAP CODE 아카데미 2기 모집 (~9/28(월) 11:00)</a><div class="closed-at-container"><div class="organization-wrapper"><span class="organization-name">SAP KOREA</span></div><span class="closed-at">~ 09.28</span></div></div><div class="RecommendEducationCategories__StyledWrapper-sc-62f90988-0 eWTKrG"><div class="EducationCategoryChip__StyledWrapper-sc-a19093b4-0 eBTdWa" data-type="559">프론트엔드 개발</div></div></li><li class="RecommendEducationCard-desktop__StyledWrapper-sc-2f4dc163-0 erLdQX"><header class="RecommendEducationCardLogoImage-desktop__StyledWrapper-sc-be41e7c1-0 lbQIyo"><div class="scrap-button ScrapBoxButton__StyledWrapper-sc-88d97c8c-0 jQSTAO" data-is-scrap="false"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="16" viewBox="0 0 8.7 11.2" class="scrap-icon"><desc>스크랩</desc><path data-name="패스 476" d="M613.254 99.171H609.5a1.871 1.871 0 0 0-1.871 1.871v8.129l3.75-1.48 3.75 1.48v-8.129a1.871 1.871 0 0 0-1.875-1.871z" transform="translate(-607.025 -98.571)" style="fill: none; stroke: rgb(255, 255, 255); stroke-linejoin: round; stroke-width: 1.2px;"></path></svg><div class="scrap-count">31</div></div><span style="box-sizing: border-box; display: inline-block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative; max-width: 100%;"><span style="box-sizing: border-box; display: block; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; max-width: 100%;"><img alt="" aria-hidden="true" src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2788%27%20height=%2788%27/%3e" style="display: block; max-width: 100%; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px;"></span><img alt="대한상공회의소 서울기술교육센터 기업 로고 이미지" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" decoding="async" data-nimg="intrinsic" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"><noscript></noscript></span></header><div class="RecommendEducationCardContent-desktop__StyledWrapper-sc-e019d1ad-0 jUgiyr"><a class="recommend-education-title" href="/activity/334015">[로보티즈, 클로봇] Physical AI 로봇 SW개발 채용연계과정 (전액 무료 KDT)</a><div class="closed-at-container"><div class="organization-wrapper"><span class="organization-name">대한상공회의소 서울기술교육센터</span></div><span class="closed-at">~ 08.31</span></div></div><div class="RecommendEducationCategories__StyledWrapper-sc-62f90988-0 eWTKrG"><div class="EducationCategoryChip__StyledWrapper-sc-a19093b4-0 OdjWB" data-type="615">로보틱스</div></div></li><li class="RecommendEducationCard-desktop__StyledWrapper-sc-2f4dc163-0 erLdQX"><header class="RecommendEducationCardLogoImage-desktop__StyledWrapper-sc-be41e7c1-0 lbQIyo"><div class="scrap-button ScrapBoxButton__StyledWrapper-sc-88d97c8c-0 jQSTAO" data-is-scrap="false"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="16" viewBox="0 0 8.7 11.2" class="scrap-icon"><desc>스크랩</desc><path data-name="패스 476" d="M613.254 99.171H609.5a1.871 1.871 0 0 0-1.871 1.871v8.129l3.75-1.48 3.75 1.48v-8.129a1.871 1.871 0 0 0-1.875-1.871z" transform="translate(-607.025 -98.571)" style="fill: none; stroke: rgb(255, 255, 255); stroke-linejoin: round; stroke-width: 1.2px;"></path></svg><div class="scrap-count">9</div></div><span style="box-sizing: border-box; display: inline-block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative; max-width: 100%;"><span style="box-sizing: border-box; display: block; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; max-width: 100%;"><img alt="" aria-hidden="true" src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2788%27%20height=%2788%27/%3e" style="display: block; max-width: 100%; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px;"></span><img alt="주식회사 하이테커 기업 로고 이미지" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" decoding="async" data-nimg="intrinsic" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"><noscript></noscript></span></header><div class="RecommendEducationCardContent-desktop__StyledWrapper-sc-e019d1ad-0 jUgiyr"><a class="recommend-education-title" href="/activity/341535">[하이테커] AI 이커머스 마케팅 교육 참여자 모집</a><div class="closed-at-container"><div class="organization-wrapper"><span class="organization-name">주식회사 하이테커</span></div><span class="closed-at">~ 09.20</span></div></div><div class="RecommendEducationCategories__StyledWrapper-sc-62f90988-0 eWTKrG"><div class="EducationCategoryChip__StyledWrapper-sc-a19093b4-0 jRRIHp" data-type="564">콘텐츠마케팅</div></div></li><li class="RecommendEducationCard-desktop__StyledWrapper-sc-2f4dc163-0 erLdQX"><header class="RecommendEducationCardLogoImage-desktop__StyledWrapper-sc-be41e7c1-0 lbQIyo"><div class="scrap-button ScrapBoxButton__StyledWrapper-sc-88d97c8c-0 jQSTAO" data-is-scrap="false"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="16" viewBox="0 0 8.7 11.2" class="scrap-icon"><desc>스크랩</desc><path data-name="패스 476" d="M613.254 99.171H609.5a1.871 1.871 0 0 0-1.871 1.871v8.129l3.75-1.48 3.75 1.48v-8.129a1.871 1.871 0 0 0-1.875-1.871z" transform="translate(-607.025 -98.571)" style="fill: none; stroke: rgb(255, 255, 255); stroke-linejoin: round; stroke-width: 1.2px;"></path></svg><div class="scrap-count">1</div></div><span style="box-sizing: border-box; display: inline-block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative; max-width: 100%;"><span style="box-sizing: border-box; display: block; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; max-width: 100%;"><img alt="" aria-hidden="true" src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2788%27%20height=%2788%27/%3e" style="display: block; max-width: 100%; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px;"></span><img alt="주식회사 구름 기업 로고 이미지" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" decoding="async" data-nimg="intrinsic" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;"><noscript></noscript></span></header><div class="RecommendEducationCardContent-desktop__StyledWrapper-sc-e019d1ad-0 jUgiyr"><a class="recommend-education-title" href="/activity/343917">kt cloud 테크업 IT 직군 교육생 모집</a><div class="closed-at-container"><div class="organization-wrapper"><span class="organization-name">주식회사 구름</span></div><span class="closed-at">~ 09.13</span></div></div><div class="RecommendEducationCategories__StyledWrapper-sc-62f90988-0 eWTKrG"><div class="EducationCategoryChip__StyledWrapper-sc-a19093b4-0 eBTdWa" data-type="559">프론트엔드 개발</div></div></li></ul><a href="/list/education" class="RecommendEducationMoreButton__StyledWrapper-sc-b65ffa6f-0 iROggp">더보기 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 9.037 16" aria-label="오른쪽 화살표" class="arrow-right"><desc>오른쪽 화살표</desc><g transform="rotate(180, 4.5185,8) "><path fill="currentColor" d="M7.963 16a1 1 0 00.707-1.707L2.414 8.037l6.33-6.33A1 1 0 107.33.293L.293 7.33a1 1 0 000 1.414l6.964 6.963a1 1 0 00.706.293z"></path></g></svg></a></article></aside></div></main><div class="Footer-desktop__StyledWrapper-sc-51a221e5-0 biGRbx"><div class="container"><div class="flex-box"><div class="FooterMenuList__StyledWrapper-sc-f84fc2cb-0 gAUUGC"><div class="menu-list"><div class="menu-item">링커리어</div><div class="sub-menu-list"><a href="//medium.com/specupad/introduce-linkareer-c3e285beb0" class="sub-menu-item">• 링커리어 소개</a><a href="//community.linkareer.com/notice" class="sub-menu-item">• 공지사항</a><a href="https://linkareer.career.greetinghr.com/ko/home" class="sub-menu-item">• 채용</a><a href="https://www.notion.so/timespread/1ec31e3aa02980419fd9cccd9ef1ba3c?pvs=4" class="sub-menu-item" target="_blank" rel="noopener noreferrer">• 회사 공시사항</a></div></div><div class="menu-list"><div class="menu-item">고객문의</div><div class="sub-menu-list"><a href="//docs.google.com/forms/d/e/1FAIpQLSeshiJ7LduGo4VxUQ3gQnz-_PyUoRNc7CC1BClRtu17VChmjw/viewform" class="sub-menu-item">• 광고 및 제휴 문의</a><span class="sub-menu-item">• 고객문의</span><a href="https://docs.google.com/forms/d/e/1FAIpQLSfiV7XHrdJvuv5Mcwme-jwgzbsAE0tymiBpXl9vv9-gzOKt6Q/viewform?usp=sf_link" class="sub-menu-item" target="_blank" rel="noopener noreferrer">• 서비스 피드백</a></div></div><div class="menu-list"><div class="menu-item">이용안내</div><div class="sub-menu-list"><a href="/terms" class="sub-menu-item">• 이용약관</a><a href="/privacy" class="sub-menu-item">• 개인정보처리방침</a><a href="https://timespread.notion.site/d65e8ba1fc2c443d80c69745327488af" class="sub-menu-item" target="_blank" rel="noopener noreferrer">• 이용약관, 개인정보처리방침 변경 고지</a></div></div><div class="menu-list"><div class="menu-item">연관 서비스</div><div class="sub-menu-list"><a href="//pf.kakao.com/_jXHxoT" class="sub-menu-item">• 대외활동봇</a><a href="//pf.kakao.com/_JnqAxb" class="sub-menu-item">• 공모전봇</a><a href="//pf.kakao.com/_IxeGdxb" class="sub-menu-item">• 채용봇</a><a href="//pf.kakao.com/_MGgexb" class="sub-menu-item">• 자소서봇</a></div></div><div class="menu-list"><div class="menu-item"></div><div class="sub-menu-list"><a href="/calendar" class="sub-menu-item">• 공고달력</a><a href="//blog.naver.com/linkareer1004" class="sub-menu-item">• 블로그</a></div></div><div class="menu-list"><div class="menu-item"></div><div class="sub-menu-list"><a href="//cafe.naver.com/specup" class="sub-menu-item">• 스펙업</a><a href="//www.facebook.com/univwhat" class="sub-menu-item">• 대외활동 뭐하지</a><a href="//www.facebook.com/contestWhat" class="sub-menu-item">• 공모전 뭐하지</a></div></div></div><div class="FooterAppInstall__StyledWrapper-sc-9d03e11a-0 cMohRP"><svg role="img" xmlns="http://www.w3.org/2000/svg" width="213.637" height="50" viewBox="0 0 213.637 50" aria-label="링커리어" class="logo"><desc>링커리어</desc><g><path fill="currentColor" d="M279.828 669.549h18.756v-6.692h-11.271v-22.19h-7.485z" transform="translate(-1140 -1030) translate(860.172 409.846)"></path><path fill="currentColor" d="M0 0h7.925v28.882H0z" transform="translate(-1140 -1030) translate(1163.511 1050.513)"></path><path fill="currentColor" d="M302.939 640.667v28.882h7.221v-17.435l10.74 17.435h7.309v-28.882H320.9v15.762l-9.774-15.762z" transform="translate(-1140 -1030) translate(873.692 409.846)"></path><path fill="currentColor" d="M322.717 669.549h7.132v-8.717l2.642-2.906 7.132 11.623h8.805L337.6 653.7l9.774-13.032h-8.541l-8.894 11.183v-11.184h-7.221z" transform="translate(-1140 -1030) translate(885.261 409.846)"></path><path fill="currentColor" d="M360.45 644.3l-1.331 3.346s-2.026-3.7-8.366-3.7a10.725 10.725 0 00-8.893 4.14 13.775 13.775 0 00-2.642 7.484 11.631 11.631 0 004.051 9.51c3.17 3.081 8.012 2.994 8.012 2.994s5.372-.265 7.838-3.346l1.32 2.905h4.842V644.3zm-5.085 15.783a5.906 5.906 0 01-4.1 1.552 7.269 7.269 0 01-4-1.255 5.818 5.818 0 01-1.75-4.368 6.035 6.035 0 011.536-4.283 5.6 5.6 0 014.21-1.915 5.757 5.757 0 014.294 1.816 6.637 6.637 0 011.452 4.381 6.3 6.3 0 01-1.642 4.07z" transform="translate(-1140 -1030) translate(894.914 411.763)"></path><path fill="currentColor" d="M358.717 644.222v23.247h6.956V654s.352-3.522 4.579-3.522a4.55 4.55 0 013.874 2.113l3.363-4.425a10.483 10.483 0 00-3.137-2.939 5.992 5.992 0 00-6.754.363 17.332 17.332 0 00-2.03 2.081l-1.651-3.446z" transform="translate(-1140 -1030) translate(906.321 411.926)"></path><path fill="currentColor" d="M402.773 644.222v23.247h6.955V654s.353-3.522 4.579-3.522a4.553 4.553 0 013.875 2.113l3.362-4.425a10.459 10.459 0 00-3.137-2.939 5.99 5.99 0 00-6.752.363 17.422 17.422 0 00-2.032 2.081l-1.65-3.446z" transform="translate(-1140 -1030) translate(932.093 411.926)"></path><path fill="currentColor" d="M393.413 655.609c.181-4.325-2.758-8.232-2.758-8.232a10.149 10.149 0 00-8.014-3.566 10.5 10.5 0 00-7.881 2.861 12.821 12.821 0 00-3.566 9.423 13.48 13.48 0 003.181 8.53 12.656 12.656 0 007.995 3.7c7.478 0 9.253-4.436 9.253-4.436l-4.05-3.3a6.95 6.95 0 01-5.042 1.81 4.517 4.517 0 01-3.582-1.732 6.512 6.512 0 01-1.206-2.587h13.043c1.894-.094 2.627-2.471 2.627-2.471zm-15.487-2.344a4.86 4.86 0 014.623-3.682 5.186 5.186 0 014.951 3.682z" transform="translate(-1140 -1030) translate(913.612 411.678)"></path><path fill="currentColor" d="M409.356 655.609c.182-4.325-2.758-8.232-2.758-8.232a10.145 10.145 0 00-8.012-3.566 10.491 10.491 0 00-7.881 2.861 12.821 12.821 0 00-3.566 9.423 13.48 13.48 0 003.181 8.53 12.657 12.657 0 007.995 3.7c7.476 0 9.253-4.436 9.253-4.436l-4.051-3.3a6.949 6.949 0 01-5.042 1.81 4.522 4.522 0 01-3.582-1.732 6.522 6.522 0 01-1.2-2.587h13.043c1.888-.094 2.62-2.471 2.62-2.471zm-15.487-2.344a4.862 4.862 0 014.623-3.682 5.187 5.187 0 014.953 3.682z" transform="translate(-1140 -1030) translate(922.939 411.678)"></path><g fill="currentColor"><path d="M378.977 634.71a55.765 55.765 0 006.922-.285l.1.967a65.959 65.959 0 01-8.11.3v-4.1h5.18v-2.154h-5.18v-.983h6.273v4.088h-5.18zm1.108 4.72c0-1.568 1.839-2.566 4.4-2.566s4.4 1.014 4.4 2.582v.571c0 1.583-1.837 2.582-4.4 2.582s-4.4-1-4.4-2.582zm7.73.539v-.475c0-.949-1.407-1.679-3.325-1.679s-3.327.745-3.327 1.679v.475c0 .951 1.411 1.68 3.327 1.68s3.324-.729 3.324-1.68zm1-3.485h-1.108v-8.759h1.108z" transform="translate(-1140 -1030) translate(1295.416 1030) translate(-377.883 -627.725)"></path><path d="M398.336 642.2h-1.109v-8.364h-3.88c-.38 1.758-1.694 3.042-5.784 5.227l-.522-.9c3.866-2.076 4.974-3.168 5.276-4.516l-5.4.127-.032-1 5.513-.093v-2.615h-5.211v-1.014h6.305v3.138c0 .222-.016.428-.016.632h3.753v-5.1h1.109z" transform="translate(-1140 -1030) translate(1295.416 1030) translate(-372.618 -627.725)"></path><path d="M397.641 637.609h2.171a31.452 31.452 0 004.8-.317l.127.967a33.685 33.685 0 01-5.211.349h-2.994v-5.544h5.243v-3.184h-5.243v-.98h6.353v5.148h-5.245zm9.727 4.593h-1.125v-14.477h1.125z" transform="translate(-1140 -1030) translate(1295.416 1030) translate(-366.973 -627.725)"></path><path d="M416.948 642.2h-1.109v-8.267h-3.248v.49c0 2.645-1.33 4.2-3.563 4.2s-3.565-1.553-3.565-4.2v-1.488c0-2.629 1.331-4.183 3.565-4.183 2.216 0 3.547 1.553 3.563 4.167h3.248v-5.2h1.109zm-5.449-9.06c0-2.409-.983-3.344-2.471-3.344s-2.473.935-2.473 3.344v1.092c0 2.409.983 3.358 2.473 3.358s2.471-.949 2.471-3.358z" transform="translate(-1140 -1030) translate(1295.416 1030) translate(-361.749 -627.725)"></path></g></g></svg><div class="store-badge-list"><a target="_blank" rel="noopener noreferrer" href="https://play.google.com/store/apps/details?id=com.linkareer.linkareer"><span style="box-sizing: border-box; display: inline-block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative; max-width: 100%;"><span style="box-sizing: border-box; display: block; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; max-width: 100%;"><img alt="" aria-hidden="true" src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27185%27%20height=%2775%27/%3e" style="display: block; max-width: 100%; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px;"></span><img alt="플레이스토어" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" decoding="async" data-nimg="intrinsic" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"><noscript></noscript></span></a><a target="_blank" rel="noopener noreferrer" href="https://apps.apple.com/kr/app/%EB%A7%81%EC%BB%A4%EB%A6%AC%EC%96%B4/id1526086787"><span style="box-sizing: border-box; display: inline-block; overflow: hidden; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; position: relative; max-width: 100%;"><span style="box-sizing: border-box; display: block; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px; max-width: 100%;"><img alt="" aria-hidden="true" src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27126%27%20height=%2742%27/%3e" style="display: block; max-width: 100%; width: initial; height: initial; background: none; opacity: 1; border: 0px; margin: 0px; padding: 0px;"></span><img alt="앱스토어" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" decoding="async" data-nimg="intrinsic" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"><noscript></noscript></span></a></div></div></div><div class="FooterCompanyInfo__StyledWrapper-sc-82e27f2a-0 ldwUgv"><span>사업자 등록번호 : 105-87-57696</span><span>직업정보제공 사업신고번호 : J1200020240023</span><span>통신판매업 신고번호 : 제 2012-서울강남-02418호</span><br><span>주식회사 링커리어 대표이사 : 노은돈</span><span>서울특별시 강남구 역삼로 3길 11, 10층 1003호 (역삼동, 광성빌딩)</span><br><span>Copyright © <b>Linkareer Inc</b>. All Rights Reserved.</span></div></div></div></div></div><div data-is-open="false" data-is-loaded="true" class="ChattingContext__StyledChattingIframeWrapper-sc-fbcb1802-0 cOYquc"><section role="complementary"><div class="iframe-skeleton ChattingIframeSkeleton__StyledWrapper-sc-723db4e2-0 fueaJn"></div><iframe title="chatting-iframe" src="https://chat.linkareer.com?accessToken=RTmSqaL9GAFKP4YQ0y6iN95jOZ71p2oeRI_2lsUyVqA" loading="lazy" allow="clipboard-read; clipboard-write"></iframe></section></div><div id="modal"></div></div><script id="__NEXT_DATA__" type="application/json" crossorigin="anonymous">{"props":{"pageProps":{"data":{"activityData":{"activity":{"__typename":"Activity","id":"343824","title":"[토니모리] 유통/다이소팀 인턴 채용","thumbnailImage":{"__typename":"ActivityFile","id":"1443911","url":"https://media-cdn.linkareer.com/activity_manager/logos/916955"},"organizationName":"토니모리","company":{"__typename":"Company","id":"74519","name":"토니모리","ceoName":"김승철","establishedAt":1153785600000,"detailedIndustry":"제조업","companyInformation":null},"schoolTargeting":null,"simpleApplyDetail":null,"seminarDetail":null,"type":5,"applyTypes":[{"__typename":"ApplyType","id":"3","name":"접수페이지"}],"applyDetail":"https://tonymoly.ninehire.site/job_posting/wLn7bKTI","activityTypeID":5,"manager":{"__typename":"User","id":"6350","isStaff":true},"integers":[],"teamRecruitPostCount":0,"group":"NORMAL","interests":[],"categories":[{"__typename":"Category","id":"101003","name":"서비스기획/운영"},{"__typename":"Category","id":"102007","name":"시장조사/리서치"},{"__typename":"Category","id":"105005","name":"판매/매장관리"}],"duties":{"__typename":"DutyConnection","totalCount":1,"nodes":[{"__typename":"Duty","id":"265324","title":"유통/다이소팀","jobType":"INTERN","categories":[{"__typename":"Category","id":"101003","name":"서비스기획/운영","parent":{"__typename":"Category","id":"100001","name":"기획/경영","parent":null}},{"__typename":"Category","id":"102007","name":"시장조사/리서치","parent":{"__typename":"Category","id":"100002","name":"마케팅/광고","parent":null}},{"__typename":"Category","id":"105005","name":"판매/매장관리","parent":{"__typename":"Category","id":"100005","name":"영업/CS","parent":null}}],"questionTemplates":[{"__typename":"QuestionTemplate","id":"427364","charSize":"CHAR","charMaxSize":1000,"blankType":"WITH_BLANK","content":"본인을 한 문장으로 표현해 주세요."}],"activity":{"__typename":"Activity","id":"343824","logoImage":{"__typename":"ActivityFile","id":"1443912","url":"https://media-cdn.linkareer.com/activity_manager/logos/916955"},"organizationName":"토니모리","title":"[토니모리] 유통/다이소팀 인턴 채용","recruitType":"NORMAL","recruitCloseAt":1789743599999},"selfIntroductionCount":12}]},"chatRoom":{"__typename":"ChatRoom","id":"13396","name":"토니모리","memberCount":1631},"educationTypes":[],"recruitCloseAt":1789743599999,"isAppliedByCurrentUser":false,"createdAt":1787115018000,"managerName":"링커리어","managerPhoneNumber":null,"managerEmail":null,"files":[{"__typename":"ActivityFile","id":"1443911","filename":"토니모리.jpg","url":"https://media-cdn.linkareer.com/activity_manager/logos/916955","type":{"__typename":"ActivityFileType","id":"4","name":"썸네일"}},{"__typename":"ActivityFile","id":"1443912","filename":"토니모리.jpg","url":"https://media-cdn.linkareer.com/activity_manager/logos/916955","type":{"__typename":"ActivityFileType","id":"5","name":"로고"}}],"reportCount":0,"youtubeURL":null,"recruitType":"NORMAL","jobTypes":["INTERN"],"logoImage":{"__typename":"ActivityFile","id":"1443912","url":"https://media-cdn.linkareer.com/activity_manager/logos/916955"},"activityStartAt":null,"activityEndAt":null,"dateRepresentation":"DAY","recruitScale":"0","additionalBenefit":null,"benefits":[],"facetimePeriod":null,"facetimeWeekday":null,"facetimeDay":null,"facetimeTime":null,"homepageURL":"https://tonymoly.com/","distinctInternTypes":[{"__typename":"ActivityInternType","id":"2","name":"채용연계형 인턴"}],"organizationType":"중견기업","rootCategories":[{"__typename":"Category","id":"100001","name":"기획/경영"},{"__typename":"Category","id":"100002","name":"마케팅/광고"},{"__typename":"Category","id":"100005","name":"영업/CS"}],"recruitStartAt":1787065200000,"regions":[{"__typename":"Region","id":"2","name":"서울"}],"regionDistricts":[{"__typename":"RegionDistrict","id":"17","name":"서초구","region":{"__typename":"Region","id":"2","name":"서울"}}],"addresses":[{"__typename":"ActivityAddress","address":"서울 서초구 남부순환로 2557","bcode":"1165010800","bname":"서초동","detailAddress":"토니모리","id":"123661","isAbroad":false,"isPossibleWorkingFromHome":false,"sido":"서울","sigungu":"서초구","sigunguCode":"11650","zoneCode":"06734"}],"tenThousandUnitOfReward":null,"skills":[],"targets":[],"salaryType":"YEARLY","isSalaryDecidedAfterInterview":false,"isSalaryDecidedByCompanyPolicy":true,"maxSalary":null,"minSalary":null,"cost":null,"isSponsored":null,"onoffline":null},"activitySeo":{"__typename":"Activity","id":"343824","title":"[토니모리] 유통/다이소팀 인턴 채용","status":"OPEN","activityTypeID":5,"organizationName":"토니모리","organizationType":"중견기업","recruitCloseAt":1789743599999,"recruitScale":"0","createdAt":1787115018000,"jobTypes":["INTERN"],"homepageURL":"https://tonymoly.com/","organizationBusinessRegistrationNumber":"114-86-53270","thumbnailImage":{"__typename":"ActivityFile","id":"1443911","url":"https://media-cdn.linkareer.com/activity_manager/logos/916955"},"regions":[{"__typename":"Region","id":"2","name":"서울"}],"regionDistricts":[{"__typename":"RegionDistrict","id":"17","name":"서초구","region":{"__typename":"Region","id":"2","name":"서울"}}],"addresses":[{"__typename":"ActivityAddress","id":"123661","address":"서울 서초구 남부순환로 2557","bcode":"1165010800","bname":"서초동","detailAddress":"토니모리","isAbroad":false,"isPossibleWorkingFromHome":false,"sido":"서울","sigungu":"서초구","sigunguCode":"11650","zoneCode":"06734"}],"salaryType":"YEARLY","minSalary":null,"maxSalary":null,"education":"COLLEGE_GRADUATE_4_YEARS","workStartTime":null,"workEndTime":null,"categories":[{"__typename":"Category","id":"101003","name":"서비스기획/운영"},{"__typename":"Category","id":"102007","name":"시장조사/리서치"},{"__typename":"Category","id":"105005","name":"판매/매장관리"}],"rootCategories":[{"__typename":"Category","id":"100001","name":"기획/경영"},{"__typename":"Category","id":"100002","name":"마케팅/광고"},{"__typename":"Category","id":"100005","name":"영업/CS"}],"integers":[],"benefits":[],"interests":[],"logoImage":{"__typename":"ActivityFile","id":"1443912","url":"https://media-cdn.linkareer.com/activity_manager/logos/916955"},"duties":{"__typename":"DutyConnection","nodes":[{"__typename":"Duty","id":"265324","categories":[{"__typename":"Category","id":"101003","name":"서비스기획/운영"},{"__typename":"Category","id":"102007","name":"시장조사/리서치"},{"__typename":"Category","id":"105005","name":"판매/매장관리"}]}]}}},"famousActivityData":{"famousActivityList":{"__typename":"FamousActivityListPayload","activities":[{"__typename":"Activity","id":"344807","group":"NORMAL","title":"[현대자동차] 9월 신입 채용 (사전공고)","type":5,"thumbnailImage":{"__typename":"ActivityFile","id":"1446806","url":"https://media-cdn.linkareer.com/activity_manager/logos/920476"},"logoImage":{"__typename":"ActivityFile","id":"1446807","url":"https://media-cdn.linkareer.com/activity_manager/logos/920476"},"manager":{"__typename":"User","id":"6350","isStaff":true,"channel":null},"chatRoom":{"__typename":"ChatRoom","id":"48","viewerIsMember":false},"organizationName":"현대자동차","scrapCount":1858,"isScrapped":false,"teamRecruitPostCount":0,"simpleApplyDetail":null,"recruitType":"NORMAL","recruitCloseAt":1789372859999,"viewCount":29995,"replyCount":0,"activityTypeID":5},{"__typename":"Activity","id":"344996","group":"NORMAL","title":"[LG전자] 2026년 하반기 LG전자 신입사원 채용","type":5,"thumbnailImage":{"__typename":"ActivityFile","id":"1447351","url":"https://media-cdn.linkareer.com/activity_manager/logos/921037"},"logoImage":{"__typename":"ActivityFile","id":"1447352","url":"https://media-cdn.linkareer.com/activity_manager/logos/921037"},"manager":{"__typename":"User","id":"6350","isStaff":true,"channel":null},"chatRoom":{"__typename":"ChatRoom","id":"581","viewerIsMember":false},"organizationName":"LG전자","scrapCount":1745,"isScrapped":false,"teamRecruitPostCount":0,"simpleApplyDetail":null,"recruitType":"NORMAL","recruitCloseAt":1789308059999,"viewCount":26950,"replyCount":0,"activityTypeID":5},{"__typename":"Activity","id":"341707","group":"NORMAL","title":"[KT\u0026G] 2026년 하반기 신입(사무) 사원 채용","type":5,"thumbnailImage":{"__typename":"ActivityFile","id":"1437944","url":"https://media-cdn.linkareer.com/activity_manager/logos/909022"},"logoImage":{"__typename":"ActivityFile","id":"1437945","url":"https://media-cdn.linkareer.com/activity_manager/logos/909022"},"manager":{"__typename":"User","id":"6350","isStaff":true,"channel":null},"chatRoom":{"__typename":"ChatRoom","id":"1222","viewerIsMember":false},"organizationName":"KT\u0026G","scrapCount":1222,"isScrapped":false,"teamRecruitPostCount":0,"simpleApplyDetail":null,"recruitType":"NORMAL","recruitCloseAt":1789020059999,"viewCount":25031,"replyCount":0,"activityTypeID":5},{"__typename":"Activity","id":"344479","group":"NORMAL","title":"2026 한화금융 신입공채","type":5,"thumbnailImage":{"__typename":"ActivityFile","id":"1446061","url":"https://media-cdn.linkareer.com/activity_manager/logos/919208"},"logoImage":{"__typename":"ActivityFile","id":"1446062","url":"https://media-cdn.linkareer.com/activity_manager/logos/919208"},"manager":{"__typename":"User","id":"784735","isStaff":false,"channel":{"__typename":"Channel","id":"17741","url":"주식회사-엔에이치알-29173","viewerHasFollowed":false}},"chatRoom":{"__typename":"ChatRoom","id":"1286","viewerIsMember":false},"organizationName":"한화생명","scrapCount":1578,"isScrapped":false,"teamRecruitPostCount":0,"simpleApplyDetail":null,"recruitType":"NORMAL","recruitCloseAt":1789711259999,"viewCount":20989,"replyCount":1,"activityTypeID":5}]}}},"networkStatusCode":200,"__APOLLO_STATE__":{"ActivityFile:1443911":{"__typename":"ActivityFile","id":"1443911","url":"https://media-cdn.linkareer.com/activity_manager/logos/916955","filename":"토니모리.jpg","type":{"__ref":"ActivityFileType:4"}},"ApplyType:3":{"__typename":"ApplyType","id":"3","name":"접수페이지"},"User:6350":{"__typename":"User","id":"6350","isStaff":true,"channel":null},"ActivityText:532776":{"__typename":"ActivityText","id":"532776","text":"\u003cp\u003e\u003cspan style=\"font-size: 18pt;\"\u003e\u003cb\u003e[토니모리] 유통/다이소팀 인턴 채용\u003c/b\u003e\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: 11pt;\"\u003e[담당 업무]\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: 11pt;\"\u003e1. 다이소 채널 운영 지원\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: 11pt;\"\u003e2. 직매입 영업 지원\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: 11pt;\"\u003e3. 대형마트/백화점 매장 관리 지원\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: 11pt;\"\u003e[자격요건]\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: 11pt;\"\u003e- 경력 무관(신입 지원 가능)\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: 11pt;\"\u003e- 4년제 학사 졸업\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: 11pt;\"\u003e[우대 역량]\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: 11pt;\"\u003e- 컴퓨터 활용 능력 우수자\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: 11pt;\"\u003e- OA/SAP 사용 가능자\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: 11pt;\"\u003e- 뷰티 산업 전반에 대한 이해도 및 관심이 있으신 분\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"font-size: 11pt;\"\u003e- 운전 가능자 우대\u003c/span\u003e\u003c/p\u003e\u003cdiv\u003e\u003cbr\u003e\u003c/div\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003e\u003cimg src=\"https://media-cdn.linkareer.com/se2editor/image/916949\" title=\"20260819_134950.png\"\u003e\u003cbr style=\"clear:both;\"\u003e\u003cbr\u003e\u003c/p\u003e"},"ActivityFileType:4":{"__typename":"ActivityFileType","id":"4","name":"썸네일"},"ActivityFileType:5":{"__typename":"ActivityFileType","id":"5","name":"로고"},"ActivityFile:1443912":{"__typename":"ActivityFile","id":"1443912","filename":"토니모리.jpg","url":"https://media-cdn.linkareer.com/activity_manager/logos/916955","type":{"__ref":"ActivityFileType:5"}},"Company:74519":{"__typename":"Company","id":"74519","ceoName":"김승철","establishedAt":1153785600000,"detailedIndustry":"제조업","name":"토니모리","companyInformation":null},"ChatRoom:13396":{"__typename":"ChatRoom","id":"13396","name":"토니모리","memberCount":1631},"ActivityInternType:2":{"__typename":"ActivityInternType","id":"2","name":"채용연계형 인턴"},"Category:100001":{"__typename":"Category","id":"100001","name":"기획/경영","parent":null},"Category:100002":{"__typename":"Category","id":"100002","name":"마케팅/광고","parent":null},"Category:100005":{"__typename":"Category","id":"100005","name":"영업/CS","parent":null},"Region:2":{"__typename":"Region","id":"2","name":"서울"},"RegionDistrict:17":{"__typename":"RegionDistrict","id":"17","name":"서초구","region":{"__ref":"Region:2"}},"ActivityAddress:123661":{"__typename":"ActivityAddress","address":"서울 서초구 남부순환로 2557","bcode":"1165010800","bname":"서초동","detailAddress":"토니모리","id":"123661","isAbroad":false,"isPossibleWorkingFromHome":false,"sido":"서울","sigungu":"서초구","sigunguCode":"11650","zoneCode":"06734"},"Category:101003":{"__typename":"Category","id":"101003","name":"서비스기획/운영","parent":{"__ref":"Category:100001"}},"Category:102007":{"__typename":"Category","id":"102007","name":"시장조사/리서치","parent":{"__ref":"Category:100002"}},"Category:105005":{"__typename":"Category","id":"105005","name":"판매/매장관리","parent":{"__ref":"Category:100005"}},"QuestionTemplate:427364":{"__typename":"QuestionTemplate","id":"427364","charSize":"CHAR","charMaxSize":1000,"blankType":"WITH_BLANK","content":"본인을 한 문장으로 표현해 주세요."},"Activity:343824":{"__typename":"Activity","id":"343824","logoImage":{"__ref":"ActivityFile:1443912"},"organizationName":"토니모리","title":"[토니모리] 유통/다이소팀 인턴 채용","recruitType":"NORMAL","recruitCloseAt":1789743599999,"thumbnailImage":{"__ref":"ActivityFile:1443911"},"type":5,"applyTypes":[{"__ref":"ApplyType:3"}],"applyDetail":"https://tonymoly.ninehire.site/job_posting/wLn7bKTI","activityTypeID":5,"manager":{"__ref":"User:6350"},"schoolTargeting({})":null,"detailText":{"__ref":"ActivityText:532776"},"createdAt":1787115018000,"managerName":"링커리어","managerPhoneNumber":null,"managerEmail":null,"files":[{"__ref":"ActivityFile:1443911"},{"__ref":"ActivityFile:1443912"}],"reportCount":0,"company":{"__ref":"Company:74519"},"youtubeURL":null,"chatRoom":{"__ref":"ChatRoom:13396"},"integers":[],"simpleApplyDetail":null,"jobTypes":["INTERN"],"activityStartAt":null,"activityEndAt":null,"dateRepresentation":"DAY","recruitScale":"0","additionalBenefit":null,"benefits":[],"facetimePeriod":null,"facetimeWeekday":null,"facetimeDay":null,"facetimeTime":null,"homepageURL":"https://tonymoly.com/","interests":[],"distinctInternTypes":[{"__ref":"ActivityInternType:2"}],"organizationType":"중견기업","rootCategories":[{"__ref":"Category:100001"},{"__ref":"Category:100002"},{"__ref":"Category:100005"}],"recruitStartAt":1787065200000,"regions":[{"__ref":"Region:2"}],"regionDistricts":[{"__ref":"RegionDistrict:17"}],"addresses":[{"__ref":"ActivityAddress:123661"}],"tenThousandUnitOfReward":null,"skills":[],"targets":[],"salaryType":"YEARLY","isSalaryDecidedAfterInterview":false,"isSalaryDecidedByCompanyPolicy":true,"maxSalary":null,"minSalary":null,"cost":null,"isSponsored":null,"onoffline":null,"teamRecruitPostCount":0,"group":"NORMAL","categories":[{"__ref":"Category:101003"},{"__ref":"Category:102007"},{"__ref":"Category:105005"}],"duties({\"filterBy\":{\"hasQuestionTemplate\":true},\"first\":3,\"orderBy\":{\"direction\":\"DESC\",\"field\":\"JOB_TYPE_CREATED_AT\"}})":{"__typename":"DutyConnection","totalCount":1,"nodes":[{"__ref":"Duty:265324"}]},"educationTypes":[],"isAppliedByCurrentUser":false,"seminarDetail":null,"status":"OPEN","organizationBusinessRegistrationNumber":"114-86-53270","education":"COLLEGE_GRADUATE_4_YEARS","workStartTime":null,"workEndTime":null,"duties":{"__typename":"DutyConnection","nodes":[{"__ref":"Duty:265324"}]}},"Duty:265324":{"__typename":"Duty","id":"265324","title":"유통/다이소팀","jobType":"INTERN","categories":[{"__ref":"Category:101003"},{"__ref":"Category:102007"},{"__ref":"Category:105005"}],"questionTemplates":[{"__ref":"QuestionTemplate:427364"}],"activity":{"__ref":"Activity:343824"},"selfIntroductionCount":12},"ROOT_QUERY":{"__typename":"Query","activity({\"id\":\"343824\"})":{"__ref":"Activity:343824"},"famousActivityList({\"input\":{\"activityID\":\"343824\",\"activityTypeIDs\":[5],\"categoryIDs\":[101003,102007,105005],\"interestIDs\":[],\"limit\":4}})":{"__typename":"FamousActivityListPayload","activities":[{"__ref":"Activity:344807"},{"__ref":"Activity:344996"},{"__ref":"Activity:341707"},{"__ref":"Activity:344479"}]},"replies({\"filterBy\":{\"activityID\":\"343824\",\"pageType\":1},\"pagination\":{\"page\":1,\"pageSize\":10}})":{"__typename":"ReplyConnection","nodes":[],"totalCount":0}},"ActivityFile:1446806":{"__typename":"ActivityFile","id":"1446806","url":"https://media-cdn.linkareer.com/activity_manager/logos/920476"},"ActivityFile:1446807":{"__typename":"ActivityFile","id":"1446807","url":"https://media-cdn.linkareer.com/activity_manager/logos/920476"},"ChatRoom:48":{"__typename":"ChatRoom","id":"48","viewerIsMember":false},"Activity:344807":{"__typename":"Activity","id":"344807","group":"NORMAL","title":"[현대자동차] 9월 신입 채용 (사전공고)","type":5,"thumbnailImage":{"__ref":"ActivityFile:1446806"},"logoImage":{"__ref":"ActivityFile:1446807"},"manager":{"__ref":"User:6350"},"chatRoom":{"__ref":"ChatRoom:48"},"organizationName":"현대자동차","scrapCount":1858,"isScrapped":false,"teamRecruitPostCount":0,"simpleApplyDetail":null,"recruitType":"NORMAL","recruitCloseAt":1789372859999,"viewCount":29995,"replyCount":0,"activityTypeID":5},"ActivityFile:1447351":{"__typename":"ActivityFile","id":"1447351","url":"https://media-cdn.linkareer.com/activity_manager/logos/921037"},"ActivityFile:1447352":{"__typename":"ActivityFile","id":"1447352","url":"https://media-cdn.linkareer.com/activity_manager/logos/921037"},"ChatRoom:581":{"__typename":"ChatRoom","id":"581","viewerIsMember":false},"Activity:344996":{"__typename":"Activity","id":"344996","group":"NORMAL","title":"[LG전자] 2026년 하반기 LG전자 신입사원 채용","type":5,"thumbnailImage":{"__ref":"ActivityFile:1447351"},"logoImage":{"__ref":"ActivityFile:1447352"},"manager":{"__ref":"User:6350"},"chatRoom":{"__ref":"ChatRoom:581"},"organizationName":"LG전자","scrapCount":1745,"isScrapped":false,"teamRecruitPostCount":0,"simpleApplyDetail":null,"recruitType":"NORMAL","recruitCloseAt":1789308059999,"viewCount":26950,"replyCount":0,"activityTypeID":5},"ActivityFile:1437944":{"__typename":"ActivityFile","id":"1437944","url":"https://media-cdn.linkareer.com/activity_manager/logos/909022"},"ActivityFile:1437945":{"__typename":"ActivityFile","id":"1437945","url":"https://media-cdn.linkareer.com/activity_manager/logos/909022"},"ChatRoom:1222":{"__typename":"ChatRoom","id":"1222","viewerIsMember":false},"Activity:341707":{"__typename":"Activity","id":"341707","group":"NORMAL","title":"[KT\u0026G] 2026년 하반기 신입(사무) 사원 채용","type":5,"thumbnailImage":{"__ref":"ActivityFile:1437944"},"logoImage":{"__ref":"ActivityFile:1437945"},"manager":{"__ref":"User:6350"},"chatRoom":{"__ref":"ChatRoom:1222"},"organizationName":"KT\u0026G","scrapCount":1222,"isScrapped":false,"teamRecruitPostCount":0,"simpleApplyDetail":null,"recruitType":"NORMAL","recruitCloseAt":1789020059999,"viewCount":25031,"replyCount":0,"activityTypeID":5},"ActivityFile:1446061":{"__typename":"ActivityFile","id":"1446061","url":"https://media-cdn.linkareer.com/activity_manager/logos/919208"},"ActivityFile:1446062":{"__typename":"ActivityFile","id":"1446062","url":"https://media-cdn.linkareer.com/activity_manager/logos/919208"},"Channel:17741":{"__typename":"Channel","id":"17741","url":"주식회사-엔에이치알-29173","viewerHasFollowed":false},"User:784735":{"__typename":"User","id":"784735","isStaff":false,"channel":{"__ref":"Channel:17741"}},"ChatRoom:1286":{"__typename":"ChatRoom","id":"1286","viewerIsMember":false},"Activity:344479":{"__typename":"Activity","id":"344479","group":"NORMAL","title":"2026 한화금융 신입공채","type":5,"thumbnailImage":{"__ref":"ActivityFile:1446061"},"logoImage":{"__ref":"ActivityFile:1446062"},"manager":{"__ref":"User:784735"},"chatRoom":{"__ref":"ChatRoom:1286"},"organizationName":"한화생명","scrapCount":1578,"isScrapped":false,"teamRecruitPostCount":0,"simpleApplyDetail":null,"recruitType":"NORMAL","recruitCloseAt":1789711259999,"viewCount":20989,"replyCount":1,"activityTypeID":5}}},"deviceType":"desktop","asPath":"/activity/343824","isIOSNative":false,"domains":{"xen":"community.linkareer.com","protocol":"https","linkareer":"linkareer.com","linkareerAPIBaseURL":"https://api.linkareer.com","academyCommunityBaseUrl":"https://linkareer.com/cbt-community"},"cookies":{"_fwb":"723NfkiUrey4n95JbX3kRb.1787792610903","_ga":"GA1.1.1148797705.1787792611","_ga_436RXZVJRJ":"GS2.1.s1787806585$o2$g1$t1787806657$j60$l0$h0","_ga_FTSNHJ1YC4":"GS2.1.s1787806585$o2$g1$t1787806643$j2$l0$h0","_gcl_au":"1.1.708268639.1787792611","connect.sid":"s:VexiwLhvm0WK7_Yzza2W2s87JfnLtD7o.jtXXQqrDQGDgcvlHj1kVAOfIQ/6mKNAtdCPkoX8icP8","full-banner-dismiss-for-today":"1787792620351","wcs_bt":"10cc1b7ce39cd80:1787806643"},"__N_SSP":true},"page":"/activity/[id]","query":{"id":"343824"},"buildId":"linkareer-client-1787723201518","runtimeConfig":{"NODE_ENV":"production","ELASTIC_APM_SERVER_URL":"https://44abc78563ab4aefb00f721451b1d72d.apm.ap-northeast-1.aws.cloud.es.io","ELASTIC_APM_SERVICE_NAME":"linkareer-client-production","FB_API_KEY":"AIzaSyBZHZtrOiU0GA5igTvbRwFM8ZAWv6nYbfQ","FB_APP_ID":"1:887942137875:web:95646e80a2f838fb","FB_AUTH_DOMAIN":"linkareer-f7ef7.firebaseapp.com","FB_DATABASE_URL":"https://linkareer-f7ef7.firebaseio.com","FB_MEASUREMENT_ID":"G-FTSNHJ1YC4","FB_VAPID_KEY":"BEqCIMGT3bWCk5gNtryXwYNvI-bqopzrQTuzwXxHvGlmXRYVALFsw7svfT499Mr4Qr03CM63ElydOk4oMUonFaU","FB_MESSAGING_SENDER_ID":"887942137875","FB_PROJECT_ID":"linkareer-f7ef7","FB_STORAGE_BUCKET":"linkareer-f7ef7.appspot.com","GOOGLE_SITE_VERIFICATION":"APF_pwdQc3r2bWeg4_i19kv1E7BWsE3vHCmrgUB2Ybw","NAVER_SITE_VERIFICATION":"5a0d104cb70b38d8a76e32780f4a1b425684c75c","GOOGLE_GTM_ID":"GTM-TR2FH9Z"},"isFallback":false,"isExperimentalCompile":false,"dynamicIds":[4367],"gssp":true,"appGip":true,"scriptLoader":[]}</script><script id="gtm" data-nscript="afterInteractive">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-TR2FH9Z');</script><next-route-announcer><p aria-live="assertive" id="__next-route-announcer__" role="alert" style="border: 0px; clip: rect(0px, 0px, 0px, 0px); height: 1px; margin: -1px; overflow: hidden; padding: 0px; position: absolute; top: 0px; width: 1px; white-space: nowrap; overflow-wrap: normal;"></p></next-route-announcer><script id="" text="" charset="" type="text/javascript" src="//wcs.naver.net/wcslog.js"></script>
+<script type="text/javascript" id="" charset="">if(!wcs_add)var wcs_add={};wcs_add.wa="10cc1b7ce39cd80";window.wcs&&wcs_do();</script><script src="https://t1.kakaocdn.net/kakao_js_sdk/2.7.2/kakao.min.js" id="kakao-sdk" integrity="sha384-TiCUE00h649CAMonG018J2ujOgDKW/kVWlChEuu4jK2vxfAAD0eZxzCKakxg55G4" crossorigin="anonymous" data-nscript="lazyOnload"></script><script crossorigin="anonymous" src="/_next/static/chunks/1715-c20cd3a6cba3c66a.js"></script><script crossorigin="anonymous" src="/_next/static/chunks/3135-995ee99d3c876217.js"></script><script crossorigin="anonymous" src="/_next/static/chunks/5160-ceda18ee6a003719.js"></script><script crossorigin="anonymous" src="/_next/static/chunks/625-93ba00e82edb6ffc.js"></script><script crossorigin="anonymous" src="/_next/static/chunks/6969-5fd933e26be27d28.js"></script><script crossorigin="anonymous" src="/_next/static/chunks/6933-54899a44d5b20b3a.js"></script><script crossorigin="anonymous" src="/_next/static/chunks/1623-b6d3b8b392101d89.js"></script><script crossorigin="anonymous" src="/_next/static/chunks/pages/index-cec16fdf5c1850f8.js"></script><script crossorigin="anonymous" src="/_next/static/chunks/pages/recruit-home-5ee97f2789a69606.js"></script><script crossorigin="anonymous" src="/_next/static/chunks/4236-84a2063346fd8b6e.js"></script><script crossorigin="anonymous" src="/_next/static/chunks/4547-b70e135e97164fec.js"></script><script crossorigin="anonymous" src="/_next/static/chunks/3602-ed55b4f24a4cc165.js"></script><script crossorigin="anonymous" src="/_next/static/chunks/2544-9ea7f143eed04635.js"></script><script crossorigin="anonymous" src="/_next/static/chunks/2968-07b56345c6423528.js"></script><script crossorigin="anonymous" src="/_next/static/chunks/3453-e99c10f1c270ca9f.js"></script><script crossorigin="anonymous" src="/_next/static/chunks/3108-9a9650f66e4a73a0.js"></script><script crossorigin="anonymous" src="/_next/static/chunks/pages/list/intern-d151e184d3a7fd7e.js"></script><script crossorigin="anonymous" src="/_next/static/chunks/pages/list/recruit-f9e18080ffa1b565.js"></script><script crossorigin="anonymous" src="/_next/static/chunks/2603-857f84b6a6a8ce08.js"></script><script crossorigin="anonymous" src="/_next/static/chunks/pages/company-info-5617850dec0eedce.js"></script><script crossorigin="anonymous" src="/_next/static/chunks/182-f52bc4feb4d5fec5.js"></script><script crossorigin="anonymous" src="/_next/static/chunks/pages/company-analysis-4f44a5a253bf9e1e.js"></script><script crossorigin="anonymous" src="/_next/static/chunks/6250-e97a574a768ed7d7.js"></script><script crossorigin="anonymous" src="/_next/static/chunks/8139-3d35b67e6bbd54f2.js"></script><script crossorigin="anonymous" src="/_next/static/chunks/pages/calendar-c251da4fc7ed3e11.js"></script><script crossorigin="anonymous" src="/_next/static/chunks/5809-5af70bf5a9da952b.js"></script><script crossorigin="anonymous" src="/_next/static/chunks/pages/prediction/gsat-9edf8194533a187c.js"></script><script crossorigin="anonymous" src="/_next/static/chunks/pages/exam/gsatskct-05c1e8313ce45016.js"></script><script crossorigin="anonymous" src="/_next/static/chunks/917-aa2f9a7acab1853b.js"></script><script crossorigin="anonymous" src="/_next/static/chunks/5623-40d321c82bcfeef8.js"></script><script crossorigin="anonymous" src="/_next/static/chunks/pages/list/activity-9e217151eff06895.js"></script><script crossorigin="anonymous" src="/_next/static/chunks/147-c6a5f4ec4dd555ef.js"></script><script crossorigin="anonymous" src="/_next/static/chunks/5417-083efc68f9721c79.js"></script><script crossorigin="anonymous" src="/_next/static/chunks/1429-048020021e76669d.js"></script><script crossorigin="anonymous" src="/_next/static/chunks/pages/cover-letter/search-f14708701370fde1.js"></script><script crossorigin="anonymous" src="/_next/static/chunks/5025-5cba82056c82c510.js"></script><script crossorigin="anonymous" src="/_next/static/chunks/2942-835d11ec7a7a413f.js"></script><script crossorigin="anonymous" src="/_next/static/chunks/28-b87666c97ce2bb74.js"></script><script crossorigin="anonymous" src="/_next/static/chunks/3022-0fec5cbd04ab4782.js"></script><script crossorigin="anonymous" src="/_next/static/chunks/4684-b78de7ac07b3b254.js"></script><script crossorigin="anonymous" src="/_next/static/chunks/2509-53b4e85ad3523dba.js"></script><script crossorigin="anonymous" src="/_next/static/chunks/4459-512eb10540e86939.js"></script><script crossorigin="anonymous" src="/_next/static/chunks/pages/channel-8e0548d7c35cf465.js"></script><script crossorigin="anonymous" src="/_next/static/chunks/7485-5dd9c972e2425165.js"></script><script crossorigin="anonymous" src="/_next/static/chunks/1964-1f3613ac2994d68b.js"></script><script crossorigin="anonymous" src="/_next/static/chunks/8938-4629da3845ce77b4.js"></script><script crossorigin="anonymous" src="/_next/static/chunks/pages/my-campus-b3947f0a7993a2d8.js"></script><script crossorigin="anonymous" src="/_next/static/chunks/7488-da2da31fc068d4f4.js"></script><script crossorigin="anonymous" src="/_next/static/chunks/2788-b52fb15a8c9e3984.js"></script><script crossorigin="anonymous" src="/_next/static/chunks/pages/login-da776148aa02e5e7.js"></script><script crossorigin="anonymous" src="/_next/static/chunks/pages/manage/welcome-13bad670b802864d.js"></script><script crossorigin="anonymous" src="/_next/static/chunks/3567-b5287e374d88fa4b.js"></script><script crossorigin="anonymous" src="/_next/static/chunks/6803-19cb5640e0cff08a.js"></script><script crossorigin="anonymous" src="/_next/static/chunks/7795-cecb0a4e15788c3e.js"></script><script crossorigin="anonymous" src="/_next/static/chunks/8593-6d3c9cfdfc389fda.js"></script><script crossorigin="anonymous" src="/_next/static/chunks/4269-93707bc5a1d93154.js"></script><script crossorigin="anonymous" src="/_next/static/chunks/4033-15af0da949468fa0.js"></script><script crossorigin="anonymous" src="/_next/static/chunks/281-990c644f5701a7f3.js"></script><script crossorigin="anonymous" src="/_next/static/chunks/pages/my-career/spec-management-9a7793a4beee49e0.js"></script><script crossorigin="anonymous" src="/_next/static/chunks/4870-1939a7d58bf3b089.js"></script><script crossorigin="anonymous" src="/_next/static/chunks/pages/notifications-0fd2adf7dd68d1e5.js"></script><script crossorigin="anonymous" src="/_next/static/chunks/1028-a59e47caa8d751fd.js"></script><script crossorigin="anonymous" src="/_next/static/chunks/4947-fb53de5473861f43.js"></script><script crossorigin="anonymous" src="/_next/static/chunks/pages/accounts/scrap-6ffd4c6fc9dbc648.js"></script></body></html>

@@ -1,0 +1,54 @@
+/* 스크롤바 커스텀 */
+::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+    border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #c5c5c5; 
+    border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #a0a0a0; 
+}
+
+/* 네비게이션 버튼 활성화 스타일 */
+.nav-btn.active {
+    background-color: #e0e7ff; /* tailwind indigo-100 */
+    color: #4338ca; /* tailwind indigo-700 */
+    font-weight: 600;
+}
+
+/* FullCalendar 스타일 재정의 */
+.fc-theme-standard td, .fc-theme-standard th {
+    border-color: #e5e7eb;
+}
+.fc-toolbar-title {
+    font-size: 1.25rem !important;
+    font-weight: 700 !important;
+    color: #1f2937;
+}
+.fc-button-primary {
+    background-color: #4f46e5 !important;
+    border-color: #4f46e5 !important;
+}
+.fc-button-primary:hover {
+    background-color: #4338ca !important;
+    border-color: #4338ca !important;
+}
+.fc-button-active {
+    background-color: #3730a3 !important;
+    border-color: #3730a3 !important;
+}
+.fc-daygrid-event {
+    border-radius: 4px;
+    padding: 2px 4px;
+    font-size: 0.75rem;
+    cursor: pointer;
+}
