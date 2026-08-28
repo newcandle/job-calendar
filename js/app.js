@@ -238,7 +238,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     // --- 5. 공고 저장 기능 ---
-    btnSaveJob.addEventListener('click', () => {
+    btnSaveJob.addEventListener('click', async () => {
         const newJob = {
             platform: parsedPlatform.value,
             company: parsedCompany.value,
@@ -248,10 +248,19 @@ document.addEventListener('DOMContentLoaded', () => {
             rawText: rawTextInput.value // 원본 데이터도 백업 목적 저장
         };
 
-        Storage.addJob(newJob);
-        refreshCalendar();
-        
-        alert('캘린더에 공고가 추가되었습니다!');
+        btnSaveJob.disabled = true;
+        btnSaveJob.textContent = '저장 중...';
+
+        try {
+            await Storage.addJob(newJob);
+            refreshCalendar();
+            alert('캘린더 및 DB에 공고가 추가되었습니다!');
+        } catch (e) {
+            console.error('공고 저장 오류:', e);
+            alert('공고 저장 중 오류가 발생했습니다.');
+        } finally {
+            btnSaveJob.textContent = '📅 캘린더에 저장하기';
+        }
         
         // 입력 폼 초기화
         if (autoUrlInput) autoUrlInput.value = '';
@@ -322,10 +331,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
         // 삭제 버튼 이벤트 바인딩
         document.querySelectorAll('.btn-delete').forEach(btn => {
-            btn.addEventListener('click', (e) => {
+            btn.addEventListener('click', async (e) => {
                 const id = e.target.dataset.id;
-                if(confirm('정말 이 공고를 삭제하시겠습니까?')) {
-                    Storage.deleteJob(id);
+                if (confirm('정말 이 공고를 삭제하시겠습니까?')) {
+                    await Storage.deleteJob(id);
                     renderJobList();
                     refreshCalendar();
                 }
@@ -365,5 +374,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // --- 초기 실행 ---
     initCalendar();
+    // Supabase 최신 데이터 비동기 동기화
+    Storage.fetchJobs().then(() => {
+        refreshCalendar();
+    });
     
 });

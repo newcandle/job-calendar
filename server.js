@@ -1,7 +1,9 @@
+require('dotenv').config();
 const express = require('express');
 const cors = require('cors');
 const path = require('path');
 const { parseFromUrl, parseHtmlContent } = require('./server/parsers');
+const db = require('./server/db');
 
 const app = express();
 const PORT = process.env.PORT || 3000;
@@ -68,6 +70,54 @@ app.post('/api/parse-text', (req, res) => {
       success: false,
       message: error.message || '텍스트 분석 중 오류가 발생했습니다.'
     });
+  }
+});
+
+// ----------------------------------------------------
+// DB (Supabase) 공고 CRUD API 엔드포인트
+// ----------------------------------------------------
+
+// 1. 공고 전체 목록 조회
+app.get('/api/jobs', async (req, res) => {
+  try {
+    const jobs = await db.getAllJobs();
+    res.json({ success: true, data: jobs });
+  } catch (error) {
+    console.error('공고 목록 조회 실패:', error.message);
+    res.status(500).json({ success: false, message: '공고 목록을 불러오지 못했습니다.' });
+  }
+});
+
+// 2. 새 공고 추가
+app.post('/api/jobs', async (req, res) => {
+  try {
+    const newJob = await db.createJob(req.body);
+    res.status(201).json({ success: true, data: newJob });
+  } catch (error) {
+    console.error('공고 추가 실패:', error.message);
+    res.status(500).json({ success: false, message: '공고를 저장하지 못했습니다.' });
+  }
+});
+
+// 3. 공고 정보 수정 (지원 상태, 메모 등)
+app.patch('/api/jobs/:id', async (req, res) => {
+  try {
+    const updatedJob = await db.updateJob(req.params.id, req.body);
+    res.json({ success: true, data: updatedJob });
+  } catch (error) {
+    console.error('공고 수정 실패:', error.message);
+    res.status(500).json({ success: false, message: '공고 정보를 수정하지 못했습니다.' });
+  }
+});
+
+// 4. 공고 삭제
+app.delete('/api/jobs/:id', async (req, res) => {
+  try {
+    await db.deleteJob(req.params.id);
+    res.json({ success: true, message: '공고가 삭제되었습니다.' });
+  } catch (error) {
+    console.error('공고 삭제 실패:', error.message);
+    res.status(500).json({ success: false, message: '공고 삭제에 실패했습니다.' });
   }
 });
 
