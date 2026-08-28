@@ -1,0 +1,556 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>취준 캘린더 - 시즌 2 맞춤형 디자인 목업 10선</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Pretendard:wght@400;600;700;900&family=Gaegu:wght@700&display=swap" rel="stylesheet">
+    <style>
+        body { font-family: 'Pretendard', sans-serif; }
+        .font-gaegu { font-family: 'Gaegu', cursive; }
+        
+        /* 2. Classic Mac OS Window */
+        .mac-window { border: 2px solid #2d3748; box-shadow: 4px 4px 0px rgba(45, 55, 72, 0.4); }
+        
+        /* 5. Paper Grid */
+        .paper-grid {
+            background-size: 20px 20px;
+            background-image: linear-gradient(to right, rgba(0, 0, 0, 0.05) 1px, transparent 1px),
+                              linear-gradient(to bottom, rgba(0, 0, 0, 0.05) 1px, transparent 1px);
+        }
+
+        /* 8. Neo Brutalism Shadows */
+        .neo-box { border: 2.5px solid #18181b; box-shadow: 4px 4px 0px #18181b; }
+        .neo-btn { border: 2px solid #18181b; box-shadow: 2px 2px 0px #18181b; }
+        
+        /* 10. Comic Ink */
+        .comic-border { border: 3px solid #111; border-radius: 4px 18px 6px 22px/18px 4px 22px 6px; }
+    </style>
+</head>
+<body class="bg-gray-100 p-6 md:p-12 text-gray-800">
+
+    <div class="max-w-7xl mx-auto">
+        <!-- 헤더 및 사용자 취향 분석 리포트 -->
+        <header class="mb-12 text-center bg-white p-8 rounded-3xl shadow-sm border border-gray-200">
+            <span class="px-4 py-1.5 bg-indigo-50 text-indigo-700 text-xs font-bold rounded-full uppercase tracking-wider">Taste Analysis & Curation</span>
+            <h1 class="text-3xl md:text-5xl font-black text-gray-900 mt-4 mb-4">🎯 취향 저격 맞춤형 목업 시즌 2</h1>
+            
+            <div class="max-w-3xl mx-auto bg-amber-50 border border-amber-200 rounded-2xl p-4 text-sm text-amber-900 leading-relaxed text-left mt-6">
+                <div class="font-bold flex items-center gap-2 mb-2 text-base text-amber-950">
+                    <span>💡</span> 사용자님의 호불호 정밀 분석 결과
+                </div>
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-3 text-xs md:text-sm">
+                    <div>
+                        <span class="font-bold text-red-600">❌ 불호 요인 (하):</span>
+                        <ul class="list-disc list-inside mt-1 text-gray-700 space-y-0.5">
+                            <li>어둡고 칙칙한 다크모드/네온 (2번, 8번)</li>
+                            <li>회색빛으로 뭉개진 뉴모피즘 (6번)</li>
+                        </ul>
+                    </div>
+                    <div>
+                        <span class="font-bold text-emerald-700">❤️ 선호 요인 (상/중):</span>
+                        <ul class="list-disc list-inside mt-1 text-gray-700 space-y-0.5">
+                            <li>화사하고 편안한 봄/파스텔/에코그린 감성 (3번, 9번)</li>
+                            <li>위트 있고 힙한 굵은 선/레트로/대비감 (7번, 10번)</li>
+                        </ul>
+                    </div>
+                </div>
+                <p class="mt-3 text-xs font-medium text-amber-800 border-t border-amber-200/60 pt-2">
+                    👉 <strong>밝고 따뜻한 감성</strong>과 <strong>선명하고 힙한 위트</strong>를 조합하여 극대화한 새로운 10가지 시안을 선보입니다.
+                </p>
+            </div>
+        </header>
+
+        <!-- 10선 그리드 -->
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-8">
+
+            <!-- 1. 따스한 버터 & 세이지 그린 -->
+            <div class="bg-white rounded-3xl p-6 border-2 border-transparent hover:border-emerald-500 transition-all shadow-md hover:shadow-xl">
+                <div class="flex justify-between items-start mb-4">
+                    <div>
+                        <span class="px-2.5 py-1 bg-emerald-100 text-emerald-800 text-xs font-bold rounded-lg">9번 에코 + 3번 파스텔 진화</span>
+                        <h3 class="text-xl font-bold mt-2 text-gray-900">1. 버터 크림 & 세이지 (Cozy Sage)</h3>
+                        <p class="text-xs text-gray-500 mt-1">부드러운 버터 아이보리 바탕에 싱그러운 올리브·세이지 그린</p>
+                    </div>
+                    <div class="flex gap-1">
+                        <span class="w-5 h-5 rounded-full bg-[#FAF7EE] border border-gray-300"></span>
+                        <span class="w-5 h-5 rounded-full bg-[#4A7C59]"></span>
+                        <span class="w-5 h-5 rounded-full bg-[#E8F0EA]"></span>
+                    </div>
+                </div>
+                <!-- 미리보기 윈도우 -->
+                <div class="h-60 bg-[#FAF7EE] rounded-2xl p-3 flex gap-3 border border-[#E9E4D4]">
+                    <div class="w-1/3 bg-white rounded-xl p-3 flex flex-col justify-between border border-[#E9E4D4] shadow-sm">
+                        <div class="space-y-2">
+                            <div class="h-4 w-16 bg-[#4A7C59] rounded-md"></div>
+                            <div class="h-7 bg-[#E8F0EA] text-[#4A7C59] font-bold text-xs rounded-lg flex items-center px-2">📅 캘린더</div>
+                            <div class="h-7 text-gray-500 text-xs flex items-center px-2 hover:bg-gray-50 rounded-lg">📋 공고 리스트</div>
+                        </div>
+                        <div class="text-[10px] text-gray-400 text-center">Supabase Cloud</div>
+                    </div>
+                    <div class="flex-1 bg-white rounded-xl p-3 border border-[#E9E4D4] flex flex-col justify-between shadow-sm">
+                        <div class="flex justify-between items-center text-xs font-bold text-[#4A7C59]">
+                            <span>2026년 9월</span>
+                            <span class="px-2 py-0.5 bg-[#E8F0EA] rounded-full text-[10px]">3건 마감</span>
+                        </div>
+                        <div class="grid grid-cols-3 gap-2 flex-1 my-2">
+                            <div class="bg-[#FAF7EE] rounded-lg p-1.5 border border-[#E9E4D4] flex flex-col justify-between">
+                                <span class="text-[9px] font-bold text-gray-500">9/7</span>
+                                <div class="bg-[#4A7C59] text-white text-[8px] font-bold px-1 py-0.5 rounded truncate">KT 신입</div>
+                            </div>
+                            <div class="bg-[#FAF7EE] rounded-lg p-1.5 border border-[#E9E4D4] flex flex-col justify-between">
+                                <span class="text-[9px] font-bold text-gray-500">9/8</span>
+                                <div class="bg-[#88B094] text-white text-[8px] font-bold px-1 py-0.5 rounded truncate">넥슨 인턴</div>
+                            </div>
+                            <div class="bg-[#FAF7EE] rounded-lg p-1.5 border border-[#E9E4D4]"></div>
+                        </div>
+                        <div class="h-7 bg-[#4A7C59] text-white text-xs font-bold rounded-lg flex items-center justify-center shadow-sm cursor-pointer">
+                            + 공고 링크 분석
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 2. 클래식 Mac OS Y2K 레트로 -->
+            <div class="bg-white rounded-3xl p-6 border-2 border-transparent hover:border-blue-500 transition-all shadow-md hover:shadow-xl">
+                <div class="flex justify-between items-start mb-4">
+                    <div>
+                        <span class="px-2.5 py-1 bg-blue-100 text-blue-800 text-xs font-bold rounded-lg">7번 레트로 부활 & 위트</span>
+                        <h3 class="text-xl font-bold mt-2 text-gray-900">2. Y2K 클래식 Mac OS (Retro OS)</h3>
+                        <p class="text-xs text-gray-500 mt-1">90년대 레트로 컴퓨터 창, 스트라이프 타이틀바와 볼드 라인</p>
+                    </div>
+                    <div class="flex gap-1">
+                        <span class="w-5 h-5 rounded-full bg-[#DDD6FE] border border-gray-300"></span>
+                        <span class="w-5 h-5 rounded-full bg-[#FEF08A]"></span>
+                        <span class="w-5 h-5 rounded-full bg-[#38BDF8]"></span>
+                    </div>
+                </div>
+                <!-- 미리보기 윈도우 -->
+                <div class="h-60 bg-[#E2E8F0] rounded-2xl p-3 flex flex-col border-2 border-gray-800 shadow-[4px_4px_0px_#1e293b]">
+                    <!-- Window Titlebar -->
+                    <div class="bg-gray-800 text-white px-3 py-1 flex justify-between items-center text-xs font-mono mb-2 rounded">
+                        <div class="flex gap-1">
+                            <span class="w-2.5 h-2.5 rounded-full bg-red-400 inline-block"></span>
+                            <span class="w-2.5 h-2.5 rounded-full bg-yellow-400 inline-block"></span>
+                            <span class="w-2.5 h-2.5 rounded-full bg-green-400 inline-block"></span>
+                        </div>
+                        <span class="font-bold text-[11px]">CALENDAR.EXE [ONLINE]</span>
+                        <span class="text-[9px]">v1.0</span>
+                    </div>
+                    <div class="flex-1 flex gap-2">
+                        <div class="w-1/3 bg-white border-2 border-gray-800 p-2 flex flex-col justify-between">
+                            <div class="space-y-1.5">
+                                <div class="bg-yellow-300 border border-gray-800 p-1 text-center font-bold text-[10px]">CALENDAR</div>
+                                <div class="bg-white border border-gray-400 p-1 text-center text-gray-600 text-[10px]">JOB LIST</div>
+                            </div>
+                            <div class="bg-blue-200 border border-gray-800 p-1 text-center text-[9px] font-mono">LINK_PARSE</div>
+                        </div>
+                        <div class="flex-1 bg-white border-2 border-gray-800 p-2 flex flex-col justify-between">
+                            <div class="border-b-2 border-gray-800 pb-1 text-xs font-mono font-bold flex justify-between">
+                                <span>2026.SEP</span>
+                                <span class="bg-pink-300 px-1 border border-gray-800 text-[9px]">D-DAY</span>
+                            </div>
+                            <div class="grid grid-cols-2 gap-1.5 my-1.5 flex-1">
+                                <div class="border border-gray-800 bg-sky-100 p-1 flex flex-col justify-between">
+                                    <span class="text-[8px] font-bold">[잡코리아]</span>
+                                    <div class="bg-blue-600 text-white text-[8px] font-bold px-1 text-center">일동제약</div>
+                                </div>
+                                <div class="border border-gray-800 bg-orange-100 p-1 flex flex-col justify-between">
+                                    <span class="text-[8px] font-bold">[사람인]</span>
+                                    <div class="bg-orange-500 text-white text-[8px] font-bold px-1 text-center">KT채용</div>
+                                </div>
+                            </div>
+                            <div class="bg-yellow-300 border-2 border-gray-800 py-1 text-center text-[10px] font-bold shadow-[2px_2px_0px_#000]">
+                                ⚡ ADD URL
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 3. 피치 크림 & 애프리콧 -->
+            <div class="bg-white rounded-3xl p-6 border-2 border-transparent hover:border-orange-400 transition-all shadow-md hover:shadow-xl">
+                <div class="flex justify-between items-start mb-4">
+                    <div>
+                        <span class="px-2.5 py-1 bg-orange-100 text-orange-800 text-xs font-bold rounded-lg">3번 파스텔의 극대화</span>
+                        <h3 class="text-xl font-bold mt-2 text-gray-900">3. 피치 크림 & 살구 (Sweet Apricot)</h3>
+                        <p class="text-xs text-gray-500 mt-1">상큼하고 온화한 피치 코랄 톤에 젤리 같은 둥글둥글한 버튼</p>
+                    </div>
+                    <div class="flex gap-1">
+                        <span class="w-5 h-5 rounded-full bg-[#FFF5EE] border border-gray-300"></span>
+                        <span class="w-5 h-5 rounded-full bg-[#FB923C]"></span>
+                        <span class="w-5 h-5 rounded-full bg-[#FDA4AF]"></span>
+                    </div>
+                </div>
+                <!-- 미리보기 윈도우 -->
+                <div class="h-60 bg-[#FFF5EE] rounded-3xl p-3 flex gap-3 border border-orange-100">
+                    <div class="w-1/3 bg-white rounded-2xl p-3 flex flex-col justify-between shadow-sm">
+                        <div class="space-y-2">
+                            <div class="h-6 bg-orange-100 rounded-full flex items-center justify-center text-[11px] font-bold text-orange-600">🍑 취준달력</div>
+                            <div class="h-7 bg-orange-500 text-white font-bold text-xs rounded-full flex items-center justify-center shadow-sm">📅 캘린더</div>
+                            <div class="h-7 text-gray-400 text-xs rounded-full flex items-center justify-center hover:bg-gray-50">📋 공고목록</div>
+                        </div>
+                        <div class="text-[9px] text-orange-400 font-semibold text-center">동기화 완료 ✨</div>
+                    </div>
+                    <div class="flex-1 bg-white rounded-2xl p-3 flex flex-col justify-between shadow-sm">
+                        <div class="flex justify-between items-center text-xs font-bold text-gray-700">
+                            <span>2026년 9월</span>
+                            <span class="text-orange-500 text-[11px]">마감 임박 2건</span>
+                        </div>
+                        <div class="grid grid-cols-2 gap-2 my-2 flex-1">
+                            <div class="bg-orange-50/70 border border-orange-100 rounded-xl p-2 flex flex-col justify-between">
+                                <span class="text-[10px] font-bold text-orange-700">9월 7일</span>
+                                <div class="bg-orange-400 text-white text-[9px] font-bold p-1 rounded-lg text-center shadow-xs">넥슨 인턴십</div>
+                            </div>
+                            <div class="bg-rose-50/70 border border-rose-100 rounded-xl p-2 flex flex-col justify-between">
+                                <span class="text-[10px] font-bold text-rose-700">9월 8일</span>
+                                <div class="bg-rose-400 text-white text-[9px] font-bold p-1 rounded-lg text-center shadow-xs">KT 대졸공채</div>
+                            </div>
+                        </div>
+                        <button class="h-8 bg-gradient-to-r from-orange-400 to-rose-400 text-white text-xs font-bold rounded-full shadow-md">
+                            🔗 링크로 1초 추가
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 4. 네오 브루탈리즘 라임 (Modern Neo-Pop) -->
+            <div class="bg-white rounded-3xl p-6 border-2 border-transparent hover:border-yellow-500 transition-all shadow-md hover:shadow-xl">
+                <div class="flex justify-between items-start mb-4">
+                    <div>
+                        <span class="px-2.5 py-1 bg-yellow-100 text-yellow-800 text-xs font-bold rounded-lg">7번 레트로 + 10번 대비의 2026 트렌드</span>
+                        <h3 class="text-xl font-bold mt-2 text-gray-900">4. 네오 팝 라임 (Neo-Brutalism Pop)</h3>
+                        <p class="text-xs text-gray-500 mt-1">강렬한 라임 옐로우와 블랙 보더, 하드 섀도우의 힙한 매거진 룩</p>
+                    </div>
+                    <div class="flex gap-1">
+                        <span class="w-5 h-5 rounded-full bg-[#E2F952] border border-gray-400"></span>
+                        <span class="w-5 h-5 rounded-full bg-[#C4B5FD]"></span>
+                        <span class="w-5 h-5 rounded-full bg-[#18181B]"></span>
+                    </div>
+                </div>
+                <!-- 미리보기 윈도우 -->
+                <div class="h-60 bg-[#FAFAFA] rounded-2xl p-3 flex gap-3 neo-box">
+                    <div class="w-1/3 bg-[#E2F952] p-3 flex flex-col justify-between neo-box rounded-xl">
+                        <div class="space-y-2">
+                            <div class="font-black text-xs tracking-tighter">JOB_CAL.</div>
+                            <div class="h-7 bg-white text-black font-black text-[11px] neo-btn rounded-lg flex items-center px-2">📅 캘린더</div>
+                            <div class="h-7 text-black font-bold text-[11px] flex items-center px-2">📋 리스트</div>
+                        </div>
+                        <span class="text-[9px] font-mono font-black">CLOUD_SYNC</span>
+                    </div>
+                    <div class="flex-1 bg-white p-3 flex flex-col justify-between neo-box rounded-xl">
+                        <div class="flex justify-between items-center text-xs font-black">
+                            <span class="bg-black text-white px-2 py-0.5 text-[10px]">SEP 2026</span>
+                            <span class="bg-[#C4B5FD] border border-black px-1.5 text-[9px] font-bold">2 D-DAYS</span>
+                        </div>
+                        <div class="grid grid-cols-2 gap-2 my-2 flex-1">
+                            <div class="border-2 border-black p-1.5 flex flex-col justify-between shadow-[2px_2px_0px_#000]">
+                                <span class="text-[9px] font-black text-blue-600">JOBKOREA</span>
+                                <div class="bg-[#E2F952] border border-black text-black font-black text-[9px] p-0.5 text-center">일동제약</div>
+                            </div>
+                            <div class="border-2 border-black p-1.5 flex flex-col justify-between shadow-[2px_2px_0px_#000]">
+                                <span class="text-[9px] font-black text-orange-600">SARAMIN</span>
+                                <div class="bg-[#C4B5FD] border border-black text-black font-black text-[9px] p-0.5 text-center">KT 신입</div>
+                            </div>
+                        </div>
+                        <div class="h-7 bg-[#E2F952] neo-btn text-black font-black text-xs flex items-center justify-center">
+                            ⚡ PARSE URL
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 5. 모눈종이 다이어리 (Paper Craft & Grid) -->
+            <div class="bg-white rounded-3xl p-6 border-2 border-transparent hover:border-amber-500 transition-all shadow-md hover:shadow-xl">
+                <div class="flex justify-between items-start mb-4">
+                    <div>
+                        <span class="px-2.5 py-1 bg-amber-100 text-amber-800 text-xs font-bold rounded-lg">아날로그 감성 다이어리</span>
+                        <h3 class="text-xl font-bold mt-2 text-gray-900">5. 크래프트 모눈 다이어리 (Paper Notes)</h3>
+                        <p class="text-xs text-gray-500 mt-1">눈이 편한 모눈종이 배경, 스탬프 마감일과 마스킹 테이프 뱃지</p>
+                    </div>
+                    <div class="flex gap-1">
+                        <span class="w-5 h-5 rounded-full bg-[#FDFBF7] border border-gray-300"></span>
+                        <span class="w-5 h-5 rounded-full bg-[#D97706]"></span>
+                        <span class="w-5 h-5 rounded-full bg-[#FDE68A]"></span>
+                    </div>
+                </div>
+                <!-- 미리보기 윈도우 -->
+                <div class="h-60 bg-[#FDFBF7] paper-grid rounded-2xl p-3 flex gap-3 border border-[#E7E3D8] shadow-sm">
+                    <div class="w-1/3 bg-white/90 rounded-xl p-3 flex flex-col justify-between border border-amber-200/60 shadow-xs">
+                        <div class="space-y-2">
+                            <!-- 마스킹 테이프 효과 -->
+                            <div class="h-5 w-20 bg-amber-200/80 -rotate-2 text-[10px] font-bold text-amber-900 flex items-center justify-center shadow-xs">✏️ 취준노트</div>
+                            <div class="h-7 bg-amber-50 border-l-4 border-amber-500 text-amber-900 font-bold text-xs flex items-center px-2">📅 월간 일정</div>
+                            <div class="h-7 text-gray-500 text-xs flex items-center px-2 hover:bg-amber-50/50">📋 공고 서랍</div>
+                        </div>
+                        <div class="text-[9px] text-amber-800/60 text-center font-serif">Cloud Synced ☁️</div>
+                    </div>
+                    <div class="flex-1 bg-white/90 rounded-xl p-3 border border-amber-200/60 flex flex-col justify-between shadow-xs">
+                        <div class="flex justify-between items-center text-xs font-bold text-gray-800 border-b border-dashed border-gray-300 pb-1">
+                            <span class="font-serif">SEPTEMBER 2026</span>
+                            <span class="bg-amber-100 text-amber-800 text-[10px] px-1.5 py-0.5 rounded">D-3 임박</span>
+                        </div>
+                        <div class="grid grid-cols-2 gap-2 my-2 flex-1">
+                            <div class="bg-amber-50/60 border border-amber-200 rounded-lg p-2 flex flex-col justify-between">
+                                <span class="text-[10px] font-mono text-gray-500">2026.09.07</span>
+                                <div class="border-2 border-dashed border-amber-400 bg-white text-amber-900 text-[9px] font-bold p-1 text-center rounded">
+                                    넥슨 인턴십
+                                </div>
+                            </div>
+                            <div class="bg-emerald-50/60 border border-emerald-200 rounded-lg p-2 flex flex-col justify-between">
+                                <span class="text-[10px] font-mono text-gray-500">2026.09.08</span>
+                                <div class="border-2 border-dashed border-emerald-400 bg-white text-emerald-900 text-[9px] font-bold p-1 text-center rounded">
+                                    KT 대졸신입
+                                </div>
+                            </div>
+                        </div>
+                        <button class="h-7 bg-amber-600 text-white text-xs font-bold rounded-lg shadow-sm">
+                            + 공고 링크 풀칠하기
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 6. 에디토리얼 매거진 (Swiss Typography) -->
+            <div class="bg-white rounded-3xl p-6 border-2 border-transparent hover:border-black transition-all shadow-md hover:shadow-xl">
+                <div class="flex justify-between items-start mb-4">
+                    <div>
+                        <span class="px-2.5 py-1 bg-black text-white text-xs font-bold rounded-lg">10번 하이콘트라스트의 고급화</span>
+                        <h3 class="text-xl font-bold mt-2 text-gray-900">6. 에디토리얼 모던 (Swiss Editorial)</h3>
+                        <p class="text-xs text-gray-500 mt-1">명료한 흑백 레이아웃, 세련된 오렌지 레드 포인트와 절제된 폰트</p>
+                    </div>
+                    <div class="flex gap-1">
+                        <span class="w-5 h-5 rounded-full bg-white border border-gray-400"></span>
+                        <span class="w-5 h-5 rounded-full bg-[#FF4500]"></span>
+                        <span class="w-5 h-5 rounded-full bg-black"></span>
+                    </div>
+                </div>
+                <!-- 미리보기 윈도우 -->
+                <div class="h-60 bg-white rounded-2xl p-3 flex gap-3 border-2 border-black">
+                    <div class="w-1/3 bg-black text-white p-3 flex flex-col justify-between rounded-lg">
+                        <div class="space-y-2">
+                            <div class="font-black text-sm tracking-tight border-b border-gray-700 pb-1">INDEX.</div>
+                            <div class="h-7 bg-[#FF4500] text-white font-bold text-xs flex items-center px-2 rounded">CALENDAR</div>
+                            <div class="h-7 text-gray-400 text-xs flex items-center px-2 hover:text-white">POSTINGS</div>
+                        </div>
+                        <div class="text-[9px] text-gray-500 font-mono">SUPABASE ONLINE</div>
+                    </div>
+                    <div class="flex-1 bg-gray-50 p-3 flex flex-col justify-between border border-gray-200 rounded-lg">
+                        <div class="flex justify-between items-baseline border-b-2 border-black pb-1">
+                            <span class="font-black text-sm">2026 / 09</span>
+                            <span class="text-[10px] font-mono text-[#FF4500] font-bold">2 DEADLINES</span>
+                        </div>
+                        <div class="grid grid-cols-2 gap-2 my-2 flex-1">
+                            <div class="bg-white border border-black p-2 flex flex-col justify-between">
+                                <span class="text-[9px] font-mono font-bold">D-DAY 9.7</span>
+                                <div class="bg-black text-white text-[9px] font-bold p-1 text-center">넥슨컴퍼니</div>
+                            </div>
+                            <div class="bg-white border border-black p-2 flex flex-col justify-between">
+                                <span class="text-[9px] font-mono font-bold">D-DAY 9.8</span>
+                                <div class="bg-[#FF4500] text-white text-[9px] font-bold p-1 text-center">(주)케이티</div>
+                            </div>
+                        </div>
+                        <button class="h-7 bg-black text-white text-xs font-bold rounded flex items-center justify-center gap-1 hover:bg-[#FF4500] transition">
+                            <span>EXTRACT URL</span> ➔
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 7. 소프트 라벤더 & 세레니티 (Calm Lavender) -->
+            <div class="bg-white rounded-3xl p-6 border-2 border-transparent hover:border-purple-400 transition-all shadow-md hover:shadow-xl">
+                <div class="flex justify-between items-start mb-4">
+                    <div>
+                        <span class="px-2.5 py-1 bg-purple-100 text-purple-800 text-xs font-bold rounded-lg">심리적 안정감 힐링 톤</span>
+                        <h3 class="text-xl font-bold mt-2 text-gray-900">7. 소프트 라벤더 & 민트 (Calm Serenity)</h3>
+                        <p class="text-xs text-gray-500 mt-1">취준 스트레스를 낮춰주는 몽환적 라벤더와 파우더 블루 조합</p>
+                    </div>
+                    <div class="flex gap-1">
+                        <span class="w-5 h-5 rounded-full bg-[#F5F3FF] border border-gray-300"></span>
+                        <span class="w-5 h-5 rounded-full bg-[#8B5CF6]"></span>
+                        <span class="w-5 h-5 rounded-full bg-[#A7F3D0]"></span>
+                    </div>
+                </div>
+                <!-- 미리보기 윈도우 -->
+                <div class="h-60 bg-[#F5F3FF] rounded-3xl p-3 flex gap-3 border border-purple-100">
+                    <div class="w-1/3 bg-white/90 rounded-2xl p-3 flex flex-col justify-between border border-purple-100 shadow-sm">
+                        <div class="space-y-2">
+                            <div class="h-5 w-20 bg-purple-200 text-purple-800 rounded-full flex items-center justify-center text-[10px] font-bold">✨ 취준캘린더</div>
+                            <div class="h-7 bg-purple-600 text-white font-bold text-xs rounded-xl flex items-center px-2 shadow-xs">📅 캘린더</div>
+                            <div class="h-7 text-purple-400 text-xs rounded-xl flex items-center px-2 hover:bg-purple-50">📋 공고함</div>
+                        </div>
+                        <div class="text-[9px] text-purple-400 text-center font-medium">실시간 동기화됨</div>
+                    </div>
+                    <div class="flex-1 bg-white/90 rounded-2xl p-3 border border-purple-100 flex flex-col justify-between shadow-sm">
+                        <div class="flex justify-between items-center text-xs font-bold text-purple-900">
+                            <span>2026년 9월</span>
+                            <span class="px-2 py-0.5 bg-purple-100 text-purple-700 text-[10px] rounded-full">D-Day 관리</span>
+                        </div>
+                        <div class="grid grid-cols-2 gap-2 my-2 flex-1">
+                            <div class="bg-purple-50/50 border border-purple-100 rounded-xl p-2 flex flex-col justify-between">
+                                <span class="text-[9px] font-bold text-purple-600">9월 7일 (월)</span>
+                                <div class="bg-purple-500 text-white text-[9px] font-bold p-1 rounded-lg text-center">넥슨 인턴십</div>
+                            </div>
+                            <div class="bg-emerald-50/50 border border-emerald-100 rounded-xl p-2 flex flex-col justify-between">
+                                <span class="text-[9px] font-bold text-emerald-600">9월 8일 (화)</span>
+                                <div class="bg-emerald-500 text-white text-[9px] font-bold p-1 rounded-lg text-center">KT 신입공채</div>
+                            </div>
+                        </div>
+                        <button class="h-7 bg-purple-600 hover:bg-purple-700 text-white text-xs font-bold rounded-xl shadow-xs">
+                            🔗 공고 링크 자동 분석
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 8. 노르딕 스칸디나비안 (Nordic Warm Wood) -->
+            <div class="bg-white rounded-3xl p-6 border-2 border-transparent hover:border-amber-600 transition-all shadow-md hover:shadow-xl">
+                <div class="flex justify-between items-start mb-4">
+                    <div>
+                        <span class="px-2.5 py-1 bg-amber-100 text-amber-900 text-xs font-bold rounded-lg">1번 모던 + 9번 자연의 결합</span>
+                        <h3 class="text-xl font-bold mt-2 text-gray-900">8. 노르딕 우드 & 테라코타 (Nordic Warm)</h3>
+                        <p class="text-xs text-gray-500 mt-1">따뜻한 원목 가구 감성의 베이지와 테라코타 벽돌색 포인트</p>
+                    </div>
+                    <div class="flex gap-1">
+                        <span class="w-5 h-5 rounded-full bg-[#F5F2EB] border border-gray-300"></span>
+                        <span class="w-5 h-5 rounded-full bg-[#C85A32]"></span>
+                        <span class="w-5 h-5 rounded-full bg-[#2B4C59]"></span>
+                    </div>
+                </div>
+                <!-- 미리보기 윈도우 -->
+                <div class="h-60 bg-[#F5F2EB] rounded-2xl p-3 flex gap-3 border border-[#E3DDCF]">
+                    <div class="w-1/3 bg-[#EAE4D5] rounded-xl p-3 flex flex-col justify-between">
+                        <div class="space-y-2">
+                            <div class="h-5 w-20 bg-[#2B4C59] text-white rounded-md flex items-center justify-center text-[10px] font-bold">CALENDAR</div>
+                            <div class="h-7 bg-[#C85A32] text-white font-bold text-xs rounded-lg flex items-center px-2">📅 캘린더</div>
+                            <div class="h-7 text-[#2B4C59] text-xs flex items-center px-2 hover:bg-white/40 rounded-lg">📋 공고목록</div>
+                        </div>
+                        <div class="text-[9px] text-gray-500 text-center font-serif">Cloud Active</div>
+                    </div>
+                    <div class="flex-1 bg-white rounded-xl p-3 border border-[#E3DDCF] flex flex-col justify-between">
+                        <div class="flex justify-between items-center text-xs font-bold text-[#2B4C59]">
+                            <span class="font-serif">September 2026</span>
+                            <span class="text-[#C85A32] text-[10px] font-bold">2 Events</span>
+                        </div>
+                        <div class="grid grid-cols-2 gap-2 my-2 flex-1">
+                            <div class="bg-[#F5F2EB] rounded-lg p-2 flex flex-col justify-between border border-[#E3DDCF]">
+                                <span class="text-[9px] font-serif text-gray-500">07 Sep</span>
+                                <div class="bg-[#2B4C59] text-white text-[9px] font-bold p-1 rounded text-center">NEXON INTERN</div>
+                            </div>
+                            <div class="bg-[#F5F2EB] rounded-lg p-2 flex flex-col justify-between border border-[#E3DDCF]">
+                                <span class="text-[9px] font-serif text-gray-500">08 Sep</span>
+                                <div class="bg-[#C85A32] text-white text-[9px] font-bold p-1 rounded text-center">KT RECRUIT</div>
+                            </div>
+                        </div>
+                        <button class="h-7 bg-[#2B4C59] text-white text-xs font-bold rounded-lg shadow-sm">
+                            + URL Auto-Fetch
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 9. 키치 일러스트 & 팝 다이너 (American Diner 80s) -->
+            <div class="bg-white rounded-3xl p-6 border-2 border-transparent hover:border-red-500 transition-all shadow-md hover:shadow-xl">
+                <div class="flex justify-between items-start mb-4">
+                    <div>
+                        <span class="px-2.5 py-1 bg-red-100 text-red-800 text-xs font-bold rounded-lg">7번 레트로의 아메리칸 빈티지</span>
+                        <h3 class="text-xl font-bold mt-2 text-gray-900">9. 아메리칸 팝 다이너 (Pop Diner 80s)</h3>
+                        <p class="text-xs text-gray-500 mt-1">체리 레드와 머스타드 옐로우, 볼드한 레트로 배지와 스티커 감성</p>
+                    </div>
+                    <div class="flex gap-1">
+                        <span class="w-5 h-5 rounded-full bg-[#FFFBEB] border border-gray-300"></span>
+                        <span class="w-5 h-5 rounded-full bg-[#DC2626]"></span>
+                        <span class="w-5 h-5 rounded-full bg-[#F59E0B]"></span>
+                    </div>
+                </div>
+                <!-- 미리보기 윈도우 -->
+                <div class="h-60 bg-[#FFFBEB] rounded-2xl p-3 flex gap-3 border-2 border-red-500 shadow-[3px_3px_0px_#dc2626]">
+                    <div class="w-1/3 bg-red-600 text-white rounded-xl p-3 flex flex-col justify-between">
+                        <div class="space-y-2">
+                            <div class="bg-yellow-300 text-red-900 font-black text-center text-xs py-0.5 rounded-full border border-red-800">★ JOB PASS ★</div>
+                            <div class="h-7 bg-white text-red-600 font-black text-xs rounded-lg flex items-center px-2 shadow-xs">📅 CALENDAR</div>
+                            <div class="h-7 text-white/80 font-bold text-xs flex items-center px-2">📋 LIST</div>
+                        </div>
+                        <span class="text-[9px] text-yellow-200 text-center font-bold">READY TO APPLY!</span>
+                    </div>
+                    <div class="flex-1 bg-white rounded-xl p-3 border-2 border-red-500 flex flex-col justify-between">
+                        <div class="flex justify-between items-center text-xs font-black text-red-600 border-b-2 border-red-100 pb-1">
+                            <span>SEPTEMBER 2026</span>
+                            <span class="bg-yellow-300 text-black px-2 py-0.5 rounded-full text-[9px] font-black">HOT! 🔥</span>
+                        </div>
+                        <div class="grid grid-cols-2 gap-2 my-2 flex-1">
+                            <div class="bg-red-50 border border-red-200 rounded-lg p-1.5 flex flex-col justify-between">
+                                <span class="text-[9px] font-black text-red-700">D-3 (9/7)</span>
+                                <div class="bg-red-600 text-white text-[9px] font-black p-1 rounded text-center">넥슨 인턴십</div>
+                            </div>
+                            <div class="bg-amber-50 border border-amber-200 rounded-lg p-1.5 flex flex-col justify-between">
+                                <span class="text-[9px] font-black text-amber-700">D-4 (9/8)</span>
+                                <div class="bg-amber-500 text-white text-[9px] font-black p-1 rounded text-center">KT 공채</div>
+                            </div>
+                        </div>
+                        <button class="h-7 bg-red-600 text-white text-xs font-black rounded-lg shadow-[2px_2px_0px_#991b1b]">
+                            GET JOB URL ⚡
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 10. 흑백 만화 & 잉크 스케치 (Comic & Manga Ink) -->
+            <div class="bg-white rounded-3xl p-6 border-2 border-transparent hover:border-black transition-all shadow-md hover:shadow-xl">
+                <div class="flex justify-between items-start mb-4">
+                    <div>
+                        <span class="px-2.5 py-1 bg-gray-200 text-gray-800 text-xs font-bold rounded-lg">10번 대비 + 7번 개성의 유니크 버전</span>
+                        <h3 class="text-xl font-bold mt-2 text-gray-900">10. 잉크 스케치 만화 (Comic Ink)</h3>
+                        <p class="text-xs text-gray-500 mt-1">만화책/웹툰 펜선 느낌의 스케치 보더와 말풍선 태그</p>
+                    </div>
+                    <div class="flex gap-1">
+                        <span class="w-5 h-5 rounded-full bg-white border-2 border-black"></span>
+                        <span class="w-5 h-5 rounded-full bg-[#FEF08A] border-2 border-black"></span>
+                        <span class="w-5 h-5 rounded-full bg-black"></span>
+                    </div>
+                </div>
+                <!-- 미리보기 윈도우 -->
+                <div class="h-60 bg-white comic-border p-3 flex gap-3 shadow-[4px_4px_0px_#000]">
+                    <div class="w-1/3 bg-gray-100 comic-border p-2 flex flex-col justify-between">
+                        <div class="space-y-2">
+                            <div class="font-black text-xs border-b-2 border-black pb-1">취준일기!</div>
+                            <div class="bg-yellow-300 comic-border p-1 text-center font-black text-[10px]">📅 캘린더</div>
+                            <div class="comic-border p-1 text-center font-bold text-[10px] bg-white">공고함</div>
+                        </div>
+                        <div class="text-[9px] font-black text-center">동기화 완료! 💬</div>
+                    </div>
+                    <div class="flex-1 bg-white comic-border p-2 flex flex-col justify-between">
+                        <div class="flex justify-between items-center text-xs font-black border-b-2 border-black pb-1">
+                            <span>2026년 9월호</span>
+                            <span class="bg-black text-white px-1.5 text-[9px] font-black">마감박두</span>
+                        </div>
+                        <div class="grid grid-cols-2 gap-2 my-2 flex-1">
+                            <div class="comic-border p-1.5 flex flex-col justify-between bg-yellow-50">
+                                <span class="text-[9px] font-black">9월 7일</span>
+                                <div class="bg-black text-white text-[9px] font-black p-0.5 text-center">넥슨 인턴!</div>
+                            </div>
+                            <div class="comic-border p-1.5 flex flex-col justify-between bg-sky-50">
+                                <span class="text-[9px] font-black">9월 8일</span>
+                                <div class="bg-black text-white text-[9px] font-black p-0.5 text-center">KT 신입!</div>
+                            </div>
+                        </div>
+                        <div class="h-7 bg-yellow-300 comic-border text-black font-black text-xs flex items-center justify-center cursor-pointer shadow-[2px_2px_0px_#000]">
+                            ⚡ 링크 분석 발사!
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        <!-- 푸터 안내 -->
+        <div class="mt-12 text-center text-gray-500 text-sm">
+            <p>💡 브라우저에서 <strong>design_mockups_v2.html</strong> 파일을 열어서 더 큰 화면으로 둘러보실 수 있습니다.</p>
+        </div>
+    </div>
+
+</body>
+</html>
