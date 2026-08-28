@@ -36,9 +36,9 @@ document.addEventListener('DOMContentLoaded', () => {
         
         navBtns.forEach(btn => {
             if (btn.dataset.target === targetId) {
-                btn.classList.add('active', 'bg-indigo-50', 'text-indigo-700');
+                btn.classList.add('active');
             } else {
-                btn.classList.remove('active', 'bg-indigo-50', 'text-indigo-700');
+                btn.classList.remove('active');
             }
         });
 
@@ -298,31 +298,48 @@ document.addEventListener('DOMContentLoaded', () => {
         
         jobs.forEach(job => {
             const tr = document.createElement('tr');
-            tr.className = 'hover:bg-gray-50 transition-colors';
+            tr.className = 'hover:bg-amber-50/50 transition-colors';
             
+            const now = new Date();
             const dateObj = new Date(job.deadline);
-            const formattedDate = !isNaN(dateObj) ? dateObj.toLocaleString('ko-KR', { year: 'numeric', month: 'long', day: 'numeric', hour: '2-digit', minute:'2-digit' }) : '미상';
+            let ddayHtml = '';
+            if (!isNaN(dateObj)) {
+                const diffTime = dateObj - now;
+                const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
+                if (diffDays === 0) {
+                    ddayHtml = `<span class="px-2 py-0.5 bg-red-600 text-white font-black text-[10px] rounded-md shadow-[1px_1px_0px_#000] mr-2">D-DAY 🔥</span>`;
+                } else if (diffDays > 0) {
+                    ddayHtml = `<span class="px-2 py-0.5 bg-yellow-300 text-zinc-900 font-black text-[10px] rounded-md border border-zinc-900 shadow-[1px_1px_0px_#000] mr-2">D-${diffDays}</span>`;
+                } else {
+                    ddayHtml = `<span class="px-2 py-0.5 bg-zinc-100 text-zinc-500 font-bold text-[10px] rounded-md mr-2">마감됨</span>`;
+                }
+            }
+
+            const formattedDate = !isNaN(dateObj) ? dateObj.toLocaleString('ko-KR', { year: 'numeric', month: 'numeric', day: 'numeric', hour: '2-digit', minute:'2-digit' }) : '미상';
             
             let urlHtml = job.url 
-                ? `<a href="${job.url}" target="_blank" class="text-indigo-600 hover:text-indigo-900 underline">이동</a>`
-                : `<span class="text-gray-400">없음</span>`;
+                ? `<a href="${job.url}" target="_blank" class="inline-flex items-center px-2.5 py-1 bg-white border border-zinc-900 text-zinc-900 hover:bg-yellow-300 text-xs font-bold rounded shadow-[1px_1px_0px_#000] transition">공고 이동 ↗</a>`
+                : `<span class="text-zinc-400 text-xs">없음</span>`;
 
             tr.innerHTML = `
-                <td class="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900 flex items-center">
-                    <span class="inline-block w-2 h-2 rounded-full mr-2" style="background-color: ${getPlatformColor(job.platform)}"></span>
+                <td class="px-5 py-4 whitespace-nowrap text-sm font-extrabold text-zinc-900 flex items-center border-r border-zinc-100">
+                    <span class="inline-block w-2.5 h-2.5 rounded-full mr-2.5 border border-zinc-900" style="background-color: ${getPlatformColor(job.platform)}"></span>
                     ${job.company}
                 </td>
-                <td class="px-6 py-4 text-sm text-gray-500 max-w-xs truncate" title="${job.title}">
+                <td class="px-5 py-4 text-sm font-bold text-zinc-700 max-w-xs truncate border-r border-zinc-100" title="${job.title}">
                     ${job.title}
                 </td>
-                <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-500">
-                    ${formattedDate}
+                <td class="px-5 py-4 whitespace-nowrap text-xs font-bold text-zinc-600 border-r border-zinc-100">
+                    <div class="flex items-center">
+                        ${ddayHtml}
+                        <span>${formattedDate}</span>
+                    </div>
                 </td>
-                <td class="px-6 py-4 whitespace-nowrap text-sm">
+                <td class="px-4 py-4 whitespace-nowrap text-sm text-center border-r border-zinc-100">
                     ${urlHtml}
                 </td>
-                <td class="px-6 py-4 whitespace-nowrap text-right text-sm font-medium text-center">
-                    <button class="btn-delete text-red-600 hover:text-red-900" data-id="${job.id}">삭제</button>
+                <td class="px-4 py-4 whitespace-nowrap text-center text-sm font-medium">
+                    <button class="btn-delete px-2.5 py-1 bg-rose-50 hover:bg-red-600 hover:text-white text-red-600 border border-red-300 hover:border-zinc-900 text-xs font-black rounded-lg transition shadow-xs cursor-pointer" data-id="${job.id}">삭제</button>
                 </td>
             `;
             

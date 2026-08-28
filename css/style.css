@@ -1,3 +1,5 @@
+/* 취준 캘린더 - 체리 레드 팝 코믹스 테마 (Cherry Diner Comic) */
+
 /* 스크롤바 커스텀 */
 ::-webkit-scrollbar {
     width: 8px;
@@ -5,50 +7,135 @@
 }
 
 ::-webkit-scrollbar-track {
-    background: #f1f1f1; 
-    border-radius: 4px;
+    background: #FFFDF7;
 }
 
 ::-webkit-scrollbar-thumb {
-    background: #c5c5c5; 
+    background: #e4e4e7;
+    border: 2px solid #18181b;
     border-radius: 4px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-    background: #a0a0a0; 
+    background: #fca5a5;
+}
+
+/* 코믹스 카드 & 버튼 스타일 */
+.comic-box {
+    border: 2.5px solid #18181b;
+    box-shadow: 4px 4px 0px #18181b;
+}
+
+.comic-box-red {
+    border: 2.5px solid #18181b;
+    box-shadow: 4px 4px 0px #dc2626;
+}
+
+.comic-btn {
+    border: 2px solid #18181b;
+    box-shadow: 2.5px 2.5px 0px #18181b;
+    transition: all 0.15s ease;
+}
+
+.comic-btn:hover {
+    transform: translate(-1px, -1px);
+    box-shadow: 3.5px 3.5px 0px #18181b;
+}
+
+.comic-btn:active {
+    transform: translate(1.5px, 1.5px);
+    box-shadow: 1px 1px 0px #18181b;
 }
 
 /* 네비게이션 버튼 활성화 스타일 */
 .nav-btn.active {
-    background-color: #e0e7ff; /* tailwind indigo-100 */
-    color: #4338ca; /* tailwind indigo-700 */
-    font-weight: 600;
+    background-color: #dc2626 !important;
+    color: #ffffff !important;
+    border: 2px solid #18181b !important;
+    box-shadow: 3px 3px 0px #18181b !important;
+    font-weight: 800;
 }
 
-/* FullCalendar 스타일 재정의 */
+.mobile-nav-btn.active {
+    color: #dc2626 !important;
+}
+
+.mobile-nav-btn.active .nav-icon-box {
+    background-color: #fee2e2 !important;
+    border: 2px solid #18181b !important;
+    box-shadow: 2px 2px 0px #18181b !important;
+}
+
+/* FullCalendar 체리 레드 팝 코믹스 커스텀 */
+.fc {
+    font-family: inherit;
+}
+
 .fc-theme-standard td, .fc-theme-standard th {
-    border-color: #e5e7eb;
+    border-color: #e4e4e7 !important;
 }
+
+.fc-theme-standard th {
+    background-color: #fef08a;
+    color: #18181b;
+    font-weight: 800;
+    padding: 8px 0 !important;
+    border: 1px solid #18181b !important;
+}
+
 .fc-toolbar-title {
-    font-size: 1.25rem !important;
-    font-weight: 700 !important;
-    color: #1f2937;
+    font-size: 1.35rem !important;
+    font-weight: 900 !important;
+    color: #18181b !important;
+    letter-spacing: -0.02em;
 }
+
 .fc-button-primary {
-    background-color: #4f46e5 !important;
-    border-color: #4f46e5 !important;
+    background-color: #dc2626 !important;
+    border: 2px solid #18181b !important;
+    box-shadow: 2.5px 2.5px 0px #18181b !important;
+    color: #ffffff !important;
+    font-weight: 800 !important;
+    border-radius: 8px !important;
+    padding: 6px 14px !important;
+    text-transform: uppercase;
+    transition: all 0.15s ease !important;
 }
+
 .fc-button-primary:hover {
-    background-color: #4338ca !important;
-    border-color: #4338ca !important;
+    background-color: #b91c1c !important;
+    transform: translate(-1px, -1px);
+    box-shadow: 3.5px 3.5px 0px #18181b !important;
 }
-.fc-button-active {
-    background-color: #3730a3 !important;
-    border-color: #3730a3 !important;
+
+.fc-button-primary:active {
+    transform: translate(1.5px, 1.5px) !important;
+    box-shadow: 1px 1px 0px #18181b !important;
 }
+
+.fc-today-button {
+    background-color: #fef08a !important;
+    color: #18181b !important;
+    border: 2px solid #18181b !important;
+    box-shadow: 2.5px 2.5px 0px #18181b !important;
+    font-weight: 900 !important;
+}
+
+.fc-day-today {
+    background-color: #fffbeb !important;
+}
+
 .fc-daygrid-event {
-    border-radius: 4px;
-    padding: 2px 4px;
-    font-size: 0.75rem;
+    border: 1.5px solid #18181b !important;
+    box-shadow: 1.5px 1.5px 0px rgba(24, 24, 27, 0.3) !important;
+    border-radius: 6px !important;
+    padding: 3px 6px !important;
+    font-size: 0.8rem !important;
+    font-weight: 700 !important;
     cursor: pointer;
+    transition: transform 0.15s ease;
+}
+
+.fc-daygrid-event:hover {
+    transform: scale(1.02);
 }
