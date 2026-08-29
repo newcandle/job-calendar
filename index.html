@@ -106,7 +106,54 @@
         
         <!-- 1. 캘린더 뷰 -->
         <section id="view-calendar" class="view-section h-full flex flex-col">
-            <div class="flex items-center justify-between mb-4">
+            <!-- D-Day 및 전형 긴급 대시보드 위젯 -->
+            <div class="grid grid-cols-2 lg:grid-cols-4 gap-3 md:gap-4 mb-4">
+                <div class="summary-card p-3.5 flex items-center justify-between border-2 border-zinc-900 bg-white cursor-pointer" data-summary-filter="today">
+                    <div>
+                        <span class="text-[11px] font-bold text-zinc-500 block mb-0.5">오늘 마감 공고</span>
+                        <div class="flex items-baseline gap-1">
+                            <span class="text-xl md:text-2xl font-black text-red-600" id="summary-today-count">0</span>
+                            <span class="text-xs font-bold text-zinc-400">건</span>
+                        </div>
+                    </div>
+                    <span class="w-10 h-10 rounded-xl bg-red-100 border border-red-300 flex items-center justify-center text-xl shadow-xs">🔥</span>
+                </div>
+
+                <div class="summary-card p-3.5 flex items-center justify-between border-2 border-zinc-900 bg-white cursor-pointer" data-summary-filter="imminent">
+                    <div>
+                        <span class="text-[11px] font-bold text-zinc-500 block mb-0.5">3일 이내 마감</span>
+                        <div class="flex items-baseline gap-1">
+                            <span class="text-xl md:text-2xl font-black text-amber-600" id="summary-imminent-count">0</span>
+                            <span class="text-xs font-bold text-zinc-400">건</span>
+                        </div>
+                    </div>
+                    <span class="w-10 h-10 rounded-xl bg-yellow-100 border border-yellow-300 flex items-center justify-center text-xl shadow-xs">⏰</span>
+                </div>
+
+                <div class="summary-card p-3.5 flex items-center justify-between border-2 border-zinc-900 bg-white cursor-pointer" data-summary-filter="지원완료">
+                    <div>
+                        <span class="text-[11px] font-bold text-zinc-500 block mb-0.5">지원 완료</span>
+                        <div class="flex items-baseline gap-1">
+                            <span class="text-xl md:text-2xl font-black text-blue-600" id="summary-applied-count">0</span>
+                            <span class="text-xs font-bold text-zinc-400">건</span>
+                        </div>
+                    </div>
+                    <span class="w-10 h-10 rounded-xl bg-blue-100 border border-blue-300 flex items-center justify-center text-xl shadow-xs">📨</span>
+                </div>
+
+                <div class="summary-card p-3.5 flex items-center justify-between border-2 border-zinc-900 bg-white cursor-pointer" data-summary-filter="합격">
+                    <div>
+                        <span class="text-[11px] font-bold text-zinc-500 block mb-0.5">서류/최종 합격</span>
+                        <div class="flex items-baseline gap-1">
+                            <span class="text-xl md:text-2xl font-black text-emerald-600" id="summary-pass-count">0</span>
+                            <span class="text-xs font-bold text-zinc-400">건</span>
+                        </div>
+                    </div>
+                    <span class="w-10 h-10 rounded-xl bg-emerald-100 border border-emerald-300 flex items-center justify-center text-xl shadow-xs">🏆</span>
+                </div>
+            </div>
+
+            <div class="flex items-center justify-between mb-3">
                 <div class="flex items-center gap-2">
                     <h2 class="text-xl md:text-2xl font-black text-zinc-900 tracking-tight">취업 일정 캘린더</h2>
                     <span class="hidden sm:inline-block px-2.5 py-0.5 bg-yellow-300 text-zinc-900 border border-zinc-900 text-xs font-black rounded-md shadow-[1px_1px_0px_#000]">
@@ -126,11 +173,22 @@
 
         <!-- 2. 공고 리스트 뷰 -->
         <section id="view-list" class="view-section hidden h-full flex flex-col">
-            <div class="flex justify-between items-center mb-4">
+            <div class="flex justify-between items-center mb-3">
                 <h2 class="text-xl md:text-2xl font-black text-zinc-900 tracking-tight">등록된 공고 리스트</h2>
                 <button class="btn-go-add px-3 py-1.5 bg-red-600 hover:bg-red-700 text-white font-extrabold text-xs rounded-lg comic-btn flex items-center gap-1 cursor-pointer" data-target="view-add">
                     <span>⚡ 새 공고 분석 추가</span>
                 </button>
+            </div>
+
+            <!-- 전형 상태별 필터 탭 바 -->
+            <div class="flex flex-wrap items-center gap-1.5 mb-3 overflow-x-auto pb-1" id="status-filter-bar">
+                <button class="status-filter-btn active" data-status-filter="all">전체보기 (<span id="filter-all-count">0</span>)</button>
+                <button class="status-filter-btn" data-status-filter="서류준비">📝 서류준비 (<span id="filter-ready-count">0</span>)</button>
+                <button class="status-filter-btn" data-status-filter="지원완료">📨 지원완료 (<span id="filter-applied-count">0</span>)</button>
+                <button class="status-filter-btn" data-status-filter="서류합격">🎉 서류합격 (<span id="filter-docpass-count">0</span>)</button>
+                <button class="status-filter-btn" data-status-filter="면접진행">🎤 면접진행 (<span id="filter-interview-count">0</span>)</button>
+                <button class="status-filter-btn" data-status-filter="최종합격">🏆 최종합격 (<span id="filter-finalpass-count">0</span>)</button>
+                <button class="status-filter-btn" data-status-filter="불합격">💧 불합격 (<span id="filter-fail-count">0</span>)</button>
             </div>
             
             <div class="bg-white rounded-2xl comic-box overflow-hidden flex-1 flex flex-col">
@@ -138,11 +196,12 @@
                     <table class="min-w-full divide-y-2 divide-zinc-900 text-sm text-left">
                         <thead class="bg-yellow-300 text-zinc-900 font-black">
                             <tr>
-                                <th scope="col" class="px-5 py-3.5 border-r border-zinc-900">회사명</th>
-                                <th scope="col" class="px-5 py-3.5 border-r border-zinc-900">공고명 (직무)</th>
-                                <th scope="col" class="px-5 py-3.5 border-r border-zinc-900">마감일시</th>
-                                <th scope="col" class="px-4 py-3.5 border-r border-zinc-900 text-center">공고 링크</th>
-                                <th scope="col" class="px-4 py-3.5 text-center">작업</th>
+                                <th scope="col" class="px-4 py-3 border-r border-zinc-900">회사명</th>
+                                <th scope="col" class="px-4 py-3 border-r border-zinc-900">공고명 (직무)</th>
+                                <th scope="col" class="px-3 py-3 border-r border-zinc-900 text-center">전형 상태</th>
+                                <th scope="col" class="px-4 py-3 border-r border-zinc-900">마감일시</th>
+                                <th scope="col" class="px-3 py-3 border-r border-zinc-900 text-center">상세 & 메모</th>
+                                <th scope="col" class="px-3 py-3 text-center">관리</th>
                             </tr>
                         </thead>
                         <tbody id="job-list-body" class="divide-y divide-zinc-200 font-medium">
@@ -313,6 +372,103 @@
         </section>
         
     </main>
+
+    <!-- 팝 코믹스 스타일 공고 상세 & 메모 모달 -->
+    <div id="job-detail-modal" class="modal-overlay">
+        <div class="comic-modal flex flex-col">
+            <!-- 모달 헤더 -->
+            <div class="p-5 border-b-2 border-zinc-900 flex items-start justify-between bg-yellow-300/60">
+                <div class="space-y-1 flex-1 pr-4">
+                    <div class="flex items-center gap-2">
+                        <span id="modal-platform-badge" class="px-2.5 py-0.5 bg-white border border-zinc-900 rounded-md text-xs font-black shadow-[1px_1px_0px_#000]">잡코리아</span>
+                        <span id="modal-dday-badge" class="px-2.5 py-0.5 bg-red-600 text-white rounded-md text-xs font-black shadow-[1px_1px_0px_#000]">D-3</span>
+                    </div>
+                    <h3 id="modal-company" class="text-xl font-black text-zinc-900 leading-tight">기업명</h3>
+                    <p id="modal-title" class="text-sm font-bold text-zinc-700 leading-snug">공고 제목 (직무)</p>
+                </div>
+                <button id="modal-btn-close" class="w-8 h-8 rounded-lg bg-white border-2 border-zinc-900 flex items-center justify-center text-sm font-black hover:bg-red-500 hover:text-white transition shadow-[1.5px_1.5px_0px_#000] cursor-pointer">
+                    ✕
+                </button>
+            </div>
+
+            <!-- 모달 본문 -->
+            <div class="p-5 md:p-6 space-y-5 flex-1 overflow-y-auto">
+                <!-- 일정 & 원문 링크 -->
+                <div class="bg-white p-3.5 rounded-xl border-2 border-zinc-900 flex flex-wrap items-center justify-between gap-2 shadow-[2px_2px_0px_#18181b]">
+                    <div class="flex items-center gap-2 text-xs font-bold text-zinc-700">
+                        <span>📅 서류 마감:</span>
+                        <span id="modal-deadline" class="text-zinc-900 font-extrabold">2026년 9월 7일 16:00</span>
+                    </div>
+                    <a id="modal-url-btn" href="#" target="_blank" class="px-3 py-1 bg-yellow-300 hover:bg-yellow-400 text-zinc-900 font-extrabold text-xs rounded-lg border border-zinc-900 shadow-[1px_1px_0px_#000] flex items-center gap-1 transition">
+                        <span>공고 원문 바로가기</span> ↗
+                    </a>
+                </div>
+
+                <!-- 전형 상태 변경 선택기 -->
+                <div>
+                    <label class="block text-xs font-black text-zinc-900 mb-2 flex items-center gap-1">
+                        <span>🚦</span> 전형 진행 상태 변경
+                    </label>
+                    <div class="grid grid-cols-3 sm:grid-cols-6 gap-1.5" id="modal-status-group">
+                        <label class="cursor-pointer">
+                            <input type="radio" name="modal-status" value="서류준비" class="status-radio sr-only">
+                            <div class="status-radio-label" data-status="서류준비">📝 서류준비</div>
+                        </label>
+                        <label class="cursor-pointer">
+                            <input type="radio" name="modal-status" value="지원완료" class="status-radio sr-only">
+                            <div class="status-radio-label" data-status="지원완료">📨 지원완료</div>
+                        </label>
+                        <label class="cursor-pointer">
+                            <input type="radio" name="modal-status" value="서류합격" class="status-radio sr-only">
+                            <div class="status-radio-label" data-status="서류합격">🎉 서류합격</div>
+                        </label>
+                        <label class="cursor-pointer">
+                            <input type="radio" name="modal-status" value="면접진행" class="status-radio sr-only">
+                            <div class="status-radio-label" data-status="면접진행">🎤 면접진행</div>
+                        </label>
+                        <label class="cursor-pointer">
+                            <input type="radio" name="modal-status" value="최종합격" class="status-radio sr-only">
+                            <div class="status-radio-label" data-status="최종합격">🏆 최종합격</div>
+                        </label>
+                        <label class="cursor-pointer">
+                            <input type="radio" name="modal-status" value="불합격" class="status-radio sr-only">
+                            <div class="status-radio-label" data-status="불합격">💧 불합격</div>
+                        </label>
+                    </div>
+                </div>
+
+                <!-- 자소서 / 면접 메모장 -->
+                <div>
+                    <div class="flex items-center justify-between mb-2">
+                        <label class="text-xs font-black text-zinc-900 flex items-center gap-1">
+                            <span>✏️</span> 자소서 문항 & 지원 메모장
+                        </label>
+                        <div class="flex items-center gap-2 text-[11px] font-bold text-zinc-500 bg-zinc-100 px-2.5 py-0.5 rounded-md border border-zinc-200">
+                            <span>공백 포함: <strong id="char-count-with-space" class="text-zinc-900 font-extrabold">0</strong>자</span>
+                            <span class="text-zinc-300">|</span>
+                            <span>공백 제외: <strong id="char-count-no-space" class="text-red-600 font-extrabold">0</strong>자</span>
+                        </div>
+                    </div>
+                    <textarea id="modal-memo" rows="7" class="w-full p-3.5 bg-white border-2 border-zinc-900 rounded-xl text-xs leading-relaxed resize-y font-medium focus:outline-none focus:border-red-600 shadow-[2px_2px_0px_#18181b]" placeholder="이곳에 자소서 작성 내용, 지원 동기, 면접 예상 질문 및 후기 등을 자유롭게 적어두세요. 클라우드에 자동 동기화됩니다."></textarea>
+                </div>
+            </div>
+
+            <!-- 모달 푸터 -->
+            <div class="p-4 border-t-2 border-zinc-900 flex items-center justify-between bg-white rounded-b-xl">
+                <button id="modal-btn-delete" class="px-3.5 py-2 text-red-600 hover:bg-red-50 font-bold text-xs rounded-lg border border-red-300 hover:border-zinc-900 transition comic-btn cursor-pointer flex items-center gap-1">
+                    <span>🗑️ 공고 삭제</span>
+                </button>
+                <div class="flex items-center gap-2">
+                    <button id="modal-btn-cancel" class="px-4 py-2 bg-zinc-100 hover:bg-zinc-200 text-zinc-700 font-bold text-xs rounded-lg border border-zinc-300 transition cursor-pointer">
+                        닫기
+                    </button>
+                    <button id="modal-btn-save" class="px-5 py-2 bg-red-600 hover:bg-red-700 text-white font-black text-xs rounded-lg comic-btn transition cursor-pointer flex items-center gap-1">
+                        <span>💾 메모 및 상태 저장</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
 
     <!-- Scripts -->
     <script src="js/storage.js"></script>

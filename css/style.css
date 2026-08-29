@@ -166,3 +166,189 @@
 .fc-daygrid-event:hover {
     transform: scale(1.02);
 }
+
+/* ========================================================
+   3단계 기능 추가 스타일: 요약 대시보드, 전형 상태, 상세 모달
+   ======================================================== */
+
+/* 요약 대시보드 카드 */
+.summary-card {
+    background-color: #ffffff;
+    border: 2px solid #18181b;
+    box-shadow: 3px 3px 0px #18181b;
+    border-radius: 1rem;
+    transition: all 0.15s ease;
+    cursor: pointer;
+}
+
+.summary-card:hover {
+    transform: translate(-1.5px, -1.5px);
+    box-shadow: 4.5px 4.5px 0px #18181b;
+}
+
+.summary-card:active {
+    transform: translate(1px, 1px);
+    box-shadow: 1.5px 1.5px 0px #18181b;
+}
+
+/* 전형 상태 뱃지 */
+.badge-status {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.25rem;
+    padding: 0.2rem 0.55rem;
+    border-radius: 0.5rem;
+    font-size: 0.72rem;
+    font-weight: 800;
+    border: 1.5px solid #18181b;
+    white-space: nowrap;
+}
+
+.badge-status-ready {
+    background-color: #fef08a; /* yellow-200 */
+    color: #713f12;
+}
+
+.badge-status-applied {
+    background-color: #dbeafe; /* blue-100 */
+    color: #1e40af;
+}
+
+.badge-status-doc-pass {
+    background-color: #d1fae5; /* emerald-100 */
+    color: #065f46;
+}
+
+.badge-status-interview {
+    background-color: #f3e8ff; /* purple-100 */
+    color: #6b21a8;
+}
+
+.badge-status-final-pass {
+    background-color: #fee2e2; /* red-100 */
+    color: #991b1b;
+    border-color: #dc2626;
+}
+
+.badge-status-fail {
+    background-color: #f4f4f5; /* zinc-100 */
+    color: #71717a;
+    border-color: #a1a1aa;
+}
+
+/* 전형 상태 필터 버튼 */
+.status-filter-btn {
+    border: 1.5px solid #d4d4d8;
+    background-color: #ffffff;
+    color: #52525b;
+    font-size: 0.75rem;
+    font-weight: 700;
+    padding: 0.35rem 0.75rem;
+    border-radius: 0.6rem;
+    transition: all 0.15s ease;
+    cursor: pointer;
+}
+
+.status-filter-btn:hover {
+    border-color: #18181b;
+    background-color: #fafafa;
+}
+
+.status-filter-btn.active {
+    background-color: #18181b !important;
+    color: #ffffff !important;
+    border-color: #18181b !important;
+    box-shadow: 2px 2px 0px #dc2626 !important;
+}
+
+/* 상세 & 메모 모달 창 */
+.modal-overlay {
+    position: fixed;
+    inset: 0;
+    background-color: rgba(24, 24, 27, 0.6);
+    backdrop-filter: blur(3px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 9999;
+    padding: 1rem;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.2s ease;
+}
+
+.modal-overlay.open {
+    opacity: 1;
+    pointer-events: auto;
+}
+
+.comic-modal {
+    background-color: #FFFDF7;
+    border: 3px solid #18181b;
+    box-shadow: 6px 6px 0px #18181b;
+    border-radius: 1.25rem;
+    width: 100%;
+    max-width: 38rem;
+    max-height: 90vh;
+    overflow-y: auto;
+    transform: scale(0.95) translateY(10px);
+    transition: transform 0.2s ease;
+}
+
+.modal-overlay.open .comic-modal {
+    transform: scale(1) translateY(0);
+}
+
+/* 모달 내 상태 선택 버튼 라디오 */
+.status-radio-label {
+    border: 2px solid #e4e4e7;
+    background-color: #ffffff;
+    border-radius: 0.75rem;
+    padding: 0.5rem 0.6rem;
+    font-size: 0.75rem;
+    font-weight: 800;
+    text-align: center;
+    cursor: pointer;
+    transition: all 0.15s ease;
+}
+
+.status-radio-label:hover {
+    border-color: #18181b;
+}
+
+.status-radio:checked + .status-radio-label {
+    border-color: #18181b;
+    box-shadow: 2px 2px 0px #18181b;
+}
+
+.status-radio:checked + .status-radio-label[data-status="서류준비"] {
+    background-color: #fef08a;
+    color: #713f12;
+}
+
+.status-radio:checked + .status-radio-label[data-status="지원완료"] {
+    background-color: #dbeafe;
+    color: #1e40af;
+}
+
+.status-radio:checked + .status-radio-label[data-status="서류합격"] {
+    background-color: #d1fae5;
+    color: #065f46;
+}
+
+.status-radio:checked + .status-radio-label[data-status="면접진행"] {
+    background-color: #f3e8ff;
+    color: #6b21a8;
+}
+
+.status-radio:checked + .status-radio-label[data-status="최종합격"] {
+    background-color: #dc2626;
+    color: #ffffff;
+    border-color: #18181b;
+}
+
+.status-radio:checked + .status-radio-label[data-status="불합격"] {
+    background-color: #f4f4f5;
+    color: #71717a;
+}
+

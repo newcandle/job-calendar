@@ -24,6 +24,35 @@ document.addEventListener('DOMContentLoaded', () => {
     const parsedDeadline = document.getElementById('parsed-deadline');
     const deadlineError = document.getElementById('deadline-error');
 
+    // 모달 DOM 요소
+    const jobDetailModal = document.getElementById('job-detail-modal');
+    const modalPlatformBadge = document.getElementById('modal-platform-badge');
+    const modalDdayBadge = document.getElementById('modal-dday-badge');
+    const modalCompany = document.getElementById('modal-company');
+    const modalTitle = document.getElementById('modal-title');
+    const modalDeadline = document.getElementById('modal-deadline');
+    const modalUrlBtn = document.getElementById('modal-url-btn');
+    const modalMemo = document.getElementById('modal-memo');
+    const charCountWithSpace = document.getElementById('char-count-with-space');
+    const charCountNoSpace = document.getElementById('char-count-no-space');
+    const modalBtnClose = document.getElementById('modal-btn-close');
+    const modalBtnCancel = document.getElementById('modal-btn-cancel');
+    const modalBtnSave = document.getElementById('modal-btn-save');
+    const modalBtnDelete = document.getElementById('modal-btn-delete');
+    let currentModalJobId = null;
+
+    // 전형 상태 메타데이터
+    const STATUS_CONFIG = {
+        '서류준비': { icon: '📝', badgeClass: 'badge-status-ready', text: '서류준비' },
+        '지원완료': { icon: '📨', badgeClass: 'badge-status-applied', text: '지원완료' },
+        '서류합격': { icon: '🎉', badgeClass: 'badge-status-doc-pass', text: '서류합격' },
+        '면접진행': { icon: '🎤', badgeClass: 'badge-status-interview', text: '면접진행' },
+        '최종합격': { icon: '🏆', badgeClass: 'badge-status-final-pass', text: '최종합격' },
+        '불합격':   { icon: '💧', badgeClass: 'badge-status-fail', text: '불합격' }
+    };
+
+    let currentStatusFilter = 'all';
+
     // --- 2. 탭(뷰) 전환 로직 ---
     function switchView(targetId) {
         views.forEach(view => {
@@ -76,14 +105,16 @@ document.addEventListener('DOMContentLoaded', () => {
     // --- 3. 캘린더 초기화 ---
     function initCalendar() {
         const jobs = Storage.getAllJobs();
-        const events = jobs.map(job => ({
-            id: job.id,
-            title: `[${job.platform}] ${job.company} - ${job.title}`,
-            start: job.deadline, // 마감일을 시작일(이벤트일)로 표시
-            allDay: false,
-            url: job.url || '#',
-            color: getPlatformColor(job.platform)
-        }));
+        const events = jobs.map(job => {
+            const statusInfo = STATUS_CONFIG[job.status] || STATUS_CONFIG['서류준비'];
+            return {
+                id: job.id,
+                title: `${statusInfo.icon} [${job.company}] ${job.title}`,
+                start: job.deadline, // 마감일을 시작일(이벤트일)로 표시
+                allDay: false,
+                color: getPlatformColor(job.platform)
+            };
+        });
 
         calendar = new FullCalendar.Calendar(calendarEl, {
             initialView: 'dayGridMonth',
@@ -94,10 +125,8 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             events: events,
             eventClick: function(info) {
-                if(info.event.url && info.event.url !== window.location.href + '#') {
-                    window.open(info.event.url, '_blank');
-                    info.jsEvent.preventDefault(); // 기본 링크 이동 방지
-                }
+                info.jsEvent.preventDefault();
+                openJobDetailModal(info.event.id);
             }
         });
         calendar.render();
@@ -115,15 +144,16 @@ document.addEventListener('DOMContentLoaded', () => {
         const jobs = Storage.getAllJobs();
         calendar.removeAllEvents();
         jobs.forEach(job => {
+            const statusInfo = STATUS_CONFIG[job.status] || STATUS_CONFIG['서류준비'];
             calendar.addEvent({
                 id: job.id,
-                title: `[${job.platform}] ${job.company}`,
+                title: `${statusInfo.icon} [${job.company}] ${job.title}`,
                 start: job.deadline,
                 allDay: false,
-                url: job.url || '#',
                 color: getPlatformColor(job.platform)
             });
         });
+        updateSummaryDashboard(jobs);
     }
 
     // --- 4. 파싱 기능 ---
@@ -133,116 +163,106 @@ document.addEventListener('DOMContentLoaded', () => {
             const url = autoUrlInput ? autoUrlInput.value.trim() : '';
             if (!url) {
                 alert('공고 링크(URL)를 입력해주세요.');
-                autoUrlInput?.focus();
+                autoUrlInput.focus();
                 return;
             }
 
-            // 로딩 UI 상태 전환
+            // UI 로딩 상태 표시
             btnParseUrl.disabled = true;
-            btnParseUrl.classList.add('opacity-75', 'cursor-not-allowed');
-            if (btnParseUrlText) {
-                btnParseUrlText.innerHTML = `
-                    <svg class="animate-spin -ml-1 mr-2 h-4 w-4 text-white inline-block" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
-                        <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
-                        <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
-                    </svg>
-                    공고 실시간 분석 중...
-                `;
-            }
-            
-            parseStatus.textContent = '서버에서 분석 중...';
-            parseStatus.className = 'px-3 py-1 text-xs font-semibold rounded-full bg-indigo-100 text-indigo-700 border border-indigo-200 ml-2 animate-pulse';
+            btnParseUrlText.textContent = '⏳ 실시간 스크래핑 & AI 분석 중...';
+            parseStatus.textContent = '분석 중...';
+            parseStatus.className = 'px-2.5 py-0.5 text-xs font-black rounded-md bg-yellow-100 text-yellow-800 border border-yellow-300 animate-pulse';
 
             try {
                 const response = await fetch('/api/parse-url', {
                     method: 'POST',
                     headers: { 'Content-Type': 'application/json' },
-                    body: JSON.stringify({ url })
+                    body: JSON.stringify({ url: url })
                 });
 
-                const resData = await response.json();
+                const result = await response.json();
 
-                if (!response.ok || !resData.success) {
-                    throw new Error(resData.message || '공고 분석에 실패했습니다.');
+                if (result.success && result.data) {
+                    const data = result.data;
+                    parsedPlatform.value = data.platform || '기타';
+                    parsedCompany.value = data.company || '';
+                    parsedTitle.value = data.title || '';
+                    parsedDeadline.value = data.deadline || '';
+                    urlInput.value = data.url || url;
+
+                    parseStatus.textContent = '분석 완료!';
+                    parseStatus.className = 'px-2.5 py-0.5 text-xs font-black rounded-md bg-emerald-100 text-emerald-800 border border-emerald-300';
+                    validateForm();
+                } else {
+                    throw new Error(result.message || '공고 분석에 실패했습니다.');
                 }
-
-                const result = resData.data;
-                parsedPlatform.value = result.platform || '';
-                parsedCompany.value = result.company || '';
-                parsedTitle.value = result.title || '';
-                parsedDeadline.value = result.deadline || '';
-                if (urlInput) urlInput.value = result.url || url;
-
-                parseStatus.textContent = '분석 완료';
-                parseStatus.className = 'px-3 py-1 text-xs font-semibold rounded-full bg-green-100 text-green-600 border border-green-200 ml-2';
-
-                checkFormValidity();
-            } catch (err) {
-                console.error('URL 파싱 실패:', err);
+            } catch (error) {
+                console.error('URL 파싱 실패:', error);
+                alert('공고를 분석하지 못했습니다: ' + error.message);
                 parseStatus.textContent = '분석 실패';
-                parseStatus.className = 'px-3 py-1 text-xs font-semibold rounded-full bg-red-100 text-red-600 border border-red-200 ml-2';
-                alert('공고 링크 분석 중 오류가 발생했습니다:\n' + err.message);
+                parseStatus.className = 'px-2.5 py-0.5 text-xs font-black rounded-md bg-rose-100 text-rose-800 border border-rose-300';
             } finally {
                 btnParseUrl.disabled = false;
-                btnParseUrl.classList.remove('opacity-75', 'cursor-not-allowed');
-                if (btnParseUrlText) btnParseUrlText.textContent = '⚡ 링크 자동 분석하기';
+                btnParseUrlText.textContent = '⚡ 링크 자동 분석하기';
             }
         });
 
-        // URL 입력창에서 Enter 키 누르면 바로 분석
-        autoUrlInput?.addEventListener('keydown', (e) => {
-            if (e.key === 'Enter') {
-                e.preventDefault();
-                btnParseUrl.click();
-            }
-        });
+        // 엔터키 지원
+        if (autoUrlInput) {
+            autoUrlInput.addEventListener('keydown', (e) => {
+                if (e.key === 'Enter') {
+                    e.preventDefault();
+                    btnParseUrl.click();
+                }
+            });
+        }
     }
 
-    // 4-2. 텍스트 직접 복사/붙여넣기 파싱 기능
+    // 4-2. 수동 텍스트 파싱 기능
     btnParse.addEventListener('click', () => {
-        const text = rawTextInput.value.trim();
-        if (!text) {
-            alert('텍스트를 먼저 붙여넣어 주세요.');
+        const text = rawTextInput.value;
+        if (!text.trim()) {
+            alert('분석할 텍스트를 입력해주세요.');
             return;
         }
 
-        parseStatus.textContent = '분석중...';
-        parseStatus.className = 'px-3 py-1 text-xs font-semibold rounded-full bg-yellow-100 text-yellow-600 border border-yellow-200 ml-2';
+        parseStatus.textContent = '분석 중...';
+        parseStatus.className = 'px-2.5 py-0.5 text-xs font-black rounded-md bg-yellow-100 text-yellow-800 border border-yellow-300';
 
         setTimeout(() => {
-            const result = Parser.parse(text);
-            
-            parsedPlatform.value = result.platform;
-            parsedCompany.value = result.company;
-            parsedTitle.value = result.title;
-            parsedDeadline.value = result.deadline;
-            
-            // HTML 파싱 등으로 URL을 알아냈다면 URL 입력창도 자동 채움
-            if (result.url) {
-                urlInput.value = result.url;
+            const parsedData = Parser.parse(text);
+
+            parsedPlatform.value = parsedData.platform;
+            parsedCompany.value = parsedData.company;
+            parsedTitle.value = parsedData.title;
+            parsedDeadline.value = parsedData.deadline;
+
+            if (parsedData.company || parsedData.title || parsedData.deadline) {
+                parseStatus.textContent = '분석 완료!';
+                parseStatus.className = 'px-2.5 py-0.5 text-xs font-black rounded-md bg-emerald-100 text-emerald-800 border border-emerald-300';
+            } else {
+                parseStatus.textContent = '일부 정보 누락';
+                parseStatus.className = 'px-2.5 py-0.5 text-xs font-black rounded-md bg-amber-100 text-amber-800 border border-amber-300';
             }
-            
-            parseStatus.textContent = '분석 완료';
-            parseStatus.className = 'px-3 py-1 text-xs font-semibold rounded-full bg-green-100 text-green-600 border border-green-200 ml-2';
-            
-            checkFormValidity();
-        }, 500); // UI 피드백을 위한 인위적 지연
+
+            validateForm();
+        }, 100);
     });
 
-    parsedDeadline.addEventListener('change', checkFormValidity);
-    parsedCompany.addEventListener('input', checkFormValidity);
+    // 입력 폼 유효성 검사 (마감일 필수)
+    [parsedCompany, parsedTitle, parsedDeadline].forEach(input => {
+        input.addEventListener('input', validateForm);
+    });
 
-    function checkFormValidity() {
-        const hasDeadline = parsedDeadline.value !== '';
-        const hasCompany = parsedCompany.value.trim() !== '';
-        
+    function validateForm() {
+        const hasDeadline = !!parsedDeadline.value;
         if (!hasDeadline) {
             deadlineError.classList.remove('hidden');
         } else {
             deadlineError.classList.add('hidden');
         }
 
-        if (hasDeadline && hasCompany) {
+        if (hasDeadline && (parsedCompany.value || parsedTitle.value)) {
             btnSaveJob.disabled = false;
         } else {
             btnSaveJob.disabled = true;
@@ -257,6 +277,8 @@ document.addEventListener('DOMContentLoaded', () => {
             title: parsedTitle.value,
             deadline: parsedDeadline.value,
             url: urlInput.value.trim(),
+            status: '서류준비',
+            memo: '',
             rawText: rawTextInput.value // 원본 데이터도 백업 목적 저장
         };
 
@@ -271,7 +293,7 @@ document.addEventListener('DOMContentLoaded', () => {
             console.error('공고 저장 오류:', e);
             alert('공고 저장 중 오류가 발생했습니다.');
         } finally {
-            btnSaveJob.textContent = '📅 캘린더에 저장하기';
+            btnSaveJob.textContent = '📅 캘린더 & DB에 저장하기';
         }
         
         // 입력 폼 초기화
@@ -284,21 +306,133 @@ document.addEventListener('DOMContentLoaded', () => {
         parsedDeadline.value = '';
         btnSaveJob.disabled = true;
         parseStatus.textContent = '대기중';
-        parseStatus.className = 'px-3 py-1 text-xs font-semibold rounded-full bg-gray-100 text-gray-500 border border-gray-200 ml-2';
+        parseStatus.className = 'px-2.5 py-0.5 text-xs font-black rounded-md bg-zinc-100 text-zinc-500 border border-zinc-300';
         
         // 캘린더 뷰로 이동
         switchView('view-calendar');
     });
 
-    // --- 6. 리스트 뷰 렌더링 ---
+    // --- 6. 요약 대시보드 업데이트 ---
+    function updateSummaryDashboard(jobs) {
+        if (!Array.isArray(jobs)) jobs = Storage.getAllJobs();
+
+        let todayCount = 0;
+        let imminentCount = 0;
+        let appliedCount = 0;
+        let passCount = 0;
+
+        let filterCounts = {
+            all: jobs.length,
+            '서류준비': 0,
+            '지원완료': 0,
+            '서류합격': 0,
+            '면접진행': 0,
+            '최종합격': 0,
+            '불합격': 0
+        };
+
+        const now = new Date();
+
+        jobs.forEach(job => {
+            const status = job.status || '서류준비';
+            if (filterCounts[status] !== undefined) filterCounts[status]++;
+            if (status === '지원완료') appliedCount++;
+            if (status === '서류합격' || status === '최종합격') passCount++;
+
+            const date = new Date(job.deadline);
+            if (!isNaN(date)) {
+                const diffTime = date - now;
+                const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
+                if (diffDays === 0) todayCount++;
+                if (diffDays > 0 && diffDays <= 3) imminentCount++;
+            }
+        });
+
+        // 대시보드 숫자 업데이트
+        const todayEl = document.getElementById('summary-today-count');
+        const imminentEl = document.getElementById('summary-imminent-count');
+        const appliedEl = document.getElementById('summary-applied-count');
+        const passEl = document.getElementById('summary-pass-count');
+
+        if (todayEl) todayEl.textContent = todayCount;
+        if (imminentEl) imminentEl.textContent = imminentCount;
+        if (appliedEl) appliedEl.textContent = appliedCount;
+        if (passEl) passEl.textContent = passCount;
+
+        // 리스트 필터 탭 숫자 업데이트
+        const setTxt = (id, val) => { const el = document.getElementById(id); if (el) el.textContent = val; };
+        setTxt('filter-all-count', filterCounts.all);
+        setTxt('filter-ready-count', filterCounts['서류준비']);
+        setTxt('filter-applied-count', filterCounts['지원완료']);
+        setTxt('filter-docpass-count', filterCounts['서류합격']);
+        setTxt('filter-interview-count', filterCounts['면접진행']);
+        setTxt('filter-finalpass-count', filterCounts['최종합격']);
+        setTxt('filter-fail-count', filterCounts['불합격']);
+    }
+
+    // 대시보드 카드 클릭 시 해당 조건으로 리스트 뷰 필터링
+    document.querySelectorAll('.summary-card').forEach(card => {
+        card.addEventListener('click', () => {
+            const filter = card.dataset.summaryFilter;
+            switchView('view-list');
+            
+            if (filter === '지원완료') {
+                setListFilter('지원완료');
+            } else if (filter === '합격') {
+                setListFilter('서류합격');
+            } else {
+                setListFilter(filter);
+            }
+        });
+    });
+
+    // 리스트 상태 필터 버튼 클릭
+    document.querySelectorAll('.status-filter-btn').forEach(btn => {
+        btn.addEventListener('click', () => {
+            setListFilter(btn.dataset.statusFilter);
+        });
+    });
+
+    function setListFilter(filter) {
+        currentStatusFilter = filter;
+        document.querySelectorAll('.status-filter-btn').forEach(btn => {
+            if (btn.dataset.statusFilter === filter) {
+                btn.classList.add('active');
+            } else {
+                btn.classList.remove('active');
+            }
+        });
+        renderJobList();
+    }
+
+    // --- 7. 리스트 뷰 렌더링 ---
     function renderJobList() {
-        const jobs = Storage.getAllJobs();
+        const allJobs = Storage.getAllJobs();
         const tbody = document.getElementById('job-list-body');
         const emptyMsg = document.getElementById('empty-list-msg');
         
+        updateSummaryDashboard(allJobs);
         tbody.innerHTML = '';
+
+        const now = new Date();
+
+        // 필터링 적용
+        let filteredJobs = allJobs.filter(job => {
+            const status = job.status || '서류준비';
+            if (currentStatusFilter === 'all') return true;
+            if (currentStatusFilter === 'today') {
+                const d = new Date(job.deadline);
+                return !isNaN(d) && Math.ceil((d - now) / (1000 * 60 * 60 * 24)) === 0;
+            }
+            if (currentStatusFilter === 'imminent') {
+                const d = new Date(job.deadline);
+                const diff = !isNaN(d) ? Math.ceil((d - now) / (1000 * 60 * 60 * 24)) : -999;
+                return diff > 0 && diff <= 3;
+            }
+            return status === currentStatusFilter;
+        });
         
-        if (jobs.length === 0) {
+        if (filteredJobs.length === 0) {
             emptyMsg.classList.remove('hidden');
             return;
         }
@@ -306,13 +440,12 @@ document.addEventListener('DOMContentLoaded', () => {
         emptyMsg.classList.add('hidden');
         
         // 마감일 임박 순 정렬
-        jobs.sort((a, b) => new Date(a.deadline) - new Date(b.deadline));
+        filteredJobs.sort((a, b) => new Date(a.deadline) - new Date(b.deadline));
         
-        jobs.forEach(job => {
+        filteredJobs.forEach(job => {
             const tr = document.createElement('tr');
             tr.className = 'hover:bg-amber-50/50 transition-colors';
             
-            const now = new Date();
             const dateObj = new Date(job.deadline);
             let ddayHtml = '';
             if (!isNaN(dateObj)) {
@@ -328,34 +461,71 @@ document.addEventListener('DOMContentLoaded', () => {
             }
 
             const formattedDate = !isNaN(dateObj) ? dateObj.toLocaleString('ko-KR', { year: 'numeric', month: 'numeric', day: 'numeric', hour: '2-digit', minute:'2-digit' }) : '미상';
-            
-            let urlHtml = job.url 
-                ? `<a href="${job.url}" target="_blank" class="inline-flex items-center px-2.5 py-1 bg-white border border-zinc-900 text-zinc-900 hover:bg-yellow-300 text-xs font-bold rounded shadow-[1px_1px_0px_#000] transition">공고 이동 ↗</a>`
-                : `<span class="text-zinc-400 text-xs">없음</span>`;
+            const currentStatus = job.status || '서류준비';
+
+            // 상태 드롭다운 셀렉트
+            let statusSelectOptions = Object.keys(STATUS_CONFIG).map(s => {
+                const selected = s === currentStatus ? 'selected' : '';
+                return `<option value="${s}" ${selected}>${STATUS_CONFIG[s].icon} ${s}</option>`;
+            }).join('');
+
+            const statusInfo = STATUS_CONFIG[currentStatus] || STATUS_CONFIG['서류준비'];
+
+            // 메모 작성 여부 뱃지
+            const hasMemo = (job.memo && job.memo.trim().length > 0);
+            const memoBtnBadge = hasMemo 
+                ? `<span class="w-2 h-2 rounded-full bg-emerald-500 inline-block mr-1"></span>` 
+                : '';
 
             tr.innerHTML = `
-                <td class="px-5 py-4 whitespace-nowrap text-sm font-extrabold text-zinc-900 flex items-center border-r border-zinc-100">
-                    <span class="inline-block w-2.5 h-2.5 rounded-full mr-2.5 border border-zinc-900" style="background-color: ${getPlatformColor(job.platform)}"></span>
+                <td class="px-4 py-3.5 whitespace-nowrap text-sm font-extrabold text-zinc-900 flex items-center border-r border-zinc-100">
+                    <span class="inline-block w-2.5 h-2.5 rounded-full mr-2 border border-zinc-900" style="background-color: ${getPlatformColor(job.platform)}"></span>
                     ${job.company}
                 </td>
-                <td class="px-5 py-4 text-sm font-bold text-zinc-700 max-w-xs truncate border-r border-zinc-100" title="${job.title}">
+                <td class="px-4 py-3.5 text-sm font-bold text-zinc-700 max-w-xs truncate border-r border-zinc-100" title="${job.title}">
                     ${job.title}
                 </td>
-                <td class="px-5 py-4 whitespace-nowrap text-xs font-bold text-zinc-600 border-r border-zinc-100">
+                <td class="px-3 py-3.5 whitespace-nowrap text-center border-r border-zinc-100">
+                    <select class="job-status-select text-xs font-black px-2 py-1 rounded-md border-2 border-zinc-900 shadow-[1px_1px_0px_#000] cursor-pointer ${statusInfo.badgeClass}" data-id="${job.id}">
+                        ${statusSelectOptions}
+                    </select>
+                </td>
+                <td class="px-4 py-3.5 whitespace-nowrap text-xs font-bold text-zinc-600 border-r border-zinc-100">
                     <div class="flex items-center">
                         ${ddayHtml}
                         <span>${formattedDate}</span>
                     </div>
                 </td>
-                <td class="px-4 py-4 whitespace-nowrap text-sm text-center border-r border-zinc-100">
-                    ${urlHtml}
+                <td class="px-3 py-3.5 whitespace-nowrap text-center border-r border-zinc-100">
+                    <button class="btn-open-detail px-2.5 py-1 bg-yellow-100 hover:bg-yellow-300 text-zinc-900 border border-zinc-900 text-xs font-black rounded-lg transition shadow-[1px_1px_0px_#000] cursor-pointer flex items-center justify-center mx-auto" data-id="${job.id}">
+                        ${memoBtnBadge}<span>메모 & 상세</span>
+                    </button>
                 </td>
-                <td class="px-4 py-4 whitespace-nowrap text-center text-sm font-medium">
+                <td class="px-3 py-3.5 whitespace-nowrap text-center text-sm font-medium">
                     <button class="btn-delete px-2.5 py-1 bg-rose-50 hover:bg-red-600 hover:text-white text-red-600 border border-red-300 hover:border-zinc-900 text-xs font-black rounded-lg transition shadow-xs cursor-pointer" data-id="${job.id}">삭제</button>
                 </td>
             `;
             
             tbody.appendChild(tr);
+        });
+
+        // 상태 드롭다운 변경 이벤트
+        document.querySelectorAll('.job-status-select').forEach(sel => {
+            sel.addEventListener('change', async (e) => {
+                const id = e.target.dataset.id;
+                const newStatus = e.target.value;
+                await Storage.updateJob(id, { status: newStatus });
+                refreshCalendar();
+                renderJobList();
+            });
+        });
+
+        // 상세 & 메모 버튼 이벤트 바인딩
+        document.querySelectorAll('.btn-open-detail').forEach(btn => {
+            btn.addEventListener('click', (e) => {
+                const id = e.currentTarget.dataset.id;
+                openJobDetailModal(id);
+            });
         });
 
         // 삭제 버튼 이벤트 바인딩
@@ -371,7 +541,136 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
-    // --- 7. 설정 및 백업 기능 ---
+    // --- 8. 공고 상세 및 메모 모달 컨트롤러 ---
+    function openJobDetailModal(jobId) {
+        const jobs = Storage.getAllJobs();
+        const job = jobs.find(j => j.id === jobId);
+        if (!job) return;
+
+        currentModalJobId = jobId;
+
+        // 기본 정보 채우기
+        modalCompany.textContent = job.company;
+        modalTitle.textContent = job.title;
+        modalPlatformBadge.textContent = job.platform;
+        modalPlatformBadge.style.borderColor = getPlatformColor(job.platform);
+
+        // 마감일 및 D-Day 계산
+        const dateObj = new Date(job.deadline);
+        const formattedDate = !isNaN(dateObj) ? dateObj.toLocaleString('ko-KR', { year: 'numeric', month: 'long', day: 'numeric', hour: '2-digit', minute:'2-digit' }) : '미상';
+        modalDeadline.textContent = formattedDate;
+
+        if (!isNaN(dateObj)) {
+            const diffDays = Math.ceil((dateObj - new Date()) / (1000 * 60 * 60 * 24));
+            if (diffDays === 0) {
+                modalDdayBadge.textContent = 'D-DAY 🔥';
+                modalDdayBadge.className = 'px-2.5 py-0.5 bg-red-600 text-white rounded-md text-xs font-black shadow-[1px_1px_0px_#000]';
+            } else if (diffDays > 0) {
+                modalDdayBadge.textContent = `D-${diffDays}`;
+                modalDdayBadge.className = 'px-2.5 py-0.5 bg-yellow-300 text-zinc-900 border border-zinc-900 rounded-md text-xs font-black shadow-[1px_1px_0px_#000]';
+            } else {
+                modalDdayBadge.textContent = '마감됨';
+                modalDdayBadge.className = 'px-2.5 py-0.5 bg-zinc-200 text-zinc-600 rounded-md text-xs font-bold';
+            }
+        }
+
+        // 공고 링크 버튼
+        if (job.url) {
+            modalUrlBtn.href = job.url;
+            modalUrlBtn.classList.remove('hidden');
+        } else {
+            modalUrlBtn.classList.add('hidden');
+        }
+
+        // 전형 상태 라디오 체크
+        const status = job.status || '서류준비';
+        const radio = document.querySelector(`input[name="modal-status"][value="${status}"]`);
+        if (radio) radio.checked = true;
+
+        // 메모장 채우기 & 글자수 계산
+        modalMemo.value = job.memo || '';
+        updateCharCount(modalMemo.value);
+
+        // 모달 열기
+        jobDetailModal.classList.add('open');
+    }
+
+    function closeJobDetailModal() {
+        jobDetailModal.classList.remove('open');
+        currentModalJobId = null;
+    }
+
+    function updateCharCount(text) {
+        if (!text) text = '';
+        const withSpace = text.length;
+        const noSpace = text.replace(/\s/g, '').length;
+        charCountWithSpace.textContent = withSpace;
+        charCountNoSpace.textContent = noSpace;
+    }
+
+    modalMemo.addEventListener('input', () => {
+        updateCharCount(modalMemo.value);
+    });
+
+    modalBtnClose.addEventListener('click', closeJobDetailModal);
+    modalBtnCancel.addEventListener('click', closeJobDetailModal);
+
+    // 모달 배경 클릭 시 닫기
+    jobDetailModal.addEventListener('click', (e) => {
+        if (e.target === jobDetailModal) {
+            closeJobDetailModal();
+        }
+    });
+
+    // ESC 키로 닫기
+    document.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape' && jobDetailModal.classList.contains('open')) {
+            closeJobDetailModal();
+        }
+    });
+
+    // 모달 저장 버튼
+    modalBtnSave.addEventListener('click', async () => {
+        if (!currentModalJobId) return;
+
+        const selectedStatusRadio = document.querySelector('input[name="modal-status"]:checked');
+        const newStatus = selectedStatusRadio ? selectedStatusRadio.value : '서류준비';
+        const newMemo = modalMemo.value;
+
+        modalBtnSave.disabled = true;
+        modalBtnSave.textContent = '저장 중...';
+
+        try {
+            await Storage.updateJob(currentModalJobId, {
+                status: newStatus,
+                memo: newMemo
+            });
+
+            closeJobDetailModal();
+            refreshCalendar();
+            renderJobList();
+            alert('메모 및 전형 상태가 클라우드에 안전하게 저장되었습니다! 💾');
+        } catch (err) {
+            console.error('메모 저장 실패:', err);
+            alert('저장에 실패했습니다.');
+        } finally {
+            modalBtnSave.disabled = false;
+            modalBtnSave.textContent = '💾 메모 및 상태 저장';
+        }
+    });
+
+    // 모달 내 삭제 버튼
+    modalBtnDelete.addEventListener('click', async () => {
+        if (!currentModalJobId) return;
+        if (confirm('정말 이 공고를 삭제하시겠습니까?')) {
+            await Storage.deleteJob(currentModalJobId);
+            closeJobDetailModal();
+            refreshCalendar();
+            renderJobList();
+        }
+    });
+
+    // --- 9. 설정 및 백업 기능 ---
     document.getElementById('btn-export').addEventListener('click', () => {
         Storage.exportData();
     });
@@ -388,6 +687,7 @@ document.addEventListener('DOMContentLoaded', () => {
             if (success) {
                 fileInput.value = '';
                 refreshCalendar();
+                renderJobList();
             }
         });
     });
@@ -403,9 +703,15 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // --- 초기 실행 ---
     initCalendar();
+    updateSummaryDashboard(Storage.getAllJobs());
+    
     // Supabase 최신 데이터 비동기 동기화
-    Storage.fetchJobs().then(() => {
+    Storage.fetchJobs().then((jobs) => {
         refreshCalendar();
+        updateSummaryDashboard(jobs);
+        if (!document.getElementById('view-list').classList.contains('hidden')) {
+            renderJobList();
+        }
     });
     
 });
