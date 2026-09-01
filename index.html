@@ -16,6 +16,9 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Pretendard:wght@400;600;700;800;900&display=swap" rel="stylesheet">
     
+    <!-- Favicon -->
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🎯</text></svg>">
+    
     <!-- Custom CSS -->
     <link rel="stylesheet" href="css/style.css">
 </head>
@@ -102,77 +105,65 @@
     </nav>
 
     <!-- 메인 컨텐츠 영역 -->
-    <main class="flex-1 overflow-y-auto bg-[#FFFDF7] p-4 md:p-6 lg:p-8 relative pb-24 md:pb-8">
+    <main class="flex-1 overflow-y-auto md:overflow-hidden bg-[#FFFDF7] p-3 md:p-4 lg:p-5 relative pb-24 md:pb-4 flex flex-col min-h-0">
         
         <!-- 1. 캘린더 뷰 -->
-        <section id="view-calendar" class="view-section h-full flex flex-col">
-            <!-- D-Day 및 전형 긴급 대시보드 위젯 -->
-            <div class="grid grid-cols-2 lg:grid-cols-4 gap-3 md:gap-4 mb-4">
-                <div class="summary-card p-3.5 flex items-center justify-between border-2 border-zinc-900 bg-white cursor-pointer" data-summary-filter="today">
-                    <div>
-                        <span class="text-[11px] font-bold text-zinc-500 block mb-0.5">오늘 마감 공고</span>
-                        <div class="flex items-baseline gap-1">
-                            <span class="text-xl md:text-2xl font-black text-red-600" id="summary-today-count">0</span>
-                            <span class="text-xs font-bold text-zinc-400">건</span>
-                        </div>
+        <section id="view-calendar" class="view-section h-full flex flex-col min-h-0">
+            <!-- D-Day 및 전형 긴급 대시보드 위젯 (컴팩트 슬림 바) -->
+            <div class="grid grid-cols-2 sm:grid-cols-4 gap-2 mb-2">
+                <div class="summary-card px-3 py-1.5 flex items-center justify-between border-2 border-zinc-900 bg-white cursor-pointer" data-summary-filter="today">
+                    <div class="flex items-center gap-1.5">
+                        <span class="text-sm">🔥</span>
+                        <span class="text-xs font-bold text-zinc-600">오늘 마감</span>
                     </div>
-                    <span class="w-10 h-10 rounded-xl bg-red-100 border border-red-300 flex items-center justify-center text-xl shadow-xs">🔥</span>
+                    <span class="text-xs font-black text-red-600 bg-red-50 border border-red-200 px-2 py-0.5 rounded-md"><span id="summary-today-count">0</span>건</span>
                 </div>
 
-                <div class="summary-card p-3.5 flex items-center justify-between border-2 border-zinc-900 bg-white cursor-pointer" data-summary-filter="imminent">
-                    <div>
-                        <span class="text-[11px] font-bold text-zinc-500 block mb-0.5">3일 이내 마감</span>
-                        <div class="flex items-baseline gap-1">
-                            <span class="text-xl md:text-2xl font-black text-amber-600" id="summary-imminent-count">0</span>
-                            <span class="text-xs font-bold text-zinc-400">건</span>
-                        </div>
+                <div class="summary-card px-3 py-1.5 flex items-center justify-between border-2 border-zinc-900 bg-white cursor-pointer" data-summary-filter="imminent">
+                    <div class="flex items-center gap-1.5">
+                        <span class="text-sm">⏰</span>
+                        <span class="text-xs font-bold text-zinc-600">3일 이내 마감</span>
                     </div>
-                    <span class="w-10 h-10 rounded-xl bg-yellow-100 border border-yellow-300 flex items-center justify-center text-xl shadow-xs">⏰</span>
+                    <span class="text-xs font-black text-amber-600 bg-yellow-50 border border-yellow-200 px-2 py-0.5 rounded-md"><span id="summary-imminent-count">0</span>건</span>
                 </div>
 
-                <div class="summary-card p-3.5 flex items-center justify-between border-2 border-zinc-900 bg-white cursor-pointer" data-summary-filter="지원완료">
-                    <div>
-                        <span class="text-[11px] font-bold text-zinc-500 block mb-0.5">지원 완료</span>
-                        <div class="flex items-baseline gap-1">
-                            <span class="text-xl md:text-2xl font-black text-blue-600" id="summary-applied-count">0</span>
-                            <span class="text-xs font-bold text-zinc-400">건</span>
-                        </div>
+                <div class="summary-card px-3 py-1.5 flex items-center justify-between border-2 border-zinc-900 bg-white cursor-pointer" data-summary-filter="지원완료">
+                    <div class="flex items-center gap-1.5">
+                        <span class="text-sm">📨</span>
+                        <span class="text-xs font-bold text-zinc-600">지원 완료</span>
                     </div>
-                    <span class="w-10 h-10 rounded-xl bg-blue-100 border border-blue-300 flex items-center justify-center text-xl shadow-xs">📨</span>
+                    <span class="text-xs font-black text-blue-600 bg-blue-50 border border-blue-200 px-2 py-0.5 rounded-md"><span id="summary-applied-count">0</span>건</span>
                 </div>
 
-                <div class="summary-card p-3.5 flex items-center justify-between border-2 border-zinc-900 bg-white cursor-pointer" data-summary-filter="합격">
-                    <div>
-                        <span class="text-[11px] font-bold text-zinc-500 block mb-0.5">서류/최종 합격</span>
-                        <div class="flex items-baseline gap-1">
-                            <span class="text-xl md:text-2xl font-black text-emerald-600" id="summary-pass-count">0</span>
-                            <span class="text-xs font-bold text-zinc-400">건</span>
-                        </div>
+                <div class="summary-card px-3 py-1.5 flex items-center justify-between border-2 border-zinc-900 bg-white cursor-pointer" data-summary-filter="합격">
+                    <div class="flex items-center gap-1.5">
+                        <span class="text-sm">🏆</span>
+                        <span class="text-xs font-bold text-zinc-600">서류/최종 합격</span>
                     </div>
-                    <span class="w-10 h-10 rounded-xl bg-emerald-100 border border-emerald-300 flex items-center justify-center text-xl shadow-xs">🏆</span>
+                    <span class="text-xs font-black text-emerald-600 bg-emerald-50 border border-emerald-200 px-2 py-0.5 rounded-md"><span id="summary-pass-count">0</span>건</span>
                 </div>
             </div>
 
-            <div class="flex items-center justify-between mb-3">
+            <div class="flex items-center justify-between mb-1.5">
                 <div class="flex items-center gap-2">
-                    <h2 class="text-xl md:text-2xl font-black text-zinc-900 tracking-tight">취업 일정 캘린더</h2>
-                    <span class="hidden sm:inline-block px-2.5 py-0.5 bg-yellow-300 text-zinc-900 border border-zinc-900 text-xs font-black rounded-md shadow-[1px_1px_0px_#000]">
+                    <h2 class="text-sm md:text-base font-black text-zinc-900 tracking-tight">취업 일정 캘린더</h2>
+                    <span class="hidden sm:inline-block px-2 py-0.5 bg-yellow-300 text-zinc-900 border border-zinc-900 text-[10px] font-black rounded shadow-[1px_1px_0px_#000]">
                         마감일 기준
                     </span>
                 </div>
                 <!-- 플랫폼 범례 (Legend) -->
                 <div class="flex items-center gap-2 text-xs font-bold">
-                    <span class="flex items-center gap-1"><span class="w-2.5 h-2.5 rounded-full bg-blue-600 border border-zinc-900"></span>잡코리아</span>
-                    <span class="flex items-center gap-1"><span class="w-2.5 h-2.5 rounded-full bg-orange-500 border border-zinc-900"></span>사람인</span>
-                    <span class="flex items-center gap-1"><span class="w-2.5 h-2.5 rounded-full bg-sky-500 border border-zinc-900"></span>링커리어</span>
+                    <span class="flex items-center gap-1 text-[11px]"><span class="w-2 h-2 rounded-full bg-blue-600 border border-zinc-900"></span>잡코리아</span>
+                    <span class="flex items-center gap-1 text-[11px]"><span class="w-2 h-2 rounded-full bg-orange-500 border border-zinc-900"></span>사람인</span>
+                    <span class="flex items-center gap-1 text-[11px]"><span class="w-2 h-2 rounded-full bg-sky-500 border border-zinc-900"></span>링커리어</span>
                 </div>
             </div>
             
-            <div id="calendar" class="flex-1 bg-white p-4 md:p-6 rounded-2xl comic-box overflow-hidden"></div>
+            <div id="calendar" class="flex-1 bg-white p-2 md:p-3 rounded-2xl comic-box overflow-hidden min-h-0"></div>
         </section>
 
         <!-- 2. 공고 리스트 뷰 -->
-        <section id="view-list" class="view-section hidden h-full flex flex-col">
+        <section id="view-list" class="view-section hidden h-full flex flex-col min-h-0">
             <div class="flex justify-between items-center mb-3">
                 <h2 class="text-xl md:text-2xl font-black text-zinc-900 tracking-tight">등록된 공고 리스트</h2>
                 <button class="btn-go-add px-3 py-1.5 bg-red-600 hover:bg-red-700 text-white font-extrabold text-xs rounded-lg comic-btn flex items-center gap-1 cursor-pointer" data-target="view-add">
